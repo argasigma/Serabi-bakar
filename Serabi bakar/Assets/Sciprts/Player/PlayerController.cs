@@ -6,7 +6,8 @@ public class PlayerController : MonoBehaviour
     public GameObject bulletPrefab;
     public Transform bulletSpawnPoint;
     [SerializeField] private PlayerData playerData;
-
+    public float shootCooldown = 0.2f;
+    private float nextShootTime = 0f;
     private float currentHP;
     private float speed;
     private PlayerInput playerInput;
@@ -14,6 +15,8 @@ public class PlayerController : MonoBehaviour
     private float attackInput;
     private float previousAttackInput;
     private Rigidbody2D rb;
+    public int maxBullet = 3;
+    private int currentBullet = 0;
 
     void Start()
     {
@@ -45,9 +48,13 @@ public class PlayerController : MonoBehaviour
 
             attackInput = playerInput.actions["attack"].ReadValue<float>();
 
-            if (previousAttackInput == 0 && attackInput > 0)
+           if (previousAttackInput == 0 && attackInput > 0)
             {
-                Shoot();
+                if (Time.time >= nextShootTime)
+                {
+                    Shoot();
+                    nextShootTime = Time.time + shootCooldown;
+                }
             }
 
             previousAttackInput = attackInput;
@@ -69,30 +76,33 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
+        // BATAS 3 PELURU
+        if (currentBullet >= maxBullet)
+        {
+            Debug.Log("Max bullet reached!");
+            return;
+        }
+
         Vector3 spawnPos = bulletSpawnPoint != null ? bulletSpawnPoint.position : transform.position;
 
-        Vector3 mouseScreenPos = Input.mousePosition;
-        mouseScreenPos.z = Mathf.Abs(Camera.main.transform.position.z);
-        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(mouseScreenPos);
-        mouseWorldPos.z = 0;
+        GameObject bulletObj = Instantiate(bulletPrefab, spawnPos, Quaternion.identity);
 
-        Vector3 shootDirection = (mouseWorldPos - spawnPos).normalized;
+        Bullet bullet = bulletObj.GetComponent<Bullet>();
+      if (bullet != null)
+{
+    bullet.SetDirectionToCursor();
 
-        GameObject bulletObj = PooledObjects.Instance.GetPooledObject();
-
-        if (bulletObj != null)
-        {
-            bulletObj.transform.position = spawnPos;
-            bulletObj.transform.rotation = Quaternion.identity;
-            bulletObj.SetActive(true);
-
-            Bullet bullet = bulletObj.GetComponent<Bullet>();
-            if (bullet != null)
-            {
-                bullet.SetDirection(shootDirection);
-            }
-        }
+    bullet.SetOwner(this); // TAMBAH INI
+    currentBullet++;
+}
     }
+
+public void OnBulletDestroyed()
+{
+    currentBullet--;
+    if (currentBullet < 0)
+        currentBullet = 0;
+}
 
     void OnCollisionStay2D(Collision2D collision)
     {

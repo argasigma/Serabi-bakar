@@ -4,55 +4,59 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public float speed = 10f;
-    private Rigidbody2D rb;
-    private Vector3 direction;
+    public float lifeTime = 5f;
 
-    void OnEnable()
+    private Rigidbody2D rb;
+    private Vector2 direction;
+    private PlayerController owner;
+
+    public void SetOwner(PlayerController player)
     {
-        StartCoroutine(DeactivateRoutine());
+        owner = player;
     }
 
-    IEnumerator DeactivateRoutine()
-{
-    yield return new WaitForSeconds(5f);
-    // Kembalikan peluru ke kolam dengan menonaktifkannya
-    gameObject.SetActive(false); 
-}
-
+    void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        Debug.Log($"Bullet spawned with speed: {speed}, direction: {direction}");
-        // Destroy bullet after 5 seconds if it hasn't been destroyed already
-        // Destroy(gameObject, 5f);
+        StartCoroutine(AutoDestroy());
     }
 
     void Update()
     {
         if (rb != null)
         {
-            // Move using Rigidbody2D
             rb.linearVelocity = direction * speed;
         }
         else
         {
-            // Fallback to manual movement if no Rigidbody2D
-            transform.position += direction * speed * Time.deltaTime;
+            transform.position += (Vector3)(direction * speed * Time.deltaTime);
         }
     }
 
-    public void SetDirection(Vector3 newDirection)
+    // dipanggil dari script shooter
+    public void SetDirectionToCursor()
     {
-        direction = newDirection.normalized;
-        Debug.Log($"Bullet SetDirection called with: {newDirection}, normalized: {direction}");
+        Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mousePos.z = 0f;
+
+        direction = (mousePos - transform.position).normalized;
+    }
+
+    IEnumerator AutoDestroy()
+    {
+        yield return new WaitForSeconds(lifeTime);
+
+        owner?.OnBulletDestroyed();
+        Destroy(gameObject);
     }
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        // Destroy bullet on collision
-        Debug.Log("Bullet hit: " + collision.gameObject.name);
-        // Destroy(gameObject);
-        gameObject.SetActive(false);
+        owner?.OnBulletDestroyed();
+        Destroy(gameObject);
     }
 }
