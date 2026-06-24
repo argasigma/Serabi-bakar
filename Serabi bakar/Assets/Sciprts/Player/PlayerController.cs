@@ -17,6 +17,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     public int maxBullet = 3;
     private int currentBullet = 0;
+    private bool canShoot = false;
 
     void Start()
     {
@@ -48,16 +49,20 @@ public class PlayerController : MonoBehaviour
 
             attackInput = playerInput.actions["attack"].ReadValue<float>();
 
-           if (previousAttackInput == 0 && attackInput > 0)
-            {
-                if (Time.time >= nextShootTime)
-                {
-                    Shoot();
-                    nextShootTime = Time.time + shootCooldown;
-                }
+           bool aiming = Keyboard.current.digit1Key.isPressed;
+
+           if (aiming && previousAttackInput == 0 && attackInput > 0)
+        {
+                Shoot();
             }
 
             previousAttackInput = attackInput;
+        }
+
+        if (Keyboard.current.digit1Key.wasPressedThisFrame)
+        {
+            canShoot = true;
+            Debug.Log("Shooting mode ON");
         }
     }
 
