@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: af3a046887b823d47b5c1dda446174ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6202676910827362390
+    second: Fire - Ice - Water Decoration_0
+  - first:
+      213: 3041359785445358165
+    second: Fire - Ice - Water Decoration_1
+  - first:
+      213: -3204778301728150987
+    second: Fire - Ice - Water Decoration_2
+  - first:
+      213: 7380665730432061211
+    second: Fire - Ice - Water Decoration_3
+  - first:
+      213: -8058209535894690393
+    second: Fire - Ice - Water Decoration_4
+  - first:
+      213: -3603958314838176631
+    second: Fire - Ice - Water Decoration_5
+  - first:
+      213: 7749643675038284964
+    second: Fire - Ice - Water Decoration_6
+  - first:
+      213: 6124008600517738347
+    second: Fire - Ice - Water Decoration_7
+  - first:
+      213: 4157421060337886557
+    second: Fire - Ice - Water Decoration_8
+  - first:
+      213: 4853326592439261551
+    second: Fire - Ice - Water Decoration_9
+  - first:
+      213: -4641801309330635965
+    second: Fire - Ice - Water Decoration_10
+  - first:
+      213: 8493975087866234889
+    second: Fire - Ice - Water Decoration_11
+  - first:
+      213: 2573495097766957286
+    second: Fire - Ice - Water Decoration_12
+  - first:
+      213: 687555850031568178
+    second: Fire - Ice - Water Decoration_13
+  - first:
+      213: -2714800150497490586
+    second: Fire - Ice - Water Decoration_14
+  - first:
+      213: -2987070055005833033
+    second: Fire - Ice - Water Decoration_15
+  - first:
+      213: 6804669899660958792
+    second: Fire - Ice - Water Decoration_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d16689c5541650800000000000000
+      internalID: 6202676910827362390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 221
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55af0ad6c94153a20800000000000000
+      internalID: 3041359785445358165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a2d9d3d175683d0800000000000000
+      internalID: -3204778301728150987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 189
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f4d4c90646d6660800000000000000
+      internalID: 7380665730432061211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 191
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5e45f0f1d7b2090800000000000000
+      internalID: -8058209535894690393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c41cad10b2cfdc0800000000000000
+      internalID: -3603958314838176631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 137
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac7282fcd34c8b60800000000000000
+      internalID: 7749643675038284964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ffb433069dcf450800000000000000
+      internalID: 6124008600517738347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 95
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ea2b6d6022b930800000000000000
+      internalID: 4157421060337886557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 116
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f699c4162da7a5340800000000000000
+      internalID: 4853326592439261551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 105
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343876f6d42059fb0800000000000000
+      internalID: -4641801309330635965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 106
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908c843e659a0e570800000000000000
+      internalID: 8493975087866234889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0db9d0824e6b320800000000000000
+      internalID: 2573495097766957286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359f5c1760ba8900800000000000000
+      internalID: 687555850031568178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 38
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698b6195a7135ad0800000000000000
+      internalID: -2714800150497490586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 39
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8bb247c9bcb86d0800000000000000
+      internalID: -2987070055005833033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Ice - Water Decoration_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9517983b0f6e50800000000000000
+      internalID: 6804669899660958792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 649a66b7894b8dd48a17f8378c6e9c2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire - Ice - Water Decoration_0: 6202676910827362390
+      Fire - Ice - Water Decoration_1: 3041359785445358165
+      Fire - Ice - Water Decoration_10: -4641801309330635965
+      Fire - Ice - Water Decoration_11: 8493975087866234889
+      Fire - Ice - Water Decoration_12: 2573495097766957286
+      Fire - Ice - Water Decoration_13: 687555850031568178
+      Fire - Ice - Water Decoration_14: -2714800150497490586
+      Fire - Ice - Water Decoration_15: -2987070055005833033
+      Fire - Ice - Water Decoration_16: 6804669899660958792
+      Fire - Ice - Water Decoration_2: -3204778301728150987
+      Fire - Ice - Water Decoration_3: 7380665730432061211
+      Fire - Ice - Water Decoration_4: -8058209535894690393
+      Fire - Ice - Water Decoration_5: -3603958314838176631
+      Fire - Ice - Water Decoration_6: 7749643675038284964
+      Fire - Ice - Water Decoration_7: 6124008600517738347
+      Fire - Ice - Water Decoration_8: 4157421060337886557
+      Fire - Ice - Water Decoration_9: 4853326592439261551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
