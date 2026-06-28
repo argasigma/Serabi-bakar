@@ -3,17 +3,18 @@ using UnityEngine.UI;
 
 public class heartscript : MonoBehaviour
 {
-    public Image[] hearts;      
+    public Image[] hearts;
 
     public Sprite fullHeart;
     public Sprite halfHeart;
     public Sprite emptyHeart;
 
-    public int maxHealth = 100;
-    public int currentHealth = 100;
+    [SerializeField] private PlayerData playerData;
+    public float currentHealth;
 
     public void Start()
     {
+        currentHealth = playerData.maxHP;
         UpdateHearts();
     }
 
@@ -21,7 +22,7 @@ public class heartscript : MonoBehaviour
     {
         for (int i = 0; i < hearts.Length; i++)
         {
-            int heartValue = currentHealth - (i * 20);
+            float heartValue = currentHealth - (i * 20);
 
             if (heartValue >= 20)
             {
@@ -39,18 +40,18 @@ public class heartscript : MonoBehaviour
         Debug.Log("Current Health : " + currentHealth);
     }
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(float damage)
     {
         currentHealth -= damage;
-        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        currentHealth = Mathf.Clamp(currentHealth, 0, playerData.maxHP);
 
         UpdateHearts();
     }
 
-    public void Heal(int amount)
+    public void Heal(float amount)
     {
         currentHealth += amount;
-        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        currentHealth = Mathf.Clamp(currentHealth, 0, playerData.maxHP);
 
         UpdateHearts();
     }
