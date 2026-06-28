@@ -40,6 +40,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+
         if (GameManager.Instance != null && GameManager.Instance.currentState != GameState.Playing)
             return;
 
@@ -47,12 +48,12 @@ public class PlayerController : MonoBehaviour
         {
             moveInput = playerInput.actions["Move"].ReadValue<Vector2>();
 
-            attackInput = playerInput.actions["attack"].ReadValue<float>();
+            attackInput = playerInput.actions["Attack"].ReadValue<float>();
 
-           bool aiming = Keyboard.current.digit1Key.isPressed;
+            bool aiming = Keyboard.current.digit1Key.isPressed;
 
-           if (aiming && previousAttackInput == 0 && attackInput > 0)
-        {
+            if (aiming && previousAttackInput == 0 && attackInput > 0)
+            {
                 Shoot();
             }
 
@@ -93,21 +94,22 @@ public class PlayerController : MonoBehaviour
         GameObject bulletObj = Instantiate(bulletPrefab, spawnPos, Quaternion.identity);
 
         Bullet bullet = bulletObj.GetComponent<Bullet>();
-      if (bullet != null)
-{
-    bullet.SetDirectionToCursor();
+        
+        if (bullet != null)
+        {
+            bullet.SetDirectionToCursor();
 
-    bullet.SetOwner(this); // TAMBAH INI
-    currentBullet++;
-}
+            bullet.SetOwner(this);
+            currentBullet++;
+        }
     }
 
-public void OnBulletDestroyed()
-{
-    currentBullet--;
-    if (currentBullet < 0)
-        currentBullet = 0;
-}
+    public void OnBulletDestroyed()
+    {
+        currentBullet--;
+        if (currentBullet < 0)
+            currentBullet = 0;
+    }
 
     void OnCollisionStay2D(Collision2D collision)
     {
