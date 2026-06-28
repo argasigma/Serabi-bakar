@@ -49,7 +49,6 @@ public class PlayerController : MonoBehaviour
             moveInput = playerInput.actions["Move"].ReadValue<Vector2>();
 
             attackInput = playerInput.actions["Attack"].ReadValue<float>();
-            Debug.Log("Attack: " + attackInput);
 
             bool aiming = Keyboard.current.digit1Key.isPressed;
 
@@ -100,7 +99,7 @@ public class PlayerController : MonoBehaviour
         {
             bullet.SetDirectionToCursor();
 
-            bullet.SetOwner(this); // TAMBAH INI
+            bullet.SetOwner(this);
             currentBullet++;
         }
     }
