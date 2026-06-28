@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: f39bf68c8304bcf409281c2d3a88aec4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6795633163259137784
+    second: Walking - 8 Direction-Sheet_0
+  - first:
+      213: 6749707084488475875
+    second: Walking - 8 Direction-Sheet_1
+  - first:
+      213: 7224658689639156853
+    second: Walking - 8 Direction-Sheet_2
+  - first:
+      213: -3635887887389807261
+    second: Walking - 8 Direction-Sheet_3
+  - first:
+      213: -1320809827991677913
+    second: Walking - 8 Direction-Sheet_4
+  - first:
+      213: 6445497545585223990
+    second: Walking - 8 Direction-Sheet_5
+  - first:
+      213: 6494738929127928983
+    second: Walking - 8 Direction-Sheet_6
+  - first:
+      213: 1772572878742943505
+    second: Walking - 8 Direction-Sheet_7
+  - first:
+      213: 4736843809758259245
+    second: Walking - 8 Direction-Sheet_8
+  - first:
+      213: 8934291056009666988
+    second: Walking - 8 Direction-Sheet_9
+  - first:
+      213: 1776863414926066493
+    second: Walking - 8 Direction-Sheet_10
+  - first:
+      213: 8105370551955798276
+    second: Walking - 8 Direction-Sheet_11
+  - first:
+      213: -1386793942903781063
+    second: Walking - 8 Direction-Sheet_12
+  - first:
+      213: -2375952039173396771
+    second: Walking - 8 Direction-Sheet_13
+  - first:
+      213: -6447390537744168458
+    second: Walking - 8 Direction-Sheet_14
+  - first:
+      213: 5915083809847744660
+    second: Walking - 8 Direction-Sheet_15
+  - first:
+      213: 3256194459537673403
+    second: Walking - 8 Direction-Sheet_16
+  - first:
+      213: -3774676701742038983
+    second: Walking - 8 Direction-Sheet_17
+  - first:
+      213: 5051732571385917139
+    second: Walking - 8 Direction-Sheet_18
+  - first:
+      213: 7078843092514744528
+    second: Walking - 8 Direction-Sheet_19
+  - first:
+      213: 1311475433819739515
+    second: Walking - 8 Direction-Sheet_20
+  - first:
+      213: -2180005318530499457
+    second: Walking - 8 Direction-Sheet_21
+  - first:
+      213: -3332993572832172860
+    second: Walking - 8 Direction-Sheet_22
+  - first:
+      213: -4972142945908530017
+    second: Walking - 8 Direction-Sheet_23
+  - first:
+      213: -4742838707851886234
+    second: Walking - 8 Direction-Sheet_24
+  - first:
+      213: 6766561280744627344
+    second: Walking - 8 Direction-Sheet_25
+  - first:
+      213: 987861051384571965
+    second: Walking - 8 Direction-Sheet_26
+  - first:
+      213: -3485105463179873367
+    second: Walking - 8 Direction-Sheet_27
+  - first:
+      213: 3981205077518511494
+    second: Walking - 8 Direction-Sheet_28
+  - first:
+      213: -4423869669159054461
+    second: Walking - 8 Direction-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 136
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feccef6b50fe4e50800000000000000
+      internalID: 6795633163259137784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 136
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e48fd4f4d6cbad50800000000000000
+      internalID: 6749707084488475875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c8163ecc4234460800000000000000
+      internalID: 7224658689639156853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 136
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2cfcea3bba8dc0800000000000000
+      internalID: -3635887887389807261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 136
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72416ba957a8bade0800000000000000
+      internalID: -1320809827991677913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 136
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63962453ed1037950800000000000000
+      internalID: 6445497545585223990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794329b35a2f12a50800000000000000
+      internalID: 6494738929127928983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 104
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f6f744a1799810800000000000000
+      internalID: 1772572878742943505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 104
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28262d1956acb140800000000000000
+      internalID: 4736843809758259245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 104
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1e769216afcfb70800000000000000
+      internalID: 8934291056009666988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 104
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d334e059cdfa8a810800000000000000
+      internalID: 1776863414926066493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 104
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409bc3aa29f0c7070800000000000000
+      internalID: 8105370551955798276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9398e88a14e11cce0800000000000000
+      internalID: -1386793942903781063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 72
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd664bd653ce60fd0800000000000000
+      internalID: -2375952039173396771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 72
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f94b8537744686a0800000000000000
+      internalID: -6447390537744168458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 72
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49893a6b269961250800000000000000
+      internalID: 5915083809847744660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 72
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc8650eb93503d20800000000000000
+      internalID: 3256194459537673403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 72
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93009b2f987ad9bc0800000000000000
+      internalID: -3774676701742038983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de6ab9220c5b1640800000000000000
+      internalID: 5051732571385917139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8a11e894a1d3260800000000000000
+      internalID: 7078843092514744528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751a7465fb433210800000000000000
+      internalID: 1311475433819739515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf68486b01fb1e0800000000000000
+      internalID: -2180005318530499457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ada42104deb1d0800000000000000
+      internalID: -3332993572832172860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 40
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9468a095566ffab0800000000000000
+      internalID: -4972142945908530017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610487e25d0e2eb0800000000000000
+      internalID: -4742838707851886234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 8
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c12b152a7a7ed50800000000000000
+      internalID: 6766561280744627344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38a83f646695bd00800000000000000
+      internalID: 987861051384571965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3f36ecb0b62afc0800000000000000
+      internalID: -3485105463179873367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68de877bce4104730800000000000000
+      internalID: 3981205077518511494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking - 8 Direction-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 8
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383562d79f14b92c0800000000000000
+      internalID: -4423869669159054461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 83611a5e20a9c9f44881506eda1145fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Walking - 8 Direction-Sheet_0: 6795633163259137784
+      Walking - 8 Direction-Sheet_1: 6749707084488475875
+      Walking - 8 Direction-Sheet_10: 1776863414926066493
+      Walking - 8 Direction-Sheet_11: 8105370551955798276
+      Walking - 8 Direction-Sheet_12: -1386793942903781063
+      Walking - 8 Direction-Sheet_13: -2375952039173396771
+      Walking - 8 Direction-Sheet_14: -6447390537744168458
+      Walking - 8 Direction-Sheet_15: 5915083809847744660
+      Walking - 8 Direction-Sheet_16: 3256194459537673403
+      Walking - 8 Direction-Sheet_17: -3774676701742038983
+      Walking - 8 Direction-Sheet_18: 5051732571385917139
+      Walking - 8 Direction-Sheet_19: 7078843092514744528
+      Walking - 8 Direction-Sheet_2: 7224658689639156853
+      Walking - 8 Direction-Sheet_20: 1311475433819739515
+      Walking - 8 Direction-Sheet_21: -2180005318530499457
+      Walking - 8 Direction-Sheet_22: -3332993572832172860
+      Walking - 8 Direction-Sheet_23: -4972142945908530017
+      Walking - 8 Direction-Sheet_24: -4742838707851886234
+      Walking - 8 Direction-Sheet_25: 6766561280744627344
+      Walking - 8 Direction-Sheet_26: 987861051384571965
+      Walking - 8 Direction-Sheet_27: -3485105463179873367
+      Walking - 8 Direction-Sheet_28: 3981205077518511494
+      Walking - 8 Direction-Sheet_29: -4423869669159054461
+      Walking - 8 Direction-Sheet_3: -3635887887389807261
+      Walking - 8 Direction-Sheet_4: -1320809827991677913
+      Walking - 8 Direction-Sheet_5: 6445497545585223990
+      Walking - 8 Direction-Sheet_6: 6494738929127928983
+      Walking - 8 Direction-Sheet_7: 1772572878742943505
+      Walking - 8 Direction-Sheet_8: 4736843809758259245
+      Walking - 8 Direction-Sheet_9: 8934291056009666988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

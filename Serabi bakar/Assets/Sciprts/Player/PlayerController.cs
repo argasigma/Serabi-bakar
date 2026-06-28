@@ -1,15 +1,19 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
+
     public GameObject bulletPrefab;
     public Transform bulletSpawnPoint;
     [SerializeField] private PlayerData playerData;
-    public float shootCooldown = 0.2f;
-    private float nextShootTime = 0f;
     private float currentHP;
     private float speed;
+    private float originalSpeed;
+    private bool isAttacking;
     private PlayerInput playerInput;
     private Vector2 moveInput;
     private float attackInput;
@@ -21,6 +25,9 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        // Get components
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         playerInput = GetComponent<PlayerInput>();
         rb = GetComponent<Rigidbody2D>();
 
@@ -36,6 +43,7 @@ public class PlayerController : MonoBehaviour
 
         currentHP = playerData.maxHP;
         speed = playerData.moveSpeed;
+        originalSpeed = speed;
     }
 
     void Update()
@@ -47,6 +55,22 @@ public class PlayerController : MonoBehaviour
         if (playerInput != null)
         {
             moveInput = playerInput.actions["Move"].ReadValue<Vector2>();
+
+            animator.SetFloat("Speed", moveInput.magnitude);
+
+            if (moveInput != Vector2.zero)
+            {
+                animator.SetFloat("MoveX", moveInput.x);
+                animator.SetFloat("MoveY", moveInput.y);
+
+                animator.SetFloat("LastX", moveInput.x);
+                animator.SetFloat("LastY", moveInput.y);
+            }
+
+            if (moveInput.x < 0)
+                spriteRenderer.flipX = true;
+            else if (moveInput.x > 0)
+                spriteRenderer.flipX = false;
 
             attackInput = playerInput.actions["Attack"].ReadValue<float>();
 
@@ -74,6 +98,33 @@ public class PlayerController : MonoBehaviour
 
     void Shoot()
     {
+        if (isAttacking) return;
+
+        StartCoroutine(AttackRoutine());
+    }
+
+    IEnumerator AttackRoutine()
+    {
+        isAttacking = true;
+
+        animator.SetTrigger("Attack");
+
+        speed = originalSpeed * 0.2f; // jalan 20% dari speed normal
+
+        // Tunggu sampai animasi selesai
+        yield return new WaitForSeconds(
+            animator.GetCurrentAnimatorStateInfo(0).length
+        );
+
+        speed = originalSpeed;
+
+        SpawnBullet();
+
+        isAttacking = false;
+    }
+
+    void SpawnBullet()
+    {
         Debug.Log("Player is shooting!");
 
         if (bulletPrefab == null)
@@ -89,16 +140,17 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
-        Vector3 spawnPos = bulletSpawnPoint != null ? bulletSpawnPoint.position : transform.position;
+        Vector3 spawnPos = bulletSpawnPoint != null
+            ? bulletSpawnPoint.position
+            : transform.position;
 
         GameObject bulletObj = Instantiate(bulletPrefab, spawnPos, Quaternion.identity);
 
         Bullet bullet = bulletObj.GetComponent<Bullet>();
-        
+
         if (bullet != null)
         {
             bullet.SetDirectionToCursor();
-
             bullet.SetOwner(this);
             currentBullet++;
         }
