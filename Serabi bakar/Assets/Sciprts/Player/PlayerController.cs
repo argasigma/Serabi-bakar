@@ -6,22 +6,29 @@ public class PlayerController : MonoBehaviour
 {
     private Animator animator;
     private SpriteRenderer spriteRenderer;
-
     public GameObject bulletPrefab;
     public Transform bulletSpawnPoint;
     [SerializeField] private PlayerData playerData;
+
     private float currentHP;
     private float speed;
     private float originalSpeed;
     private bool isAttacking;
+
     private PlayerInput playerInput;
     private Vector2 moveInput;
+    private Rigidbody2D rb;
+
     private float attackInput;
     private float previousAttackInput;
-    private Rigidbody2D rb;
-    public int maxBullet = 3;
-    private int currentBullet = 0;
-    private bool canShoot = false;
+
+    // Reload systems
+    [SerializeField] private int maxBullet = 4;
+    [SerializeField] private float reloadTime = 5f;
+    private int bulletFired = 0;
+    private bool isReloading = false;
+    
+    private float attackDuration = 1f;
 
     void Start()
     {
@@ -83,12 +90,6 @@ public class PlayerController : MonoBehaviour
 
             previousAttackInput = attackInput;
         }
-
-        if (Keyboard.current.digit1Key.wasPressedThisFrame)
-        {
-            canShoot = true;
-            Debug.Log("Shooting mode ON");
-        }
     }
 
     void FixedUpdate()
@@ -98,7 +99,7 @@ public class PlayerController : MonoBehaviour
 
     void Shoot()
     {
-        if (isAttacking) return;
+        if (isAttacking || isReloading) return;
 
         StartCoroutine(AttackRoutine());
     }
@@ -106,15 +107,12 @@ public class PlayerController : MonoBehaviour
     IEnumerator AttackRoutine()
     {
         isAttacking = true;
+        speed = originalSpeed * 0.1f; // 10% dari speed normal
 
         animator.SetTrigger("Attack");
 
-        speed = originalSpeed * 0.2f; // jalan 20% dari speed normal
-
         // Tunggu sampai animasi selesai
-        yield return new WaitForSeconds(
-            animator.GetCurrentAnimatorStateInfo(0).length
-        );
+        yield return new WaitForSeconds(attackDuration);
 
         speed = originalSpeed;
 
@@ -123,20 +121,25 @@ public class PlayerController : MonoBehaviour
         isAttacking = false;
     }
 
+    IEnumerator ReloadRoutine()
+    {
+        isReloading = true;
+
+        Debug.Log("Reloading...");
+
+        yield return new WaitForSeconds(reloadTime);
+
+        bulletFired = 0;
+        isReloading = false;
+
+        Debug.Log("Reload Done!");
+    }
+
     void SpawnBullet()
     {
-        Debug.Log("Player is shooting!");
-
         if (bulletPrefab == null)
         {
             Debug.LogWarning("Bullet prefab not assigned!");
-            return;
-        }
-
-        // BATAS 3 PELURU
-        if (currentBullet >= maxBullet)
-        {
-            Debug.Log("Max bullet reached!");
             return;
         }
 
@@ -152,15 +155,14 @@ public class PlayerController : MonoBehaviour
         {
             bullet.SetDirectionToCursor();
             bullet.SetOwner(this);
-            currentBullet++;
         }
-    }
 
-    public void OnBulletDestroyed()
-    {
-        currentBullet--;
-        if (currentBullet < 0)
-            currentBullet = 0;
+        bulletFired++;
+
+        if (bulletFired >= maxBullet)
+        {
+            StartCoroutine(ReloadRoutine());
+        }
     }
 
     void OnCollisionStay2D(Collision2D collision)
