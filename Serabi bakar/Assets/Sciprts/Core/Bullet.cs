@@ -53,13 +53,11 @@ public class Bullet : MonoBehaviour
     {
         yield return new WaitForSeconds(lifeTime);
 
-        owner?.OnBulletDestroyed();
         Destroy(gameObject);
     }
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        owner?.OnBulletDestroyed();
         Destroy(gameObject);
     }
 }
