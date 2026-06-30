@@ -1,0 +1,6045 @@
+fileFormatVersion: 2
+guid: 44e9746704ec0ce4c99f37def6dfffb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5939780691368506122
+    second: Fire - Portal-Sheet_0
+  - first:
+      213: -1879398027439288432
+    second: Fire - Portal-Sheet_1
+  - first:
+      213: -2373386869750754696
+    second: Fire - Portal-Sheet_2
+  - first:
+      213: 841683208017554901
+    second: Fire - Portal-Sheet_3
+  - first:
+      213: -2962830111633732158
+    second: Fire - Portal-Sheet_4
+  - first:
+      213: -5749355286061554180
+    second: Fire - Portal-Sheet_5
+  - first:
+      213: 6422831843464172858
+    second: Fire - Portal-Sheet_6
+  - first:
+      213: -978396929602946136
+    second: Fire - Portal-Sheet_7
+  - first:
+      213: 2712643895176160233
+    second: Fire - Portal-Sheet_8
+  - first:
+      213: -3598113982404320534
+    second: Fire - Portal-Sheet_9
+  - first:
+      213: -7903531171995082019
+    second: Fire - Portal-Sheet_10
+  - first:
+      213: 946452698446003488
+    second: Fire - Portal-Sheet_11
+  - first:
+      213: 750775189663410857
+    second: Fire - Portal-Sheet_12
+  - first:
+      213: 5906419259005231458
+    second: Fire - Portal-Sheet_13
+  - first:
+      213: 7672049812481832258
+    second: Fire - Portal-Sheet_14
+  - first:
+      213: 8373264619821369895
+    second: Fire - Portal-Sheet_15
+  - first:
+      213: -6399882403958153639
+    second: Fire - Portal-Sheet_16
+  - first:
+      213: -9158940281802085642
+    second: Fire - Portal-Sheet_17
+  - first:
+      213: 1901035268451135730
+    second: Fire - Portal-Sheet_18
+  - first:
+      213: 1696724191900579230
+    second: Fire - Portal-Sheet_19
+  - first:
+      213: 3204487527156733587
+    second: Fire - Portal-Sheet_20
+  - first:
+      213: -7299093860344767188
+    second: Fire - Portal-Sheet_21
+  - first:
+      213: 1174715690166632378
+    second: Fire - Portal-Sheet_22
+  - first:
+      213: -2596177551590360248
+    second: Fire - Portal-Sheet_23
+  - first:
+      213: 6489015241178504729
+    second: Fire - Portal-Sheet_24
+  - first:
+      213: -6420335186129274659
+    second: Fire - Portal-Sheet_25
+  - first:
+      213: -6174970295407479751
+    second: Fire - Portal-Sheet_26
+  - first:
+      213: -6621099315211206844
+    second: Fire - Portal-Sheet_27
+  - first:
+      213: 8073624956404557328
+    second: Fire - Portal-Sheet_28
+  - first:
+      213: 552279184156371224
+    second: Fire - Portal-Sheet_29
+  - first:
+      213: 5860228596095858037
+    second: Fire - Portal-Sheet_30
+  - first:
+      213: 2546968761623689781
+    second: Fire - Portal-Sheet_31
+  - first:
+      213: 5579774031070015584
+    second: Fire - Portal-Sheet_32
+  - first:
+      213: -3028809260927261780
+    second: Fire - Portal-Sheet_33
+  - first:
+      213: -7472557613819037779
+    second: Fire - Portal-Sheet_34
+  - first:
+      213: 7665717105201206522
+    second: Fire - Portal-Sheet_35
+  - first:
+      213: -355031988100320222
+    second: Fire - Portal-Sheet_36
+  - first:
+      213: -5158220128214080789
+    second: Fire - Portal-Sheet_37
+  - first:
+      213: 5750042444982197015
+    second: Fire - Portal-Sheet_38
+  - first:
+      213: -4392057379111317918
+    second: Fire - Portal-Sheet_39
+  - first:
+      213: 5775593501755363528
+    second: Fire - Portal-Sheet_40
+  - first:
+      213: -2393671277130346388
+    second: Fire - Portal-Sheet_41
+  - first:
+      213: -542707562730008828
+    second: Fire - Portal-Sheet_42
+  - first:
+      213: 1245376928157100901
+    second: Fire - Portal-Sheet_43
+  - first:
+      213: -9039967851361424331
+    second: Fire - Portal-Sheet_44
+  - first:
+      213: -871042820992889951
+    second: Fire - Portal-Sheet_45
+  - first:
+      213: -6679118392091871555
+    second: Fire - Portal-Sheet_46
+  - first:
+      213: 4661030751045316106
+    second: Fire - Portal-Sheet_47
+  - first:
+      213: 5706341654290892373
+    second: Fire - Portal-Sheet_48
+  - first:
+      213: -4276232062096909449
+    second: Fire - Portal-Sheet_49
+  - first:
+      213: 3326546854876298543
+    second: Fire - Portal-Sheet_50
+  - first:
+      213: -637407318673084865
+    second: Fire - Portal-Sheet_51
+  - first:
+      213: -6750629010853807682
+    second: Fire - Portal-Sheet_52
+  - first:
+      213: -4036506541713714328
+    second: Fire - Portal-Sheet_53
+  - first:
+      213: 6924411227568095669
+    second: Fire - Portal-Sheet_54
+  - first:
+      213: -315464691361999492
+    second: Fire - Portal-Sheet_55
+  - first:
+      213: -1935383688414617575
+    second: Fire - Portal-Sheet_56
+  - first:
+      213: -1928167267380700169
+    second: Fire - Portal-Sheet_57
+  - first:
+      213: -121338615987884449
+    second: Fire - Portal-Sheet_58
+  - first:
+      213: -8805500300661974236
+    second: Fire - Portal-Sheet_59
+  - first:
+      213: 4639685126081185067
+    second: Fire - Portal-Sheet_60
+  - first:
+      213: -4520862078405905729
+    second: Fire - Portal-Sheet_61
+  - first:
+      213: 1909488836412572888
+    second: Fire - Portal-Sheet_62
+  - first:
+      213: -9205083636149578429
+    second: Fire - Portal-Sheet_63
+  - first:
+      213: -4140573682758727029
+    second: Fire - Portal-Sheet_64
+  - first:
+      213: -5814645704089577214
+    second: Fire - Portal-Sheet_65
+  - first:
+      213: -9181496193612785518
+    second: Fire - Portal-Sheet_66
+  - first:
+      213: 1131288420825203671
+    second: Fire - Portal-Sheet_67
+  - first:
+      213: 6014565085837890571
+    second: Fire - Portal-Sheet_68
+  - first:
+      213: -7144376029592044157
+    second: Fire - Portal-Sheet_69
+  - first:
+      213: 1558804968392032166
+    second: Fire - Portal-Sheet_70
+  - first:
+      213: 8795981447305536718
+    second: Fire - Portal-Sheet_71
+  - first:
+      213: 1431648742446555823
+    second: Fire - Portal-Sheet_72
+  - first:
+      213: -3090103431975812740
+    second: Fire - Portal-Sheet_73
+  - first:
+      213: 5464632732445731688
+    second: Fire - Portal-Sheet_74
+  - first:
+      213: -6987246688675791239
+    second: Fire - Portal-Sheet_75
+  - first:
+      213: -4581462505602767873
+    second: Fire - Portal-Sheet_76
+  - first:
+      213: 3682825423791746186
+    second: Fire - Portal-Sheet_77
+  - first:
+      213: -6604210432563326103
+    second: Fire - Portal-Sheet_78
+  - first:
+      213: 5704685033102160619
+    second: Fire - Portal-Sheet_79
+  - first:
+      213: -5322932243576702895
+    second: Fire - Portal-Sheet_80
+  - first:
+      213: -3377468961458482789
+    second: Fire - Portal-Sheet_81
+  - first:
+      213: -5896064472195246596
+    second: Fire - Portal-Sheet_82
+  - first:
+      213: -5702621888530571356
+    second: Fire - Portal-Sheet_83
+  - first:
+      213: 63569140813515091
+    second: Fire - Portal-Sheet_84
+  - first:
+      213: 1162802527466481599
+    second: Fire - Portal-Sheet_85
+  - first:
+      213: 6197761165181121935
+    second: Fire - Portal-Sheet_86
+  - first:
+      213: 1261359609231187144
+    second: Fire - Portal-Sheet_87
+  - first:
+      213: -2732407335163487753
+    second: Fire - Portal-Sheet_88
+  - first:
+      213: 6722892754492921752
+    second: Fire - Portal-Sheet_89
+  - first:
+      213: -4111044402942505015
+    second: Fire - Portal-Sheet_90
+  - first:
+      213: -6127710121391118805
+    second: Fire - Portal-Sheet_91
+  - first:
+      213: -1523479399608633404
+    second: Fire - Portal-Sheet_92
+  - first:
+      213: -1997297863942064244
+    second: Fire - Portal-Sheet_93
+  - first:
+      213: -5006819387716951486
+    second: Fire - Portal-Sheet_94
+  - first:
+      213: 2208520265960991335
+    second: Fire - Portal-Sheet_95
+  - first:
+      213: -4735772694328140608
+    second: Fire - Portal-Sheet_96
+  - first:
+      213: 1110359086320571205
+    second: Fire - Portal-Sheet_97
+  - first:
+      213: -5532680382412512206
+    second: Fire - Portal-Sheet_98
+  - first:
+      213: -4240896855639272261
+    second: Fire - Portal-Sheet_99
+  - first:
+      213: 8960763410276633115
+    second: Fire - Portal-Sheet_100
+  - first:
+      213: 6222376789258252565
+    second: Fire - Portal-Sheet_101
+  - first:
+      213: -3965295194372938607
+    second: Fire - Portal-Sheet_102
+  - first:
+      213: 1521279692088299231
+    second: Fire - Portal-Sheet_103
+  - first:
+      213: 8258879064246796645
+    second: Fire - Portal-Sheet_104
+  - first:
+      213: -1722965618262367526
+    second: Fire - Portal-Sheet_105
+  - first:
+      213: 307744679743468915
+    second: Fire - Portal-Sheet_106
+  - first:
+      213: -5720398465299108599
+    second: Fire - Portal-Sheet_107
+  - first:
+      213: -9109701633375820225
+    second: Fire - Portal-Sheet_108
+  - first:
+      213: -1719209809361010730
+    second: Fire - Portal-Sheet_109
+  - first:
+      213: -1638512805420260163
+    second: Fire - Portal-Sheet_110
+  - first:
+      213: 3208336792810157391
+    second: Fire - Portal-Sheet_111
+  - first:
+      213: 4562849624201576273
+    second: Fire - Portal-Sheet_112
+  - first:
+      213: 2745846952845056198
+    second: Fire - Portal-Sheet_113
+  - first:
+      213: 3340001849086733263
+    second: Fire - Portal-Sheet_114
+  - first:
+      213: 4287651928931267314
+    second: Fire - Portal-Sheet_115
+  - first:
+      213: -1875545627766376595
+    second: Fire - Portal-Sheet_116
+  - first:
+      213: -2655319359250815523
+    second: Fire - Portal-Sheet_117
+  - first:
+      213: -4280793845987804547
+    second: Fire - Portal-Sheet_118
+  - first:
+      213: 6868301732697160513
+    second: Fire - Portal-Sheet_119
+  - first:
+      213: -5319707237328836880
+    second: Fire - Portal-Sheet_120
+  - first:
+      213: 6834441474875357429
+    second: Fire - Portal-Sheet_121
+  - first:
+      213: 8310156337665083381
+    second: Fire - Portal-Sheet_122
+  - first:
+      213: -5938267040450724265
+    second: Fire - Portal-Sheet_123
+  - first:
+      213: -2028328148821589075
+    second: Fire - Portal-Sheet_124
+  - first:
+      213: -2544735485841835695
+    second: Fire - Portal-Sheet_125
+  - first:
+      213: 2480967583583803666
+    second: Fire - Portal-Sheet_126
+  - first:
+      213: -6024739676876677525
+    second: Fire - Portal-Sheet_127
+  - first:
+      213: -2766900369778401525
+    second: Fire - Portal-Sheet_128
+  - first:
+      213: -5369560922462356726
+    second: Fire - Portal-Sheet_129
+  - first:
+      213: -4292241570613367251
+    second: Fire - Portal-Sheet_130
+  - first:
+      213: -6920682065191509714
+    second: Fire - Portal-Sheet_131
+  - first:
+      213: -8959012923829400819
+    second: Fire - Portal-Sheet_132
+  - first:
+      213: -7107839359697601527
+    second: Fire - Portal-Sheet_133
+  - first:
+      213: 5067096411156806048
+    second: Fire - Portal-Sheet_134
+  - first:
+      213: 4438450182257287391
+    second: Fire - Portal-Sheet_135
+  - first:
+      213: -6273991166337026635
+    second: Fire - Portal-Sheet_136
+  - first:
+      213: 9084227273150573018
+    second: Fire - Portal-Sheet_137
+  - first:
+      213: -1646335762798161471
+    second: Fire - Portal-Sheet_138
+  - first:
+      213: 997646069815289005
+    second: Fire - Portal-Sheet_139
+  - first:
+      213: 1481134575969969935
+    second: Fire - Portal-Sheet_140
+  - first:
+      213: -2972952827334341052
+    second: Fire - Portal-Sheet_141
+  - first:
+      213: -3302595016396667973
+    second: Fire - Portal-Sheet_142
+  - first:
+      213: 2742315139803648851
+    second: Fire - Portal-Sheet_143
+  - first:
+      213: -6175547133202247622
+    second: Fire - Portal-Sheet_144
+  - first:
+      213: -6144249650374817716
+    second: Fire - Portal-Sheet_145
+  - first:
+      213: 404550711751645050
+    second: Fire - Portal-Sheet_146
+  - first:
+      213: -5804903190174536821
+    second: Fire - Portal-Sheet_147
+  - first:
+      213: -4257602950049301850
+    second: Fire - Portal-Sheet_148
+  - first:
+      213: -5759169811503047827
+    second: Fire - Portal-Sheet_149
+  - first:
+      213: -9086429106600623380
+    second: Fire - Portal-Sheet_150
+  - first:
+      213: 5221098811508786783
+    second: Fire - Portal-Sheet_151
+  - first:
+      213: 1241569443499024767
+    second: Fire - Portal-Sheet_152
+  - first:
+      213: -1665217832698567720
+    second: Fire - Portal-Sheet_153
+  - first:
+      213: 3104444677342142565
+    second: Fire - Portal-Sheet_154
+  - first:
+      213: 3419588630178948299
+    second: Fire - Portal-Sheet_155
+  - first:
+      213: -3990146850250560746
+    second: Fire - Portal-Sheet_156
+  - first:
+      213: -9072603362444157629
+    second: Fire - Portal-Sheet_157
+  - first:
+      213: -3721938305778505944
+    second: Fire - Portal-Sheet_158
+  - first:
+      213: -3729276098574104394
+    second: Fire - Portal-Sheet_159
+  - first:
+      213: 9056061552302674995
+    second: Fire - Portal-Sheet_160
+  - first:
+      213: 8709769319552188276
+    second: Fire - Portal-Sheet_161
+  - first:
+      213: 8658451435368834956
+    second: Fire - Portal-Sheet_162
+  - first:
+      213: 8048841145518747418
+    second: Fire - Portal-Sheet_163
+  - first:
+      213: -437596462945797929
+    second: Fire - Portal-Sheet_164
+  - first:
+      213: -6063297849927354058
+    second: Fire - Portal-Sheet_165
+  - first:
+      213: 5230295184295706946
+    second: Fire - Portal-Sheet_166
+  - first:
+      213: 8888210289803349142
+    second: Fire - Portal-Sheet_167
+  - first:
+      213: -2760334985781624589
+    second: Fire - Portal-Sheet_168
+  - first:
+      213: 151668959496391801
+    second: Fire - Portal-Sheet_169
+  - first:
+      213: 8009834787529104144
+    second: Fire - Portal-Sheet_170
+  - first:
+      213: -9041108518654240819
+    second: Fire - Portal-Sheet_171
+  - first:
+      213: 8404791523916811645
+    second: Fire - Portal-Sheet_172
+  - first:
+      213: 884165989082878738
+    second: Fire - Portal-Sheet_173
+  - first:
+      213: 5788063542882904702
+    second: Fire - Portal-Sheet_174
+  - first:
+      213: 4196378662032319085
+    second: Fire - Portal-Sheet_175
+  - first:
+      213: -5834829687148438581
+    second: Fire - Portal-Sheet_176
+  - first:
+      213: -8020636985353343759
+    second: Fire - Portal-Sheet_177
+  - first:
+      213: 5385536914734646433
+    second: Fire - Portal-Sheet_178
+  - first:
+      213: -5388507641922207804
+    second: Fire - Portal-Sheet_179
+  - first:
+      213: -6105374545848052966
+    second: Fire - Portal-Sheet_180
+  - first:
+      213: 5296445574860500374
+    second: Fire - Portal-Sheet_181
+  - first:
+      213: 8461627944391029307
+    second: Fire - Portal-Sheet_182
+  - first:
+      213: -7920044795698818969
+    second: Fire - Portal-Sheet_183
+  - first:
+      213: 3900976391412150605
+    second: Fire - Portal-Sheet_184
+  - first:
+      213: 207337371499072127
+    second: Fire - Portal-Sheet_185
+  - first:
+      213: -8623812704407518581
+    second: Fire - Portal-Sheet_186
+  - first:
+      213: 3285122895347384019
+    second: Fire - Portal-Sheet_187
+  - first:
+      213: -2334028427254127418
+    second: Fire - Portal-Sheet_188
+  - first:
+      213: 3267445533384163892
+    second: Fire - Portal-Sheet_189
+  - first:
+      213: 4311792377426608285
+    second: Fire - Portal-Sheet_190
+  - first:
+      213: 3079830555441134664
+    second: Fire - Portal-Sheet_191
+  - first:
+      213: -5487782991678022652
+    second: Fire - Portal-Sheet_192
+  - first:
+      213: 4416041271505017304
+    second: Fire - Portal-Sheet_193
+  - first:
+      213: -3094902548447416287
+    second: Fire - Portal-Sheet_194
+  - first:
+      213: 3771266401650205494
+    second: Fire - Portal-Sheet_195
+  - first:
+      213: -1567317522627419890
+    second: Fire - Portal-Sheet_196
+  - first:
+      213: 5515725663706417506
+    second: Fire - Portal-Sheet_197
+  - first:
+      213: 2120623119476707667
+    second: Fire - Portal-Sheet_198
+  - first:
+      213: -1140678651368081267
+    second: Fire - Portal-Sheet_199
+  - first:
+      213: 5700665517162782010
+    second: Fire - Portal-Sheet_200
+  - first:
+      213: 439592477174949819
+    second: Fire - Portal-Sheet_201
+  - first:
+      213: 9065110692148676835
+    second: Fire - Portal-Sheet_202
+  - first:
+      213: -7686695801886159759
+    second: Fire - Portal-Sheet_203
+  - first:
+      213: 3702974819504905404
+    second: Fire - Portal-Sheet_204
+  - first:
+      213: -433568813993401847
+    second: Fire - Portal-Sheet_205
+  - first:
+      213: -2351693904261771414
+    second: Fire - Portal-Sheet_206
+  - first:
+      213: -5251568392667571272
+    second: Fire - Portal-Sheet_207
+  - first:
+      213: -294679750774394351
+    second: Fire - Portal-Sheet_208
+  - first:
+      213: -1221848315583931768
+    second: Fire - Portal-Sheet_209
+  - first:
+      213: 1020804610873926678
+    second: Fire - Portal-Sheet_210
+  - first:
+      213: 1421469337978812751
+    second: Fire - Portal-Sheet_211
+  - first:
+      213: -7126474791996439304
+    second: Fire - Portal-Sheet_212
+  - first:
+      213: -2624751942131211831
+    second: Fire - Portal-Sheet_213
+  - first:
+      213: -9087706051304393275
+    second: Fire - Portal-Sheet_214
+  - first:
+      213: 2811000278520445323
+    second: Fire - Portal-Sheet_215
+  - first:
+      213: 7735349863722776146
+    second: Fire - Portal-Sheet_216
+  - first:
+      213: 7817441486933408199
+    second: Fire - Portal-Sheet_217
+  - first:
+      213: -6382077914123842561
+    second: Fire - Portal-Sheet_218
+  - first:
+      213: 1039490039107221932
+    second: Fire - Portal-Sheet_219
+  - first:
+      213: -9116510989447407969
+    second: Fire - Portal-Sheet_220
+  - first:
+      213: 4679352839071181007
+    second: Fire - Portal-Sheet_221
+  - first:
+      213: -6107774078524289530
+    second: Fire - Portal-Sheet_222
+  - first:
+      213: 8966898843995543076
+    second: Fire - Portal-Sheet_223
+  - first:
+      213: 2528434651914718658
+    second: Fire - Portal-Sheet_224
+  - first:
+      213: -1369838537627678020
+    second: Fire - Portal-Sheet_225
+  - first:
+      213: 6358960967205956484
+    second: Fire - Portal-Sheet_226
+  - first:
+      213: 8140813555030107916
+    second: Fire - Portal-Sheet_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc81477ee8a19da0800000000000000
+      internalID: -5939780691368506122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f49e693790be5e0800000000000000
+      internalID: -1879398027439288432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8721ee97739001fd0800000000000000
+      internalID: -2373386869750754696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd2c431b624eab00800000000000000
+      internalID: 841683208017554901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd8d3216b9e1e6d0800000000000000
+      internalID: -2962830111633732158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf569c624df2630b0800000000000000
+      internalID: -5749355286061554180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35dfb1388b722950800000000000000
+      internalID: 6422831843464172858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abfea12d290c62f0800000000000000
+      internalID: -978396929602946136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e36b1e104f35a520800000000000000
+      internalID: 2712643895176160233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2ac69856ee01ec0800000000000000
+      internalID: -3598113982404320534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2a1061644015290800000000000000
+      internalID: -7903531171995082019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d7597f6b9722d00800000000000000
+      internalID: 946452698446003488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6016ae0a4b6a00800000000000000
+      internalID: 750775189663410857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2616883c501d7f150800000000000000
+      internalID: 5906419259005231458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245f41cf7a8987a60800000000000000
+      internalID: 7672049812481832258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a8ccaeecfc33470800000000000000
+      internalID: 8373264619821369895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1dc39cdc0f27a0800000000000000
+      internalID: -6399882403958153639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faab200758e4e080800000000000000
+      internalID: -9158940281802085642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0f4892185d16a10800000000000000
+      internalID: 1901035268451135730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95bb04b9a9fb8710800000000000000
+      internalID: 1696724191900579230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d8578d60a87c20800000000000000
+      internalID: 3204487527156733587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d5ae76ec864ba90800000000000000
+      internalID: -7299093860344767188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfb57042bd6d4010800000000000000
+      internalID: 1174715690166632378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bfc9f954688fbd0800000000000000
+      internalID: -2596177551590360248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5a884bfc9d0a50800000000000000
+      internalID: 6489015241178504729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8b2d32a2366e6a0800000000000000
+      internalID: -6420335186129274659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934f5a39b391e4aa0800000000000000
+      internalID: -6174970295407479751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ff04eb0412d14a0800000000000000
+      internalID: -6621099315211206844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e8383f174b0070800000000000000
+      internalID: 8073624956404557328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819ab7cedf61aa700800000000000000
+      internalID: 552279184156371224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57531ecfbd6b35150800000000000000
+      internalID: 5860228596095858037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab8922896a85320800000000000000
+      internalID: 2546968761623689781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060b0e81be65f6d40800000000000000
+      internalID: 5579774031070015584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4771
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36406460287f5d0800000000000000
+      internalID: -3028809260927261780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7fca801742c4890800000000000000
+      internalID: -7472557613819037779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 5059
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4572ca719126a60800000000000000
+      internalID: 7665717105201206522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2243161b94ca21bf0800000000000000
+      internalID: -355031988100320222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2a7807f125a68b0800000000000000
+      internalID: -5158220128214080789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b159083214ccf40800000000000000
+      internalID: 5750042444982197015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ecfe475174c03c0800000000000000
+      internalID: -4392057379111317918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0de2f70b7072050800000000000000
+      internalID: 5775593501755363528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601799d7a8f7ced0800000000000000
+      internalID: -2393671277130346388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4f8ad85ae778f0800000000000000
+      internalID: -542707562730008828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b6546c7b7784110800000000000000
+      internalID: 1245376928157100901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca6ae82259b8280800000000000000
+      internalID: -9039967851361424331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab80965b2f69e3f0800000000000000
+      internalID: -871042820992889951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f59ab5310f43a0800000000000000
+      internalID: -6679118392091871555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6a3bd5ce4fa040800000000000000
+      internalID: 4661030751045316106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5560607408ff03f40800000000000000
+      internalID: 5706341654290892373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bd3919895c7a4c0800000000000000
+      internalID: -4276232062096909449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d389d5db44a2e20800000000000000
+      internalID: 3326546854876298543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ea149bb697727f0800000000000000
+      internalID: -637407318673084865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9bc955ea2f052a0800000000000000
+      internalID: -6750629010853807682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8631d97cfa27bf7c0800000000000000
+      internalID: -4036506541713714328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b14ce90353781060800000000000000
+      internalID: 6924411227568095669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75903cd88e3f9bf0800000000000000
+      internalID: -315464691361999492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91026fb1ac22425e0800000000000000
+      internalID: -1935383688414617575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbdc301616cd35e0800000000000000
+      internalID: -1928167267380700169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e2180fb2be05ef0800000000000000
+      internalID: -121338615987884449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b927d41249cc580800000000000000
+      internalID: -8805500300661974236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b258bb14a09736040800000000000000
+      internalID: 4639685126081185067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2f41a64eba241c0800000000000000
+      internalID: -4520862078405905729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d402f4dafddf7a10800000000000000
+      internalID: 1909488836412572888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451b8b1439f04080800000000000000
+      internalID: -9205083636149578429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ac5d85c2ab986c0800000000000000
+      internalID: -4140573682758727029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095df81a8a3e4fa0800000000000000
+      internalID: -5814645704089577214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298db198bd5c49080800000000000000
+      internalID: -9181496193612785518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d38ccd23d423bf00800000000000000
+      internalID: 1131288420825203671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0495db3417087350800000000000000
+      internalID: 6014565085837890571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38db9568ad31adc90800000000000000
+      internalID: -7144376029592044157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6affe1f1cdcf1a510800000000000000
+      internalID: 1558804968392032166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4a291f58a911a70800000000000000
+      internalID: 8795981447305536718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa269a032fc3ed310800000000000000
+      internalID: 1431648742446555823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71cdd9fc4fbd15d0800000000000000
+      internalID: -3090103431975812740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b666d648646db40800000000000000
+      internalID: 5464632732445731688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e747b1820580f90800000000000000
+      internalID: -6987246688675791239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3a6c1ff106b60c0800000000000000
+      internalID: -4581462505602767873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c62e2e5360c1330800000000000000
+      internalID: 3682825423791746186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96352292a912954a0800000000000000
+      internalID: -6604210432563326103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2ba8910dc1b2f40800000000000000
+      internalID: 5704685033102160619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158332a93552126b0800000000000000
+      internalID: -5322932243576702895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911c58cfd1d021d0800000000000000
+      internalID: -3377468961458482789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5500ae998fc2ea0800000000000000
+      internalID: -5896064472195246596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af94cd2b973cd0b0800000000000000
+      internalID: -5702621888530571356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359cdd8fbc7d1e000800000000000000
+      internalID: 63569140813515091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e099ecba132010800000000000000
+      internalID: 1162802527466481599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85f45d41fed20650800000000000000
+      internalID: 6197761165181121935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc1042b1ef318110800000000000000
+      internalID: 1261359609231187144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f998ed610a841ad0800000000000000
+      internalID: -2732407335163487753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897199e37538c4d50800000000000000
+      internalID: 6722892754492921752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf01c295e2a2f6c0800000000000000
+      internalID: -4111044402942505015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26aaef4c1006faa0800000000000000
+      internalID: -6127710121391118805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b3bbce838bdae0800000000000000
+      internalID: -1523479399608633404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873615cc2c2844e0800000000000000
+      internalID: -1997297863942064244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242a79c4b44348ab0800000000000000
+      internalID: -5006819387716951486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a2bdb0b7d36ae10800000000000000
+      internalID: 2208520265960991335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc939163d7274eb0800000000000000
+      internalID: -4735772694328140608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543d341c4b9c86f00800000000000000
+      internalID: 1110359086320571205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234a78e6188f733b0800000000000000
+      internalID: -5532680382412512206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4dc8e67ce4525c0800000000000000
+      internalID: -4240896855639272261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a4bd178d60b5c70800000000000000
+      internalID: 8960763410276633115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511bf56e8b25a5650800000000000000
+      internalID: 6222376789258252565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19466dd970178f8c0800000000000000
+      internalID: -3965295194372938607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde40f2e1dbac1510800000000000000
+      internalID: 1521279692088299231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561475360ce6d9270800000000000000
+      internalID: 8258879064246796645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a24b16ebc618e0800000000000000
+      internalID: -1722965618262367526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37530add724554400800000000000000
+      internalID: 307744679743468915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d282e57ef0d90b0800000000000000
+      internalID: -5720398465299108599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36a6d431a6d39180800000000000000
+      internalID: -9109701633375820225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df7ba289c32428e0800000000000000
+      internalID: -1719209809361010730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42ff0e845d249e0800000000000000
+      internalID: -1638512805420260163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45f347805d468c20800000000000000
+      internalID: 3208336792810157391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f3f06ee8f725f30800000000000000
+      internalID: 4562849624201576273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81be761453b1620800000000000000
+      internalID: 2745846952845056198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb66f35cf11a5e20800000000000000
+      internalID: 3340001849086733263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2777066bcc08b30800000000000000
+      internalID: 4287651928931267314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b2f84039b8f5e0800000000000000
+      internalID: -1875545627766376595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd523aa7c19662bd0800000000000000
+      internalID: -2655319359250815523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7af73d7da09794c0800000000000000
+      internalID: -4280793845987804547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3d9b390c115f50800000000000000
+      internalID: 6868301732697160513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a0f1e37a9c26b0800000000000000
+      internalID: -5319707237328836880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8742c9f40d8de50800000000000000
+      internalID: 6834441474875357429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f70d76f82b935370800000000000000
+      internalID: 8310156337665083381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3688c699079da0800000000000000
+      internalID: -5938267040450724265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da340919b4ee9d3e0800000000000000
+      internalID: -2028328148821589075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f017ee884facd0800000000000000
+      internalID: -2544735485841835695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21995ce5fda2e6220800000000000000
+      internalID: 2480967583583803666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e509f2f23d36ca0800000000000000
+      internalID: -6024739676876677525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f167af5cef999d0800000000000000
+      internalID: -2766900369778401525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bffc84acc7b75b0800000000000000
+      internalID: -5369560922462356726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eec656805ee64c0800000000000000
+      internalID: -4292241570613367251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e7dc345cc4ff90800000000000000
+      internalID: -6920682065191509714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc30176313ba380800000000000000
+      internalID: -8959012923829400819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c3fa4e2c1eb5d90800000000000000
+      internalID: -7107839359697601527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a978add651f15640800000000000000
+      internalID: 5067096411156806048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0a6b2ccea889d30800000000000000
+      internalID: 4438450182257287391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5fa86764e4ee8a0800000000000000
+      internalID: -6273991166337026635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92e0b1398a11e70800000000000000
+      internalID: 9084227273150573018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d46da85a0729e0800000000000000
+      internalID: -1646335762798161471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4a7e290d958dd00800000000000000
+      internalID: 997646069815289005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f072d39ac0c0e8410800000000000000
+      internalID: 1481134575969969935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e4eb8a723fdb6d0800000000000000
+      internalID: -2972952827334341052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb383ba9453da22d0800000000000000
+      internalID: -3302595016396667973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3531c2a1719ae0620800000000000000
+      internalID: 2742315139803648851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a305ccf0a9c0c4aa0800000000000000
+      internalID: -6175547133202247622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4847122f7d3bbaa0800000000000000
+      internalID: -6144249650374817716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77969b9ab04d9500800000000000000
+      internalID: 404550711751645050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6d12ed47d07fa0800000000000000
+      internalID: -5804903190174536821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf7a7bca4f9e4c0800000000000000
+      internalID: -4257602950049301850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1530e1915310b0800000000000000
+      internalID: -5759169811503047827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2cc489ed486e180800000000000000
+      internalID: -9086429106600623380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56023dd4b1157840800000000000000
+      internalID: 5221098811508786783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f712dbba4d0fa3110800000000000000
+      internalID: 1241569443499024767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d32b503435f3e8e0800000000000000
+      internalID: -1665217832698567720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560a4d96cf3351b20800000000000000
+      internalID: 3104444677342142565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4e7cbcdb1d47f20800000000000000
+      internalID: 3419588630178948299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61beb25949620a8c0800000000000000
+      internalID: -3990146850250560746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d50818f43a71280800000000000000
+      internalID: -9072603362444157629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8272720a4d4095cc0800000000000000
+      internalID: -3721938305778505944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c22b9523fe3cc0800000000000000
+      internalID: -3729276098574104394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d21130089dad70800000000000000
+      internalID: 9056061552302674995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff08fbc015fd870800000000000000
+      internalID: 8709769319552188276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87612eb4bff82870800000000000000
+      internalID: 8658451435368834956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f6134906a33bf60800000000000000
+      internalID: 8048841145518747418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8f52fd5585de9f0800000000000000
+      internalID: -437596462945797929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639b0bfeab6dadba0800000000000000
+      internalID: -6063297849927354058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c16242cdb59840800000000000000
+      internalID: 5230295184295706946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c43b4ba24495b70800000000000000
+      internalID: 8888210289803349142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0476f84f151b9d0800000000000000
+      internalID: -2760334985781624589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c4c367d16da1200800000000000000
+      internalID: 151668959496391801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b1d342d46a82f60800000000000000
+      internalID: 8009834787529104144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71bd144b7878280800000000000000
+      internalID: -9041108518654240819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d864a4c51d3a470800000000000000
+      internalID: 8404791523916811645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21354c55840354c00800000000000000
+      internalID: 884165989082878738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aace23025535050800000000000000
+      internalID: 5788063542882904702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d622775e8288c3a30800000000000000
+      internalID: 4196378662032319085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb1d945055860fa0800000000000000
+      internalID: -5834829687148438581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc67af2829f0b090800000000000000
+      internalID: -8020636985353343759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a403874a454dba40800000000000000
+      internalID: 5385536914734646433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfbfb569dc2835b0800000000000000
+      internalID: -5388507641922207804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13d30eb23a554ba0800000000000000
+      internalID: -6105374545848052966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69defb54031c08940800000000000000
+      internalID: 5296445574860500374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3232f6a8cdbd6570800000000000000
+      internalID: 8461627944391029307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760d0337839561290800000000000000
+      internalID: -7920044795698818969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d417e471c5d032630800000000000000
+      internalID: 3900976391412150605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a8dd8ad3c90e200800000000000000
+      internalID: 207337371499072127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b820a484900125880800000000000000
+      internalID: -8623812704407518581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3defea43ed9179d20800000000000000
+      internalID: 3285122895347384019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4aad9f28ddb9fd0800000000000000
+      internalID: -2334028427254127418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432cc44a66c485d20800000000000000
+      internalID: 3267445533384163892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9000c9825096db30800000000000000
+      internalID: 4311792377426608285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c76719291cdba20800000000000000
+      internalID: 3079830555441134664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cd990d17a77d3b0800000000000000
+      internalID: -5487782991678022652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d95585a32ee84d30800000000000000
+      internalID: 4416041271505017304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12037599782bc05d0800000000000000
+      internalID: -3094902548447416287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633e9bfafca365430800000000000000
+      internalID: 3771266401650205494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e012c856405cf3ae0800000000000000
+      internalID: -1567317522627419890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2690abf744bcb8c40800000000000000
+      internalID: 5515725663706417506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351d3eadd77fd6d10800000000000000
+      internalID: 2120623119476707667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8875566fce7b20f0800000000000000
+      internalID: -1140678651368081267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d5ecd9515dc1f40800000000000000
+      internalID: 5700665517162782010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb762f7670fb91600800000000000000
+      internalID: 439592477174949819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80e1f352ebdcd70800000000000000
+      internalID: 9065110692148676835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cc610e4ee535590800000000000000
+      internalID: -7686695801886159759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc5ec8aafb936330800000000000000
+      internalID: 3702974819504905404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9026c38f577abf9f0800000000000000
+      internalID: -433568813993401847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f86089ada1d5fd0800000000000000
+      internalID: -2351693904261771414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5161fe5eae17b0800000000000000
+      internalID: -5251568392667571272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1127794f35619ebf0800000000000000
+      internalID: -294679750774394351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad53c3e6f1b0fe0800000000000000
+      internalID: -1221848315583931768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614a8389260aa2e00800000000000000
+      internalID: 1020804610873926678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f493655e4d21ab310800000000000000
+      internalID: 1421469337978812751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4c6423feca91d90800000000000000
+      internalID: -7126474791996439304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a0c1e302039bd0800000000000000
+      internalID: -2624751942131211831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c575dcbe7bf1e180800000000000000
+      internalID: -9087706051304393275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b893cb82cdda20720800000000000000
+      internalID: 2811000278520445323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ff88a7bb795b60800000000000000
+      internalID: 7735349863722776146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c931112d912d7c60800000000000000
+      internalID: 7817441486933408199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb48c763fd4e67a0800000000000000
+      internalID: -6382077914123842561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9fa80eea20d6e00800000000000000
+      internalID: 1039490039107221932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96da037e85ab7180800000000000000
+      internalID: -9116510989447407969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 5071
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8ad876d9660f040800000000000000
+      internalID: 4679352839071181007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 25
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e883106d3dc3ba0800000000000000
+      internalID: -6107774078524289530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 25
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426173d6df2d07c70800000000000000
+      internalID: 8966898843995543076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_224
+      rect:
+        serializedVersion: 2
+        x: 5106
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4a217bedc61320800000000000000
+      internalID: 2528434651914718658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_225
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbacf059b1b5dfce0800000000000000
+      internalID: -1369838537627678020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_226
+      rect:
+        serializedVersion: 2
+        x: 5116
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ba2e6fe419f3850800000000000000
+      internalID: 6358960967205956484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire - Portal-Sheet_227
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c072142ebcaf9f070800000000000000
+      internalID: 8140813555030107916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire - Portal-Sheet_0: -5939780691368506122
+      Fire - Portal-Sheet_1: -1879398027439288432
+      Fire - Portal-Sheet_10: -7903531171995082019
+      Fire - Portal-Sheet_100: 8960763410276633115
+      Fire - Portal-Sheet_101: 6222376789258252565
+      Fire - Portal-Sheet_102: -3965295194372938607
+      Fire - Portal-Sheet_103: 1521279692088299231
+      Fire - Portal-Sheet_104: 8258879064246796645
+      Fire - Portal-Sheet_105: -1722965618262367526
+      Fire - Portal-Sheet_106: 307744679743468915
+      Fire - Portal-Sheet_107: -5720398465299108599
+      Fire - Portal-Sheet_108: -9109701633375820225
+      Fire - Portal-Sheet_109: -1719209809361010730
+      Fire - Portal-Sheet_11: 946452698446003488
+      Fire - Portal-Sheet_110: -1638512805420260163
+      Fire - Portal-Sheet_111: 3208336792810157391
+      Fire - Portal-Sheet_112: 4562849624201576273
+      Fire - Portal-Sheet_113: 2745846952845056198
+      Fire - Portal-Sheet_114: 3340001849086733263
+      Fire - Portal-Sheet_115: 4287651928931267314
+      Fire - Portal-Sheet_116: -1875545627766376595
+      Fire - Portal-Sheet_117: -2655319359250815523
+      Fire - Portal-Sheet_118: -4280793845987804547
+      Fire - Portal-Sheet_119: 6868301732697160513
+      Fire - Portal-Sheet_12: 750775189663410857
+      Fire - Portal-Sheet_120: -5319707237328836880
+      Fire - Portal-Sheet_121: 6834441474875357429
+      Fire - Portal-Sheet_122: 8310156337665083381
+      Fire - Portal-Sheet_123: -5938267040450724265
+      Fire - Portal-Sheet_124: -2028328148821589075
+      Fire - Portal-Sheet_125: -2544735485841835695
+      Fire - Portal-Sheet_126: 2480967583583803666
+      Fire - Portal-Sheet_127: -6024739676876677525
+      Fire - Portal-Sheet_128: -2766900369778401525
+      Fire - Portal-Sheet_129: -5369560922462356726
+      Fire - Portal-Sheet_13: 5906419259005231458
+      Fire - Portal-Sheet_130: -4292241570613367251
+      Fire - Portal-Sheet_131: -6920682065191509714
+      Fire - Portal-Sheet_132: -8959012923829400819
+      Fire - Portal-Sheet_133: -7107839359697601527
+      Fire - Portal-Sheet_134: 5067096411156806048
+      Fire - Portal-Sheet_135: 4438450182257287391
+      Fire - Portal-Sheet_136: -6273991166337026635
+      Fire - Portal-Sheet_137: 9084227273150573018
+      Fire - Portal-Sheet_138: -1646335762798161471
+      Fire - Portal-Sheet_139: 997646069815289005
+      Fire - Portal-Sheet_14: 7672049812481832258
+      Fire - Portal-Sheet_140: 1481134575969969935
+      Fire - Portal-Sheet_141: -2972952827334341052
+      Fire - Portal-Sheet_142: -3302595016396667973
+      Fire - Portal-Sheet_143: 2742315139803648851
+      Fire - Portal-Sheet_144: -6175547133202247622
+      Fire - Portal-Sheet_145: -6144249650374817716
+      Fire - Portal-Sheet_146: 404550711751645050
+      Fire - Portal-Sheet_147: -5804903190174536821
+      Fire - Portal-Sheet_148: -4257602950049301850
+      Fire - Portal-Sheet_149: -5759169811503047827
+      Fire - Portal-Sheet_15: 8373264619821369895
+      Fire - Portal-Sheet_150: -9086429106600623380
+      Fire - Portal-Sheet_151: 5221098811508786783
+      Fire - Portal-Sheet_152: 1241569443499024767
+      Fire - Portal-Sheet_153: -1665217832698567720
+      Fire - Portal-Sheet_154: 3104444677342142565
+      Fire - Portal-Sheet_155: 3419588630178948299
+      Fire - Portal-Sheet_156: -3990146850250560746
+      Fire - Portal-Sheet_157: -9072603362444157629
+      Fire - Portal-Sheet_158: -3721938305778505944
+      Fire - Portal-Sheet_159: -3729276098574104394
+      Fire - Portal-Sheet_16: -6399882403958153639
+      Fire - Portal-Sheet_160: 9056061552302674995
+      Fire - Portal-Sheet_161: 8709769319552188276
+      Fire - Portal-Sheet_162: 8658451435368834956
+      Fire - Portal-Sheet_163: 8048841145518747418
+      Fire - Portal-Sheet_164: -437596462945797929
+      Fire - Portal-Sheet_165: -6063297849927354058
+      Fire - Portal-Sheet_166: 5230295184295706946
+      Fire - Portal-Sheet_167: 8888210289803349142
+      Fire - Portal-Sheet_168: -2760334985781624589
+      Fire - Portal-Sheet_169: 151668959496391801
+      Fire - Portal-Sheet_17: -9158940281802085642
+      Fire - Portal-Sheet_170: 8009834787529104144
+      Fire - Portal-Sheet_171: -9041108518654240819
+      Fire - Portal-Sheet_172: 8404791523916811645
+      Fire - Portal-Sheet_173: 884165989082878738
+      Fire - Portal-Sheet_174: 5788063542882904702
+      Fire - Portal-Sheet_175: 4196378662032319085
+      Fire - Portal-Sheet_176: -5834829687148438581
+      Fire - Portal-Sheet_177: -8020636985353343759
+      Fire - Portal-Sheet_178: 5385536914734646433
+      Fire - Portal-Sheet_179: -5388507641922207804
+      Fire - Portal-Sheet_18: 1901035268451135730
+      Fire - Portal-Sheet_180: -6105374545848052966
+      Fire - Portal-Sheet_181: 5296445574860500374
+      Fire - Portal-Sheet_182: 8461627944391029307
+      Fire - Portal-Sheet_183: -7920044795698818969
+      Fire - Portal-Sheet_184: 3900976391412150605
+      Fire - Portal-Sheet_185: 207337371499072127
+      Fire - Portal-Sheet_186: -8623812704407518581
+      Fire - Portal-Sheet_187: 3285122895347384019
+      Fire - Portal-Sheet_188: -2334028427254127418
+      Fire - Portal-Sheet_189: 3267445533384163892
+      Fire - Portal-Sheet_19: 1696724191900579230
+      Fire - Portal-Sheet_190: 4311792377426608285
+      Fire - Portal-Sheet_191: 3079830555441134664
+      Fire - Portal-Sheet_192: -5487782991678022652
+      Fire - Portal-Sheet_193: 4416041271505017304
+      Fire - Portal-Sheet_194: -3094902548447416287
+      Fire - Portal-Sheet_195: 3771266401650205494
+      Fire - Portal-Sheet_196: -1567317522627419890
+      Fire - Portal-Sheet_197: 5515725663706417506
+      Fire - Portal-Sheet_198: 2120623119476707667
+      Fire - Portal-Sheet_199: -1140678651368081267
+      Fire - Portal-Sheet_2: -2373386869750754696
+      Fire - Portal-Sheet_20: 3204487527156733587
+      Fire - Portal-Sheet_200: 5700665517162782010
+      Fire - Portal-Sheet_201: 439592477174949819
+      Fire - Portal-Sheet_202: 9065110692148676835
+      Fire - Portal-Sheet_203: -7686695801886159759
+      Fire - Portal-Sheet_204: 3702974819504905404
+      Fire - Portal-Sheet_205: -433568813993401847
+      Fire - Portal-Sheet_206: -2351693904261771414
+      Fire - Portal-Sheet_207: -5251568392667571272
+      Fire - Portal-Sheet_208: -294679750774394351
+      Fire - Portal-Sheet_209: -1221848315583931768
+      Fire - Portal-Sheet_21: -7299093860344767188
+      Fire - Portal-Sheet_210: 1020804610873926678
+      Fire - Portal-Sheet_211: 1421469337978812751
+      Fire - Portal-Sheet_212: -7126474791996439304
+      Fire - Portal-Sheet_213: -2624751942131211831
+      Fire - Portal-Sheet_214: -9087706051304393275
+      Fire - Portal-Sheet_215: 2811000278520445323
+      Fire - Portal-Sheet_216: 7735349863722776146
+      Fire - Portal-Sheet_217: 7817441486933408199
+      Fire - Portal-Sheet_218: -6382077914123842561
+      Fire - Portal-Sheet_219: 1039490039107221932
+      Fire - Portal-Sheet_22: 1174715690166632378
+      Fire - Portal-Sheet_220: -9116510989447407969
+      Fire - Portal-Sheet_221: 4679352839071181007
+      Fire - Portal-Sheet_222: -6107774078524289530
+      Fire - Portal-Sheet_223: 8966898843995543076
+      Fire - Portal-Sheet_224: 2528434651914718658
+      Fire - Portal-Sheet_225: -1369838537627678020
+      Fire - Portal-Sheet_226: 6358960967205956484
+      Fire - Portal-Sheet_227: 8140813555030107916
+      Fire - Portal-Sheet_23: -2596177551590360248
+      Fire - Portal-Sheet_24: 6489015241178504729
+      Fire - Portal-Sheet_25: -6420335186129274659
+      Fire - Portal-Sheet_26: -6174970295407479751
+      Fire - Portal-Sheet_27: -6621099315211206844
+      Fire - Portal-Sheet_28: 8073624956404557328
+      Fire - Portal-Sheet_29: 552279184156371224
+      Fire - Portal-Sheet_3: 841683208017554901
+      Fire - Portal-Sheet_30: 5860228596095858037
+      Fire - Portal-Sheet_31: 2546968761623689781
+      Fire - Portal-Sheet_32: 5579774031070015584
+      Fire - Portal-Sheet_33: -3028809260927261780
+      Fire - Portal-Sheet_34: -7472557613819037779
+      Fire - Portal-Sheet_35: 7665717105201206522
+      Fire - Portal-Sheet_36: -355031988100320222
+      Fire - Portal-Sheet_37: -5158220128214080789
+      Fire - Portal-Sheet_38: 5750042444982197015
+      Fire - Portal-Sheet_39: -4392057379111317918
+      Fire - Portal-Sheet_4: -2962830111633732158
+      Fire - Portal-Sheet_40: 5775593501755363528
+      Fire - Portal-Sheet_41: -2393671277130346388
+      Fire - Portal-Sheet_42: -542707562730008828
+      Fire - Portal-Sheet_43: 1245376928157100901
+      Fire - Portal-Sheet_44: -9039967851361424331
+      Fire - Portal-Sheet_45: -871042820992889951
+      Fire - Portal-Sheet_46: -6679118392091871555
+      Fire - Portal-Sheet_47: 4661030751045316106
+      Fire - Portal-Sheet_48: 5706341654290892373
+      Fire - Portal-Sheet_49: -4276232062096909449
+      Fire - Portal-Sheet_5: -5749355286061554180
+      Fire - Portal-Sheet_50: 3326546854876298543
+      Fire - Portal-Sheet_51: -637407318673084865
+      Fire - Portal-Sheet_52: -6750629010853807682
+      Fire - Portal-Sheet_53: -4036506541713714328
+      Fire - Portal-Sheet_54: 6924411227568095669
+      Fire - Portal-Sheet_55: -315464691361999492
+      Fire - Portal-Sheet_56: -1935383688414617575
+      Fire - Portal-Sheet_57: -1928167267380700169
+      Fire - Portal-Sheet_58: -121338615987884449
+      Fire - Portal-Sheet_59: -8805500300661974236
+      Fire - Portal-Sheet_6: 6422831843464172858
+      Fire - Portal-Sheet_60: 4639685126081185067
+      Fire - Portal-Sheet_61: -4520862078405905729
+      Fire - Portal-Sheet_62: 1909488836412572888
+      Fire - Portal-Sheet_63: -9205083636149578429
+      Fire - Portal-Sheet_64: -4140573682758727029
+      Fire - Portal-Sheet_65: -5814645704089577214
+      Fire - Portal-Sheet_66: -9181496193612785518
+      Fire - Portal-Sheet_67: 1131288420825203671
+      Fire - Portal-Sheet_68: 6014565085837890571
+      Fire - Portal-Sheet_69: -7144376029592044157
+      Fire - Portal-Sheet_7: -978396929602946136
+      Fire - Portal-Sheet_70: 1558804968392032166
+      Fire - Portal-Sheet_71: 8795981447305536718
+      Fire - Portal-Sheet_72: 1431648742446555823
+      Fire - Portal-Sheet_73: -3090103431975812740
+      Fire - Portal-Sheet_74: 5464632732445731688
+      Fire - Portal-Sheet_75: -6987246688675791239
+      Fire - Portal-Sheet_76: -4581462505602767873
+      Fire - Portal-Sheet_77: 3682825423791746186
+      Fire - Portal-Sheet_78: -6604210432563326103
+      Fire - Portal-Sheet_79: 5704685033102160619
+      Fire - Portal-Sheet_8: 2712643895176160233
+      Fire - Portal-Sheet_80: -5322932243576702895
+      Fire - Portal-Sheet_81: -3377468961458482789
+      Fire - Portal-Sheet_82: -5896064472195246596
+      Fire - Portal-Sheet_83: -5702621888530571356
+      Fire - Portal-Sheet_84: 63569140813515091
+      Fire - Portal-Sheet_85: 1162802527466481599
+      Fire - Portal-Sheet_86: 6197761165181121935
+      Fire - Portal-Sheet_87: 1261359609231187144
+      Fire - Portal-Sheet_88: -2732407335163487753
+      Fire - Portal-Sheet_89: 6722892754492921752
+      Fire - Portal-Sheet_9: -3598113982404320534
+      Fire - Portal-Sheet_90: -4111044402942505015
+      Fire - Portal-Sheet_91: -6127710121391118805
+      Fire - Portal-Sheet_92: -1523479399608633404
+      Fire - Portal-Sheet_93: -1997297863942064244
+      Fire - Portal-Sheet_94: -5006819387716951486
+      Fire - Portal-Sheet_95: 2208520265960991335
+      Fire - Portal-Sheet_96: -4735772694328140608
+      Fire - Portal-Sheet_97: 1110359086320571205
+      Fire - Portal-Sheet_98: -5532680382412512206
+      Fire - Portal-Sheet_99: -4240896855639272261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

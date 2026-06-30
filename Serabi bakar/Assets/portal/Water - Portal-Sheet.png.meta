@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 51ac43e12572dd545b0339dee8e4da5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5475221552929766604
+    second: Water - Portal-Sheet_0
+  - first:
+      213: 8165749163560767502
+    second: Water - Portal-Sheet_1
+  - first:
+      213: -8797950872442379693
+    second: Water - Portal-Sheet_2
+  - first:
+      213: 5062086853565349218
+    second: Water - Portal-Sheet_3
+  - first:
+      213: 5948016847387417238
+    second: Water - Portal-Sheet_4
+  - first:
+      213: 7441549120132550524
+    second: Water - Portal-Sheet_5
+  - first:
+      213: 8405031975389059939
+    second: Water - Portal-Sheet_6
+  - first:
+      213: 2996783364765087341
+    second: Water - Portal-Sheet_7
+  - first:
+      213: 3517696685381578237
+    second: Water - Portal-Sheet_8
+  - first:
+      213: -6494724490184913408
+    second: Water - Portal-Sheet_9
+  - first:
+      213: 8070150670888300008
+    second: Water - Portal-Sheet_10
+  - first:
+      213: 8743312501119103058
+    second: Water - Portal-Sheet_11
+  - first:
+      213: 8169529219028834983
+    second: Water - Portal-Sheet_12
+  - first:
+      213: 7409204970825376265
+    second: Water - Portal-Sheet_13
+  - first:
+      213: -6333220101155144552
+    second: Water - Portal-Sheet_14
+  - first:
+      213: 5543781939996997460
+    second: Water - Portal-Sheet_15
+  - first:
+      213: -1242529815533138781
+    second: Water - Portal-Sheet_16
+  - first:
+      213: 2419487799674490938
+    second: Water - Portal-Sheet_17
+  - first:
+      213: -1199904554521673327
+    second: Water - Portal-Sheet_18
+  - first:
+      213: 1040616387806964365
+    second: Water - Portal-Sheet_19
+  - first:
+      213: -639309266167743863
+    second: Water - Portal-Sheet_20
+  - first:
+      213: -4519992309014441620
+    second: Water - Portal-Sheet_21
+  - first:
+      213: 6383483936337119237
+    second: Water - Portal-Sheet_22
+  - first:
+      213: -7302026902821203473
+    second: Water - Portal-Sheet_23
+  - first:
+      213: -3605247242172582374
+    second: Water - Portal-Sheet_24
+  - first:
+      213: 3382456101078829320
+    second: Water - Portal-Sheet_25
+  - first:
+      213: -7909841912124307611
+    second: Water - Portal-Sheet_26
+  - first:
+      213: -1035332471925147283
+    second: Water - Portal-Sheet_27
+  - first:
+      213: -5156840164920537534
+    second: Water - Portal-Sheet_28
+  - first:
+      213: 1971199378365072277
+    second: Water - Portal-Sheet_29
+  - first:
+      213: -8918036977408348001
+    second: Water - Portal-Sheet_30
+  - first:
+      213: 5268097806437922941
+    second: Water - Portal-Sheet_31
+  - first:
+      213: -8109173075411738757
+    second: Water - Portal-Sheet_32
+  - first:
+      213: -2200102318073076705
+    second: Water - Portal-Sheet_33
+  - first:
+      213: -7254950292800911973
+    second: Water - Portal-Sheet_34
+  - first:
+      213: -3573327201322568327
+    second: Water - Portal-Sheet_35
+  - first:
+      213: -3368028892176129734
+    second: Water - Portal-Sheet_36
+  - first:
+      213: -3096203491009669771
+    second: Water - Portal-Sheet_37
+  - first:
+      213: 744159123912376577
+    second: Water - Portal-Sheet_38
+  - first:
+      213: 1028742338246983446
+    second: Water - Portal-Sheet_39
+  - first:
+      213: 4765713357024172331
+    second: Water - Portal-Sheet_40
+  - first:
+      213: -966855347603773899
+    second: Water - Portal-Sheet_41
+  - first:
+      213: -3939476878922728670
+    second: Water - Portal-Sheet_42
+  - first:
+      213: -6297094946965063922
+    second: Water - Portal-Sheet_43
+  - first:
+      213: 3806678214747312142
+    second: Water - Portal-Sheet_44
+  - first:
+      213: -8174062152858273770
+    second: Water - Portal-Sheet_45
+  - first:
+      213: 2004168055112958136
+    second: Water - Portal-Sheet_46
+  - first:
+      213: 905529656362006253
+    second: Water - Portal-Sheet_47
+  - first:
+      213: 8921242966664785015
+    second: Water - Portal-Sheet_48
+  - first:
+      213: -1058490092055346596
+    second: Water - Portal-Sheet_49
+  - first:
+      213: -6912523623409092602
+    second: Water - Portal-Sheet_50
+  - first:
+      213: -9100362622383731606
+    second: Water - Portal-Sheet_51
+  - first:
+      213: 479694851642377515
+    second: Water - Portal-Sheet_52
+  - first:
+      213: -3533146685816754839
+    second: Water - Portal-Sheet_53
+  - first:
+      213: -5589691087970895688
+    second: Water - Portal-Sheet_54
+  - first:
+      213: 150923290107333709
+    second: Water - Portal-Sheet_55
+  - first:
+      213: -3050392511616044003
+    second: Water - Portal-Sheet_56
+  - first:
+      213: -3843796777065163935
+    second: Water - Portal-Sheet_57
+  - first:
+      213: -4144998043288625604
+    second: Water - Portal-Sheet_58
+  - first:
+      213: 4313885532425455409
+    second: Water - Portal-Sheet_59
+  - first:
+      213: -3619412640766124914
+    second: Water - Portal-Sheet_60
+  - first:
+      213: 3729971330536365998
+    second: Water - Portal-Sheet_61
+  - first:
+      213: -5650674594015842125
+    second: Water - Portal-Sheet_62
+  - first:
+      213: 3533978258737407553
+    second: Water - Portal-Sheet_63
+  - first:
+      213: 4096557370571330571
+    second: Water - Portal-Sheet_64
+  - first:
+      213: -3884333252266366193
+    second: Water - Portal-Sheet_65
+  - first:
+      213: 6839253232132889924
+    second: Water - Portal-Sheet_66
+  - first:
+      213: -3870013886330068283
+    second: Water - Portal-Sheet_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccf0f05ef4ebfb40800000000000000
+      internalID: 5475221552929766604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009bfaa991925170800000000000000
+      internalID: 8165749163560767502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352ebb88b4667e580800000000000000
+      internalID: -8797950872442379693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dffe85c25204640800000000000000
+      internalID: 5062086853565349218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ad09a0fc99b8250800000000000000
+      internalID: 5948016847387417238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f0f1c6f71b54760800000000000000
+      internalID: 7441549120132550524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b5dd2cc0ca4a470800000000000000
+      internalID: 8405031975389059939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667f95b796b69920800000000000000
+      internalID: 2996783364765087341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdecbf6f7e51d030800000000000000
+      internalID: 3517696685381578237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e8f789c7a1ed5a0800000000000000
+      internalID: -6494724490184913408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed6d26174feeff60800000000000000
+      internalID: 8070150670888300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250bf6d456c765970800000000000000
+      internalID: 8743312501119103058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa536a6a8fff5170800000000000000
+      internalID: 8169529219028834983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ea125aa8c2d660800000000000000
+      internalID: 7409204970825376265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cb8427fd1eb18a0800000000000000
+      internalID: -6333220101155144552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4573fbd5d487fec40800000000000000
+      internalID: 5543781939996997460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc05a47b5a1cee0800000000000000
+      internalID: -1242529815533138781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a305df5b55fb39120800000000000000
+      internalID: 2419487799674490938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191cc5f3a25195fe0800000000000000
+      internalID: -1199904554521673327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a2fae5713017e00800000000000000
+      internalID: 1040616387806964365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ab4701c97b027f0800000000000000
+      internalID: -639309266167743863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6152b161f2c541c0800000000000000
+      internalID: -4519992309014441620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50849c6a1d0b69850800000000000000
+      internalID: 6383483936337119237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe11ffc383df9aa90800000000000000
+      internalID: -7302026902821203473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16b8d21cb697fdc0800000000000000
+      internalID: -3605247242172582374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809082527e5e0fe20800000000000000
+      internalID: 3382456101078829320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567855660b89a3290800000000000000
+      internalID: -7909841912124307611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69797a2a92c1a1f0800000000000000
+      internalID: -1035332471925147283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ec17e21393f68b0800000000000000
+      internalID: -5156840164920537534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593cbe8046b1b5b10800000000000000
+      internalID: 1971199378365072277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f6cb6e94cc3480800000000000000
+      internalID: -8918036977408348001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d783fba1b0b0c1940800000000000000
+      internalID: 5268097806437922941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fdbe95d0e667f80800000000000000
+      internalID: -8109173075411738757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14adbd299aa771e0800000000000000
+      internalID: -2200102318073076705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4402
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954c76a52d315b90800000000000000
+      internalID: -7254950292800911973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9757deab7ddf86ec0800000000000000
+      internalID: -3573327201322568327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e690319b5241d0800000000000000
+      internalID: -3368028892176129734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5755b0e44531805d0800000000000000
+      internalID: -3096203491009669771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 4918
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c92dc7c8c35a00800000000000000
+      internalID: 744159123912376577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 5047
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fbd94c4b3d64e00800000000000000
+      internalID: 1028742338246983446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2992c26c07332240800000000000000
+      internalID: 4765713357024172331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536e3e81f2a0592f0800000000000000
+      internalID: -966855347603773899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b32fe96aa2459c0800000000000000
+      internalID: -3939476878922728670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 5563
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e077d3952893c98a0800000000000000
+      internalID: -6297094946965063922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005b3ceaa904d430800000000000000
+      internalID: 3806678214747312142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5821
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618faeea7c5ef8e80800000000000000
+      internalID: -8174062152858273770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 5950
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b081334a3c30db10800000000000000
+      internalID: 2004168055112958136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f90dbc66119c00800000000000000
+      internalID: 905529656362006253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca10f163f9ecb70800000000000000
+      internalID: 8921242966664785015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 6337
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5245c09edc7f41f0800000000000000
+      internalID: -1058490092055346596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 6466
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608743d7368c110a0800000000000000
+      internalID: -6912523623409092602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c4395296405b180800000000000000
+      internalID: -9100362622383731606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 6724
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254ab01de738a600800000000000000
+      internalID: 479694851642377515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 6853
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2b840fcdb7fec0800000000000000
+      internalID: -3533146685816754839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f359229d6d62b0800000000000000
+      internalID: -5589691087970895688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7111
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4e27ceef281200800000000000000
+      internalID: 150923290107333709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d143d9f1c24daa5d0800000000000000
+      internalID: -3050392511616044003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635d32523718aac0800000000000000
+      internalID: -3843796777065163935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 7498
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e9713ad320a76c0800000000000000
+      internalID: -4144998043288625604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 7627
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1378ae929000edb30800000000000000
+      internalID: 4313885532425455409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 7756
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c9393316345cdc0800000000000000
+      internalID: -3619412640766124914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 7885
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd203b92583c330800000000000000
+      internalID: 3729971330536365998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 8014
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b07c523565c491b0800000000000000
+      internalID: -5650674594015842125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 8143
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462ff3a0863b0130800000000000000
+      internalID: 3533978258737407553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 8272
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0499ea5935e9d830800000000000000
+      internalID: 4096557370571330571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 8401
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bec65bc73181ac0800000000000000
+      internalID: -3884333252266366193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 8530
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d19362498e9ee50800000000000000
+      internalID: 6839253232132889924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water - Portal-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 8659
+        y: 12
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2a775efd2fa4ac0800000000000000
+      internalID: -3870013886330068283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water - Portal-Sheet_0: 5475221552929766604
+      Water - Portal-Sheet_1: 8165749163560767502
+      Water - Portal-Sheet_10: 8070150670888300008
+      Water - Portal-Sheet_11: 8743312501119103058
+      Water - Portal-Sheet_12: 8169529219028834983
+      Water - Portal-Sheet_13: 7409204970825376265
+      Water - Portal-Sheet_14: -6333220101155144552
+      Water - Portal-Sheet_15: 5543781939996997460
+      Water - Portal-Sheet_16: -1242529815533138781
+      Water - Portal-Sheet_17: 2419487799674490938
+      Water - Portal-Sheet_18: -1199904554521673327
+      Water - Portal-Sheet_19: 1040616387806964365
+      Water - Portal-Sheet_2: -8797950872442379693
+      Water - Portal-Sheet_20: -639309266167743863
+      Water - Portal-Sheet_21: -4519992309014441620
+      Water - Portal-Sheet_22: 6383483936337119237
+      Water - Portal-Sheet_23: -7302026902821203473
+      Water - Portal-Sheet_24: -3605247242172582374
+      Water - Portal-Sheet_25: 3382456101078829320
+      Water - Portal-Sheet_26: -7909841912124307611
+      Water - Portal-Sheet_27: -1035332471925147283
+      Water - Portal-Sheet_28: -5156840164920537534
+      Water - Portal-Sheet_29: 1971199378365072277
+      Water - Portal-Sheet_3: 5062086853565349218
+      Water - Portal-Sheet_30: -8918036977408348001
+      Water - Portal-Sheet_31: 5268097806437922941
+      Water - Portal-Sheet_32: -8109173075411738757
+      Water - Portal-Sheet_33: -2200102318073076705
+      Water - Portal-Sheet_34: -7254950292800911973
+      Water - Portal-Sheet_35: -3573327201322568327
+      Water - Portal-Sheet_36: -3368028892176129734
+      Water - Portal-Sheet_37: -3096203491009669771
+      Water - Portal-Sheet_38: 744159123912376577
+      Water - Portal-Sheet_39: 1028742338246983446
+      Water - Portal-Sheet_4: 5948016847387417238
+      Water - Portal-Sheet_40: 4765713357024172331
+      Water - Portal-Sheet_41: -966855347603773899
+      Water - Portal-Sheet_42: -3939476878922728670
+      Water - Portal-Sheet_43: -6297094946965063922
+      Water - Portal-Sheet_44: 3806678214747312142
+      Water - Portal-Sheet_45: -8174062152858273770
+      Water - Portal-Sheet_46: 2004168055112958136
+      Water - Portal-Sheet_47: 905529656362006253
+      Water - Portal-Sheet_48: 8921242966664785015
+      Water - Portal-Sheet_49: -1058490092055346596
+      Water - Portal-Sheet_5: 7441549120132550524
+      Water - Portal-Sheet_50: -6912523623409092602
+      Water - Portal-Sheet_51: -9100362622383731606
+      Water - Portal-Sheet_52: 479694851642377515
+      Water - Portal-Sheet_53: -3533146685816754839
+      Water - Portal-Sheet_54: -5589691087970895688
+      Water - Portal-Sheet_55: 150923290107333709
+      Water - Portal-Sheet_56: -3050392511616044003
+      Water - Portal-Sheet_57: -3843796777065163935
+      Water - Portal-Sheet_58: -4144998043288625604
+      Water - Portal-Sheet_59: 4313885532425455409
+      Water - Portal-Sheet_6: 8405031975389059939
+      Water - Portal-Sheet_60: -3619412640766124914
+      Water - Portal-Sheet_61: 3729971330536365998
+      Water - Portal-Sheet_62: -5650674594015842125
+      Water - Portal-Sheet_63: 3533978258737407553
+      Water - Portal-Sheet_64: 4096557370571330571
+      Water - Portal-Sheet_65: -3884333252266366193
+      Water - Portal-Sheet_66: 6839253232132889924
+      Water - Portal-Sheet_67: -3870013886330068283
+      Water - Portal-Sheet_7: 2996783364765087341
+      Water - Portal-Sheet_8: 3517696685381578237
+      Water - Portal-Sheet_9: -6494724490184913408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
