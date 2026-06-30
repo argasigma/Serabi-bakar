@@ -144,10 +144,18 @@ public class PlayerController : MonoBehaviour
         }
 
         Vector3 spawnPos = bulletSpawnPoint != null
-            ? bulletSpawnPoint.position
-            : transform.position;
+            ? bulletSpawnPoint.position + new Vector3(0, 0.8f, 0)
+            : transform.position + new Vector3(0, 0.8f, 0);
 
         GameObject bulletObj = Instantiate(bulletPrefab, spawnPos, Quaternion.identity);
+
+        Collider2D playerCollider = GetComponent<Collider2D>();
+        Collider2D bulletCollider = bulletObj.GetComponent<Collider2D>();
+
+        if (playerCollider != null && bulletCollider != null)
+        {
+            Physics2D.IgnoreCollision(playerCollider, bulletCollider);
+        }
 
         Bullet bullet = bulletObj.GetComponent<Bullet>();
 
