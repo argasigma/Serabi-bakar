@@ -17,11 +17,6 @@ public class GameManager : MonoBehaviour
         Instance = this;
     }
 
-    void Start()
-    {
-        currentState = GameState.Playing;
-    }
-
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
