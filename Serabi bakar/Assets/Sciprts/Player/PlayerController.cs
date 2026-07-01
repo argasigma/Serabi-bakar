@@ -67,11 +67,20 @@ public class PlayerController : MonoBehaviour
 
             if (moveInput != Vector2.zero)
             {
-                animator.SetFloat("MoveX", moveInput.x);
+                animator.SetFloat("MoveX", Mathf.Abs(moveInput.x));
                 animator.SetFloat("MoveY", moveInput.y);
 
-                animator.SetFloat("LastX", moveInput.x);
-                animator.SetFloat("LastY", moveInput.y);
+                if (moveInput.x != 0)
+                {
+                    animator.SetFloat("LastX", 1);
+                    animator.SetFloat("LastY", 0);
+                }
+
+                if (moveInput.y != 0)
+                {
+                    animator.SetFloat("LastX", 0);
+                    animator.SetFloat("LastY", moveInput.y);
+                }
             }
 
             if (moveInput.x < 0)

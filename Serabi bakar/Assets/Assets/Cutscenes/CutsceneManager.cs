@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using System.Collections;
+using TMPro;
 
 public class CutsceneManager : MonoBehaviour
 {
@@ -14,11 +15,15 @@ public class CutsceneManager : MonoBehaviour
     private int currentI; // current index
 
     public CanvasGroup canvasGroup;
-    public float fadeSpeed = 0.5f;
+    private float imageFadeSpeed = 1.7f;
     private bool isTransitioning = false;
 
     public CanvasGroup blackCanvasGroup;
     public GameObject blackScreen;
+    // texts
+    public TMP_Text cutsceneText;
+    private float textFadeSpeed = 4.5f;
+    public CanvasGroup textCanvasGroup;
 
     void Awake()
     {
@@ -71,6 +76,7 @@ public class CutsceneManager : MonoBehaviour
 
         currentI = 0;
         canvasGroup.alpha = 0;
+        textCanvasGroup.alpha = 0;
         
         StartCoroutine(ChangeImage());
     }
@@ -85,7 +91,7 @@ public class CutsceneManager : MonoBehaviour
         isTransitioning = true;
 
         yield return StartCoroutine(FadeOut());
-        yield return new WaitForSeconds(1.4f);
+        yield return new WaitForSeconds(3);
 
         cutscenePanel.SetActive(false);
 
@@ -99,7 +105,7 @@ public class CutsceneManager : MonoBehaviour
     {
         while (blackCanvasGroup.alpha > 0)
         {
-            blackCanvasGroup.alpha -= Time.deltaTime * fadeSpeed;
+            blackCanvasGroup.alpha -= Time.deltaTime * imageFadeSpeed;
             yield return null;
         }
 
@@ -111,7 +117,7 @@ public class CutsceneManager : MonoBehaviour
     {
         while (canvasGroup.alpha > 0)
         {
-            canvasGroup.alpha -= Time.deltaTime * fadeSpeed;
+            canvasGroup.alpha -= Time.deltaTime * imageFadeSpeed;
             yield return null;
         }
     }
@@ -120,9 +126,31 @@ public class CutsceneManager : MonoBehaviour
     {
         while (canvasGroup.alpha < 1)
         {
-            canvasGroup.alpha += Time.deltaTime * fadeSpeed;
+            canvasGroup.alpha += Time.deltaTime * imageFadeSpeed;
             yield return null;
         }
+    }
+
+    IEnumerator TextFadeOut()
+    {
+        while (textCanvasGroup.alpha > 0)
+        {
+            textCanvasGroup.alpha -= Time.deltaTime * textFadeSpeed;
+            yield return null;
+        }
+
+        textCanvasGroup.alpha = 0;
+    }
+
+    IEnumerator TextFadeIn()
+    {
+        while (textCanvasGroup.alpha < 1)
+        {
+            textCanvasGroup.alpha += Time.deltaTime * textFadeSpeed;
+            yield return null;
+        }
+
+        textCanvasGroup.alpha = 1;
     }
 
     // alur/flow fade in setiap berubah cutscene
@@ -130,12 +158,15 @@ public class CutsceneManager : MonoBehaviour
     {
         isTransitioning = true;
 
+        yield return StartCoroutine(TextFadeOut());
         yield return StartCoroutine(FadeOut());
-        yield return new WaitForSeconds(1.4f);
+        yield return new WaitForSeconds(0.7f); // durasi black screen antar image setelah fade out
 
         image.sprite = cutsceneSprites[currentI];
 
         yield return StartCoroutine(FadeIn());
+        yield return new WaitForSeconds(1);
+        yield return StartCoroutine(TextFadeIn());
 
         isTransitioning = false;
     }
