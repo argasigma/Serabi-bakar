@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     private Animator animator;
     private SpriteRenderer spriteRenderer;
-    public GameObject bulletPrefab;
+    [SerializeField] private GameObject[] bulletPrefabs;
     public Transform bulletSpawnPoint;
     [SerializeField] private PlayerData playerData;
 
@@ -29,6 +29,8 @@ public class PlayerController : MonoBehaviour
     private bool isReloading = false;
     
     private float attackDuration = 1f;
+
+    private int currentSkill = 0;
 
     void Start()
     {
@@ -90,7 +92,12 @@ public class PlayerController : MonoBehaviour
 
             attackInput = playerInput.actions["Attack"].ReadValue<float>();
 
-            bool aiming = Keyboard.current.digit1Key.isPressed;
+            HandleSkillSelection();
+
+            bool aiming =
+                Keyboard.current.digit1Key.isPressed ||
+                Keyboard.current.digit2Key.isPressed ||
+                Keyboard.current.digit3Key.isPressed;
 
             if (aiming && previousAttackInput == 0 && attackInput > 0)
             {
@@ -146,7 +153,7 @@ public class PlayerController : MonoBehaviour
 
     void SpawnBullet()
     {
-        if (bulletPrefab == null)
+        if (bulletPrefabs == null)
         {
             Debug.LogWarning("Bullet prefab not assigned!");
             return;
@@ -156,7 +163,7 @@ public class PlayerController : MonoBehaviour
             ? bulletSpawnPoint.position + new Vector3(0, 0.8f, 0)
             : transform.position + new Vector3(0, 0.8f, 0);
 
-        GameObject bulletObj = Instantiate(bulletPrefab, spawnPos, Quaternion.identity);
+        GameObject bulletObj = Instantiate(bulletPrefabs[currentSkill], spawnPos, Quaternion.identity);
 
         Collider2D playerCollider = GetComponent<Collider2D>();
         Collider2D bulletCollider = bulletObj.GetComponent<Collider2D>();
@@ -197,6 +204,32 @@ public class PlayerController : MonoBehaviour
         if (currentHP <= 0 && GameManager.Instance != null)
         {
             GameManager.Instance.GameOver();
+        }
+    }
+
+    void HandleSkillSelection()
+    {
+        if (IconSkillManager.Instance == null)
+            return;
+
+        if (Keyboard.current.digit1Key.isPressed)
+        {
+            currentSkill = 0;
+            IconSkillManager.Instance.SelectSkill(0);
+        }
+        else if (Keyboard.current.digit2Key.isPressed)
+        {
+            currentSkill = 1;
+            IconSkillManager.Instance.SelectSkill(1);
+        }
+        else if (Keyboard.current.digit3Key.isPressed)
+        {
+            currentSkill = 2;
+            IconSkillManager.Instance.SelectSkill(2);
+        }
+        else
+        {
+            IconSkillManager.Instance.SelectSkill(-1);
         }
     }
 }

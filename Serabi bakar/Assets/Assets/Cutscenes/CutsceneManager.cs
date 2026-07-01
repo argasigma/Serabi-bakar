@@ -12,18 +12,21 @@ public class CutsceneManager : MonoBehaviour
     public Image image; // cutscene image game object
 
     public Sprite[] cutsceneSprites;
+    [SerializeField] private bool[] useFade;
     private int currentI; // current index
 
     public CanvasGroup canvasGroup;
-    private float imageFadeSpeed = 1.7f;
+    private float imageFadeSpeed = 0.7f;
     private bool isTransitioning = false;
 
     public CanvasGroup blackCanvasGroup;
     public GameObject blackScreen;
+
     // texts
     public TMP_Text cutsceneText;
-    private float textFadeSpeed = 4.5f;
+    private float textFadeSpeed = 3f;
     public CanvasGroup textCanvasGroup;
+    private Coroutine blinkCoroutine;
 
     void Awake()
     {
@@ -83,6 +86,9 @@ public class CutsceneManager : MonoBehaviour
 
     public void EndCutscene()
     {
+        if (isTransitioning)
+            return;
+
         StartCoroutine(EndCutsceneRoutine());
     }
 
@@ -90,8 +96,15 @@ public class CutsceneManager : MonoBehaviour
     {
         isTransitioning = true;
 
+        if (blinkCoroutine != null)
+        {
+            StopCoroutine(blinkCoroutine);
+            blinkCoroutine = null;
+        }
+
+        yield return StartCoroutine(TextFadeOut());
         yield return StartCoroutine(FadeOut());
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(3.5f);
 
         cutscenePanel.SetActive(false);
 
@@ -120,6 +133,8 @@ public class CutsceneManager : MonoBehaviour
             canvasGroup.alpha -= Time.deltaTime * imageFadeSpeed;
             yield return null;
         }
+
+        canvasGroup.alpha = 0;
     }
 
     IEnumerator FadeIn()
@@ -129,6 +144,8 @@ public class CutsceneManager : MonoBehaviour
             canvasGroup.alpha += Time.deltaTime * imageFadeSpeed;
             yield return null;
         }
+
+        canvasGroup.alpha = 1;
     }
 
     IEnumerator TextFadeOut()
@@ -153,20 +170,68 @@ public class CutsceneManager : MonoBehaviour
         textCanvasGroup.alpha = 1;
     }
 
-    // alur/flow fade in setiap berubah cutscene
+    IEnumerator BlinkText()
+    {
+        while (true)
+        {
+            // Fade out
+            while (textCanvasGroup.alpha > 0)
+            {
+                textCanvasGroup.alpha -= Time.deltaTime * 1.5f;
+                yield return null;
+            }
+
+            textCanvasGroup.alpha = 0;
+
+            yield return new WaitForSeconds(0.3f);
+
+            // Fade in
+            while (textCanvasGroup.alpha < 1)
+            {
+                textCanvasGroup.alpha += Time.deltaTime * 1.5f;
+                yield return null;
+            }
+
+            textCanvasGroup.alpha = 1;
+
+            yield return new WaitForSeconds(1);
+        }
+    }
+
+    // alur/flow fade in dan fade out cutscene
     IEnumerator ChangeImage()
     {
         isTransitioning = true;
 
-        yield return StartCoroutine(TextFadeOut());
-        yield return StartCoroutine(FadeOut());
-        yield return new WaitForSeconds(0.7f); // durasi black screen antar image setelah fade out
+        if (blinkCoroutine != null)
+        {
+            StopCoroutine(blinkCoroutine);
+            blinkCoroutine = null;
+        }
 
-        image.sprite = cutsceneSprites[currentI];
+        bool shouldFade = currentI < useFade.Length && useFade[currentI];
 
-        yield return StartCoroutine(FadeIn());
-        yield return new WaitForSeconds(1);
-        yield return StartCoroutine(TextFadeIn());
+        if (shouldFade)
+        {
+            yield return StartCoroutine(TextFadeOut());
+            yield return StartCoroutine(FadeOut());
+            yield return new WaitForSeconds(2f);
+
+            image.sprite = cutsceneSprites[currentI];
+
+            yield return StartCoroutine(FadeIn());
+            yield return new WaitForSeconds(2f);
+            yield return StartCoroutine(TextFadeIn());
+            blinkCoroutine = StartCoroutine(BlinkText());
+        }
+        else
+        {
+            image.sprite = cutsceneSprites[currentI];
+            canvasGroup.alpha = 1;
+            textCanvasGroup.alpha = 1;
+
+            blinkCoroutine = StartCoroutine(BlinkText());
+        }
 
         isTransitioning = false;
     }
