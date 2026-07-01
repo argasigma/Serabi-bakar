@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 19dac4db83c62cf488efdff08d8fdbbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1651306952873667987
+    second: Ice - Portal-Sheet_0
+  - first:
+      213: 6814446700665613866
+    second: Ice - Portal-Sheet_1
+  - first:
+      213: 4503934869643503903
+    second: Ice - Portal-Sheet_2
+  - first:
+      213: 3246742281359822312
+    second: Ice - Portal-Sheet_3
+  - first:
+      213: -329986851546808059
+    second: Ice - Portal-Sheet_4
+  - first:
+      213: -3017426675362156268
+    second: Ice - Portal-Sheet_5
+  - first:
+      213: -5592032718888832461
+    second: Ice - Portal-Sheet_6
+  - first:
+      213: -1021504214685510742
+    second: Ice - Portal-Sheet_7
+  - first:
+      213: 1316069281889839065
+    second: Ice - Portal-Sheet_8
+  - first:
+      213: -112772581284347900
+    second: Ice - Portal-Sheet_9
+  - first:
+      213: -4617400031745108966
+    second: Ice - Portal-Sheet_10
+  - first:
+      213: 1179482712365095982
+    second: Ice - Portal-Sheet_11
+  - first:
+      213: 3869203073105812528
+    second: Ice - Portal-Sheet_12
+  - first:
+      213: -8557366083214550359
+    second: Ice - Portal-Sheet_13
+  - first:
+      213: -99957142958675679
+    second: Ice - Portal-Sheet_14
+  - first:
+      213: 4483886929059058269
+    second: Ice - Portal-Sheet_15
+  - first:
+      213: 2105047045881479625
+    second: Ice - Portal-Sheet_16
+  - first:
+      213: 7645480638017146780
+    second: Ice - Portal-Sheet_17
+  - first:
+      213: 7451496844180523007
+    second: Ice - Portal-Sheet_18
+  - first:
+      213: -4333127161754586213
+    second: Ice - Portal-Sheet_19
+  - first:
+      213: 3346333220779158367
+    second: Ice - Portal-Sheet_20
+  - first:
+      213: 5120804479193595519
+    second: Ice - Portal-Sheet_21
+  - first:
+      213: 1033318654571940990
+    second: Ice - Portal-Sheet_22
+  - first:
+      213: 5030959341013147138
+    second: Ice - Portal-Sheet_23
+  - first:
+      213: -3971226381354309833
+    second: Ice - Portal-Sheet_24
+  - first:
+      213: -7877173204082125987
+    second: Ice - Portal-Sheet_25
+  - first:
+      213: -5296887556302866743
+    second: Ice - Portal-Sheet_26
+  - first:
+      213: -5249442713982424510
+    second: Ice - Portal-Sheet_27
+  - first:
+      213: 4868869051669036472
+    second: Ice - Portal-Sheet_28
+  - first:
+      213: -6272327829422548987
+    second: Ice - Portal-Sheet_29
+  - first:
+      213: -6656844976968223892
+    second: Ice - Portal-Sheet_30
+  - first:
+      213: 9178983421393369390
+    second: Ice - Portal-Sheet_31
+  - first:
+      213: 8223428986124354431
+    second: Ice - Portal-Sheet_32
+  - first:
+      213: -4726398310514815991
+    second: Ice - Portal-Sheet_33
+  - first:
+      213: -7585654384943262905
+    second: Ice - Portal-Sheet_34
+  - first:
+      213: 6634182214768034348
+    second: Ice - Portal-Sheet_35
+  - first:
+      213: 4825797036544872138
+    second: Ice - Portal-Sheet_36
+  - first:
+      213: 2532503496805321874
+    second: Ice - Portal-Sheet_37
+  - first:
+      213: 2827990456461649161
+    second: Ice - Portal-Sheet_38
+  - first:
+      213: 3360437616027001196
+    second: Ice - Portal-Sheet_39
+  - first:
+      213: -768088634533132875
+    second: Ice - Portal-Sheet_40
+  - first:
+      213: 8236693442264106769
+    second: Ice - Portal-Sheet_41
+  - first:
+      213: 2259560124295070364
+    second: Ice - Portal-Sheet_42
+  - first:
+      213: 6137811065092617964
+    second: Ice - Portal-Sheet_43
+  - first:
+      213: 6330300881649145160
+    second: Ice - Portal-Sheet_44
+  - first:
+      213: -3976127983103948965
+    second: Ice - Portal-Sheet_45
+  - first:
+      213: -8061133858305569060
+    second: Ice - Portal-Sheet_46
+  - first:
+      213: 4318267990797192255
+    second: Ice - Portal-Sheet_47
+  - first:
+      213: 2768102936798058776
+    second: Ice - Portal-Sheet_48
+  - first:
+      213: 5062396480236407595
+    second: Ice - Portal-Sheet_49
+  - first:
+      213: 7632232418534388457
+    second: Ice - Portal-Sheet_50
+  - first:
+      213: 5614392122750757311
+    second: Ice - Portal-Sheet_51
+  - first:
+      213: -7497899678778432180
+    second: Ice - Portal-Sheet_52
+  - first:
+      213: -2392565297526033268
+    second: Ice - Portal-Sheet_53
+  - first:
+      213: -7150202973352193281
+    second: Ice - Portal-Sheet_54
+  - first:
+      213: 4131542999142588852
+    second: Ice - Portal-Sheet_55
+  - first:
+      213: -3013314121472769344
+    second: Ice - Portal-Sheet_56
+  - first:
+      213: 8969191894810742714
+    second: Ice - Portal-Sheet_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6215da43116519e0800000000000000
+      internalID: -1651306952873667987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ea1067b27c19e50800000000000000
+      internalID: 6814446700665613866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19a89ca6e0318e30800000000000000
+      internalID: 4503934869643503903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed81b527eebe0d20800000000000000
+      internalID: 3246742281359822312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501c005f4b6ab6bf0800000000000000
+      internalID: -329986851546808059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411304ffc62ff16d0800000000000000
+      internalID: -3017426675362156268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332f44abedb1562b0800000000000000
+      internalID: -5592032718888832461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31b133453e2d1f0800000000000000
+      internalID: -1021504214685510742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7e8def90e934210800000000000000
+      internalID: 1316069281889839065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40084205fe95f6ef0800000000000000
+      internalID: -112772581284347900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1494f99223bbefb0800000000000000
+      internalID: -4617400031745108966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c5c39174d5e5010800000000000000
+      internalID: 1179482712365095982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c5250f1bb22b530800000000000000
+      internalID: 3869203073105812528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa550dd2e02e3980800000000000000
+      internalID: -8557366083214550359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1296f211281ec9ef0800000000000000
+      internalID: -99957142958675679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d521593c767f93e30800000000000000
+      internalID: 4483886929059058269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1404d9221a63d10800000000000000
+      internalID: 2105047045881479625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f832ef1243a1a60800000000000000
+      internalID: 7645480638017146780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7035a66e8096760800000000000000
+      internalID: 7451496844180523007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937505edc3add3c0800000000000000
+      internalID: -4333127161754586213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b61aca550907e20800000000000000
+      internalID: 3346333220779158367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e309aea80c01740800000000000000
+      internalID: 5120804479193595519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c8b8177d5175e00800000000000000
+      internalID: 1033318654571940990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e95809dde81d540800000000000000
+      internalID: 5030959341013147138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73767b885ae53e8c0800000000000000
+      internalID: -3971226381354309833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d539578b4b8aea290800000000000000
+      internalID: -7877173204082125987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c67167e4dcad76b0800000000000000
+      internalID: -5296887556302866743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aa0541aab3627b0800000000000000
+      internalID: -5249442713982424510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd30aa2b92b19340800000000000000
+      internalID: 4868869051669036472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d874421734f8a0800000000000000
+      internalID: -6272327829422548987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6337fe43c22e93a0800000000000000
+      internalID: -6656844976968223892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29f9571acc426f70800000000000000
+      internalID: 9178983421393369390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73c791e71d7f1270800000000000000
+      internalID: 8223428986124354431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c02c237c5786eb0800000000000000
+      internalID: -4726398310514815991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743929407875ab690800000000000000
+      internalID: -7585654384943262905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22867e2399511c50800000000000000
+      internalID: 6634182214768034348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4034
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec36926dca8f240800000000000000
+      internalID: 4825797036544872138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c04873382452320800000000000000
+      internalID: 2532503496805321874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9056799365a0f3720800000000000000
+      internalID: 2827990456461649161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c616629153ca2ae20800000000000000
+      internalID: 3360437616027001196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b543a6d4733755f0800000000000000
+      internalID: -768088634533132875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11701fdbb0d9e4270800000000000000
+      internalID: 8236693442264106769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ce3d16f19b5f10800000000000000
+      internalID: 2259560124295070364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6be49e4a2ed2550800000000000000
+      internalID: 6137811065092617964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8451a0ccc1fb9d750800000000000000
+      internalID: 6330300881649145160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5749917aa4f1d8c0800000000000000
+      internalID: -3976127983103948965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde82d03779112090800000000000000
+      internalID: -8061133858305569060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 5266
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c0864cbd19deb30800000000000000
+      internalID: 4318267990797192255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819509974f64a6620800000000000000
+      internalID: 2768102936798058776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bcdace6ce314640800000000000000
+      internalID: 5062396480236407595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 5602
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e276f582f22be960800000000000000
+      internalID: 7632232418534388457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 5714
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96f4aa3e35aed40800000000000000
+      internalID: 5614392122750757311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 5826
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4565ecb7fb12f790800000000000000
+      internalID: -7497899678778432180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 5938
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84b80bc986ebced0800000000000000
+      internalID: -2392565297526033268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29665774065cc90800000000000000
+      internalID: -7150202973352193281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 6162
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b16526c770365930800000000000000
+      internalID: 4131542999142588852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 6274
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c282f095ce8e26d0800000000000000
+      internalID: -3013314121472769344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice - Portal-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 6386
+        y: 3
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc18ce188f87c70800000000000000
+      internalID: 8969191894810742714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice - Portal-Sheet_0: -1651306952873667987
+      Ice - Portal-Sheet_1: 6814446700665613866
+      Ice - Portal-Sheet_10: -4617400031745108966
+      Ice - Portal-Sheet_11: 1179482712365095982
+      Ice - Portal-Sheet_12: 3869203073105812528
+      Ice - Portal-Sheet_13: -8557366083214550359
+      Ice - Portal-Sheet_14: -99957142958675679
+      Ice - Portal-Sheet_15: 4483886929059058269
+      Ice - Portal-Sheet_16: 2105047045881479625
+      Ice - Portal-Sheet_17: 7645480638017146780
+      Ice - Portal-Sheet_18: 7451496844180523007
+      Ice - Portal-Sheet_19: -4333127161754586213
+      Ice - Portal-Sheet_2: 4503934869643503903
+      Ice - Portal-Sheet_20: 3346333220779158367
+      Ice - Portal-Sheet_21: 5120804479193595519
+      Ice - Portal-Sheet_22: 1033318654571940990
+      Ice - Portal-Sheet_23: 5030959341013147138
+      Ice - Portal-Sheet_24: -3971226381354309833
+      Ice - Portal-Sheet_25: -7877173204082125987
+      Ice - Portal-Sheet_26: -5296887556302866743
+      Ice - Portal-Sheet_27: -5249442713982424510
+      Ice - Portal-Sheet_28: 4868869051669036472
+      Ice - Portal-Sheet_29: -6272327829422548987
+      Ice - Portal-Sheet_3: 3246742281359822312
+      Ice - Portal-Sheet_30: -6656844976968223892
+      Ice - Portal-Sheet_31: 9178983421393369390
+      Ice - Portal-Sheet_32: 8223428986124354431
+      Ice - Portal-Sheet_33: -4726398310514815991
+      Ice - Portal-Sheet_34: -7585654384943262905
+      Ice - Portal-Sheet_35: 6634182214768034348
+      Ice - Portal-Sheet_36: 4825797036544872138
+      Ice - Portal-Sheet_37: 2532503496805321874
+      Ice - Portal-Sheet_38: 2827990456461649161
+      Ice - Portal-Sheet_39: 3360437616027001196
+      Ice - Portal-Sheet_4: -329986851546808059
+      Ice - Portal-Sheet_40: -768088634533132875
+      Ice - Portal-Sheet_41: 8236693442264106769
+      Ice - Portal-Sheet_42: 2259560124295070364
+      Ice - Portal-Sheet_43: 6137811065092617964
+      Ice - Portal-Sheet_44: 6330300881649145160
+      Ice - Portal-Sheet_45: -3976127983103948965
+      Ice - Portal-Sheet_46: -8061133858305569060
+      Ice - Portal-Sheet_47: 4318267990797192255
+      Ice - Portal-Sheet_48: 2768102936798058776
+      Ice - Portal-Sheet_49: 5062396480236407595
+      Ice - Portal-Sheet_5: -3017426675362156268
+      Ice - Portal-Sheet_50: 7632232418534388457
+      Ice - Portal-Sheet_51: 5614392122750757311
+      Ice - Portal-Sheet_52: -7497899678778432180
+      Ice - Portal-Sheet_53: -2392565297526033268
+      Ice - Portal-Sheet_54: -7150202973352193281
+      Ice - Portal-Sheet_55: 4131542999142588852
+      Ice - Portal-Sheet_56: -3013314121472769344
+      Ice - Portal-Sheet_57: 8969191894810742714
+      Ice - Portal-Sheet_6: -5592032718888832461
+      Ice - Portal-Sheet_7: -1021504214685510742
+      Ice - Portal-Sheet_8: 1316069281889839065
+      Ice - Portal-Sheet_9: -112772581284347900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
