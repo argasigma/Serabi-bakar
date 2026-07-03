@@ -27746,7 +27746,7 @@ GameObject:
   - component: {fileID: 1309874163}
   m_Layer: 0
   m_Name: FireTeleport
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -129905,7 +129905,7 @@ GameObject:
   - component: {fileID: 1626036786}
   m_Layer: 6
   m_Name: FireBoss
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
