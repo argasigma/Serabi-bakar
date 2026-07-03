@@ -3817,7 +3817,7 @@ GameObject:
   - component: {fileID: 418448340}
   m_Layer: 6
   m_Name: WaterBoss
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7890,7 +7890,7 @@ GameObject:
   - component: {fileID: 851959716}
   m_Layer: 0
   m_Name: Ice
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25807,7 +25807,7 @@ GameObject:
   - component: {fileID: 998602593}
   m_Layer: 0
   m_Name: WaterTeleport
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -243748,7 +243748,7 @@ GameObject:
   - component: {fileID: 2028537798}
   m_Layer: 6
   m_Name: IceBoss
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
