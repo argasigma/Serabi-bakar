@@ -24,11 +24,11 @@ public class PlayerController : MonoBehaviour
 
     // Reload systems
     [SerializeField] private int maxBullet = 4;
-    [SerializeField] private float reloadTime = 5f;
+    [SerializeField] private float reloadTime = 7f;
     private int bulletFired = 0;
     private bool isReloading = false;
     
-    private float attackDuration = 1f;
+    private float attackDuration = 1.3f;
 
     private int currentSkill = 0;
 
@@ -72,16 +72,15 @@ public class PlayerController : MonoBehaviour
                 animator.SetFloat("MoveX", Mathf.Abs(moveInput.x));
                 animator.SetFloat("MoveY", moveInput.y);
 
-                if (moveInput.x != 0)
+                if (Mathf.Abs(moveInput.x) > Mathf.Abs(moveInput.y))
                 {
-                    animator.SetFloat("LastX", 1);
+                    animator.SetFloat("LastX", Mathf.Sign(moveInput.x));
                     animator.SetFloat("LastY", 0);
                 }
-
-                if (moveInput.y != 0)
+                else
                 {
                     animator.SetFloat("LastX", 0);
-                    animator.SetFloat("LastY", moveInput.y);
+                    animator.SetFloat("LastY", Mathf.Sign(moveInput.y));
                 }
             }
 
@@ -110,6 +109,13 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (GameManager.Instance != null &&
+            GameManager.Instance.currentState != GameState.Playing)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
         rb.linearVelocity = moveInput.normalized * speed;
     }
 
@@ -141,6 +147,12 @@ public class PlayerController : MonoBehaviour
     {
         isReloading = true;
 
+        IconSkillManager.Instance.SelectSkill(-1);
+
+        StartCoroutine(
+            IconSkillManager.Instance.CooldownUI(reloadTime)
+        );
+
         Debug.Log("Reloading...");
 
         yield return new WaitForSeconds(reloadTime);
@@ -159,9 +171,12 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
-        Vector3 spawnPos = bulletSpawnPoint != null
-            ? bulletSpawnPoint.position + new Vector3(0, 0.8f, 0)
-            : transform.position + new Vector3(0, 0.8f, 0);
+        // jarak 1f dari player sesuai arah cursor
+        Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mousePos.z = 0f;
+
+        Vector2 direction = (mousePos - transform.position).normalized;
+        Vector3 spawnPos = transform.position + (Vector3)(direction * 0.3f);
 
         GameObject bulletObj = Instantiate(bulletPrefabs[currentSkill], spawnPos, Quaternion.identity);
 
@@ -212,6 +227,9 @@ public class PlayerController : MonoBehaviour
         if (IconSkillManager.Instance == null)
             return;
 
+        if (isReloading)
+            return;
+
         if (Keyboard.current.digit1Key.isPressed)
         {
             currentSkill = 0;
@@ -231,5 +249,14 @@ public class PlayerController : MonoBehaviour
         {
             IconSkillManager.Instance.SelectSkill(-1);
         }
+    }
+
+    public void StopPlayer()
+    {
+        moveInput = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
+
+        speed = originalSpeed;
+        animator.SetFloat("Speed", 0);
     }
 }
