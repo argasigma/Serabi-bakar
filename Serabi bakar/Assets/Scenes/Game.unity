@@ -3851,7 +3851,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destination: {fileID: 876803602}
   screenFader: {fileID: 185184507}
-  isOpen: 0
 --- !u!61 &418448341
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28629,7 +28628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eefe7b403b0bd704188056557c8b7fa6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupEffect: {fileID: 0}
 --- !u!61 &1443535884
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -129941,7 +129939,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destination: {fileID: 851959715}
   screenFader: {fileID: 185184507}
-  isOpen: 0
 --- !u!61 &1626036787
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -212738,7 +212735,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destination: {fileID: 1309874161}
   screenFader: {fileID: 185184507}
-  isOpen: 0
 --- !u!61 &1907145741
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -243270,7 +243266,7 @@ GameObject:
   - component: {fileID: 1943987353}
   m_Layer: 0
   m_Name: Fire
-  m_TagString: Untagged
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -243786,7 +243782,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destination: {fileID: 998602592}
   screenFader: {fileID: 185184507}
-  isOpen: 0
 --- !u!61 &2028537799
 BoxCollider2D:
   m_ObjectHideFlags: 0

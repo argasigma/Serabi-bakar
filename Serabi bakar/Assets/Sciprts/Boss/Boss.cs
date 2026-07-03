@@ -26,7 +26,7 @@ public class Boss : MonoBehaviour
     public Transform crystalSpawnPoint;
 
     [Header("Portal")]
-    public PortalInteract portalToOpen; // drag object portal (yang ada script PortalInteract) ke sini
+    public BossPortal portalToOpen; // drag object portal (yang ada script BossPortal) ke sini
 
     private bool isDead = false;
     private Collider2D bossCollider;
