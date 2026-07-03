@@ -147,6 +147,8 @@ public class PlayerController : MonoBehaviour
     {
         isReloading = true;
 
+        IconSkillManager.Instance.SelectSkill(-1);
+
         StartCoroutine(
             IconSkillManager.Instance.CooldownUI(reloadTime)
         );
