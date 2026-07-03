@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 39b90acd533a8f64a9262b8a2ba7e08b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7469575103805510579
+    second: Water Lumutan Boss_0
+  - first:
+      213: -8517352250402406953
+    second: Water Lumutan Boss_1
+  - first:
+      213: 5156457530134236109
+    second: Water Lumutan Boss_2
+  - first:
+      213: -4389157780762857802
+    second: Water Lumutan Boss_3
+  - first:
+      213: -2123887577886040828
+    second: Water Lumutan Boss_4
+  - first:
+      213: -5791639928529550367
+    second: Water Lumutan Boss_5
+  - first:
+      213: -1659618950334246956
+    second: Water Lumutan Boss_6
+  - first:
+      213: 1816617691687133380
+    second: Water Lumutan Boss_7
+  - first:
+      213: 1960828278422271602
+    second: Water Lumutan Boss_8
+  - first:
+      213: -5672811851775593870
+    second: Water Lumutan Boss_9
+  - first:
+      213: -6367632483495764088
+    second: Water Lumutan Boss_10
+  - first:
+      213: 2219939405904947739
+    second: Water Lumutan Boss_11
+  - first:
+      213: -8757937961700352185
+    second: Water Lumutan Boss_12
+  - first:
+      213: -1991983035919703223
+    second: Water Lumutan Boss_13
+  - first:
+      213: -7137173543811170842
+    second: Water Lumutan Boss_14
+  - first:
+      213: 2860296154844573063
+    second: Water Lumutan Boss_15
+  - first:
+      213: 8170751057006589636
+    second: Water Lumutan Boss_16
+  - first:
+      213: -5036476982075454929
+    second: Water Lumutan Boss_17
+  - first:
+      213: -8465979397586629648
+    second: Water Lumutan Boss_18
+  - first:
+      213: 2069382033719798549
+    second: Water Lumutan Boss_19
+  - first:
+      213: 5580148555243572723
+    second: Water Lumutan Boss_20
+  - first:
+      213: -5037662359433973490
+    second: Water Lumutan Boss_21
+  - first:
+      213: -3750743277432594526
+    second: Water Lumutan Boss_22
+  - first:
+      213: -3207471684271568461
+    second: Water Lumutan Boss_23
+  - first:
+      213: 637739175603356862
+    second: Water Lumutan Boss_24
+  - first:
+      213: 5627286895173820629
+    second: Water Lumutan Boss_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Lumutan Boss_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 76
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3dd6d3bf249a760800000000000000
+      internalID: 7469575103805510579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf3ef41494cc980800000000000000
+      internalID: -8517352250402406953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb0a07bdca6f8740800000000000000
+      internalID: 5156457530134236109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 76
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beec7ec0449613c0800000000000000
+      internalID: -4389157780762857802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 76
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ddc31308f6682e0800000000000000
+      internalID: -2123887577886040828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e30701ab26ff9fa0800000000000000
+      internalID: -5791639928529550367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 15
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df02d29b59d7f8e0800000000000000
+      internalID: -1659618950334246956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0a3bd6a2ce53910800000000000000
+      internalID: 1816617691687133380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 15
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27676e82ee2463b10800000000000000
+      internalID: 1960828278422271602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2723a493daf1641b0800000000000000
+      internalID: -5672811851775593870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 15
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f1ff05eff91a7a0800000000000000
+      internalID: -6367632483495764088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 15
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a2bdfb02fcece10800000000000000
+      internalID: 2219939405904947739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 15
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f11fb43dd857680800000000000000
+      internalID: -8757937961700352185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 15
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943e6699bfd0b54e0800000000000000
+      internalID: -1991983035919703223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 15
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edb1dce97aa3fc90800000000000000
+      internalID: -7137173543811170842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_15
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 15
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d2de5c230d1b720800000000000000
+      internalID: 2860296154844573063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_16
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 15
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6760dbbc6546170800000000000000
+      internalID: 8170751057006589636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_17
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 15
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a06f38ed6da1ab0800000000000000
+      internalID: -5036476982075454929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_18
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 15
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc213b79cc28a80800000000000000
+      internalID: -8465979397586629648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_19
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 15
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ba170eefbe7bc10800000000000000
+      internalID: 2069382033719798549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_20
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 15
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdc33dcb8ba07d40800000000000000
+      internalID: 5580148555243572723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_21
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 15
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f49756c0a61ab0800000000000000
+      internalID: -5037662359433973490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_22
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 15
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af12f88cdea2fbc0800000000000000
+      internalID: -3750743277432594526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_23
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 15
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b98edf3f75cc73d0800000000000000
+      internalID: -3207471684271568461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_24
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 15
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4403db664b9d800800000000000000
+      internalID: 637739175603356862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Lumutan Boss_25
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 15
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0eb04dd93281e40800000000000000
+      internalID: 5627286895173820629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water Lumutan Boss_0: 7469575103805510579
+      Water Lumutan Boss_1: -8517352250402406953
+      Water Lumutan Boss_10: -6367632483495764088
+      Water Lumutan Boss_11: 2219939405904947739
+      Water Lumutan Boss_12: -8757937961700352185
+      Water Lumutan Boss_13: -1991983035919703223
+      Water Lumutan Boss_14: -7137173543811170842
+      Water Lumutan Boss_15: 2860296154844573063
+      Water Lumutan Boss_16: 8170751057006589636
+      Water Lumutan Boss_17: -5036476982075454929
+      Water Lumutan Boss_18: -8465979397586629648
+      Water Lumutan Boss_19: 2069382033719798549
+      Water Lumutan Boss_2: 5156457530134236109
+      Water Lumutan Boss_20: 5580148555243572723
+      Water Lumutan Boss_21: -5037662359433973490
+      Water Lumutan Boss_22: -3750743277432594526
+      Water Lumutan Boss_23: -3207471684271568461
+      Water Lumutan Boss_24: 637739175603356862
+      Water Lumutan Boss_25: 5627286895173820629
+      Water Lumutan Boss_3: -4389157780762857802
+      Water Lumutan Boss_4: -2123887577886040828
+      Water Lumutan Boss_5: -5791639928529550367
+      Water Lumutan Boss_6: -1659618950334246956
+      Water Lumutan Boss_7: 1816617691687133380
+      Water Lumutan Boss_8: 1960828278422271602
+      Water Lumutan Boss_9: -5672811851775593870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

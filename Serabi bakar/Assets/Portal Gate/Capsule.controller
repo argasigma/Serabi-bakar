@@ -35,7 +35,7 @@ AnimatorController:
   m_Name: Capsule
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Open
+  - m_Name: Unlock
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -71,7 +71,7 @@ AnimatorStateMachine:
     m_Position: {x: 590, y: 210, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4123348889394272593}
-    m_Position: {x: 410, y: 296, z: 0}
+    m_Position: {x: 180, y: 220, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -125,7 +125,7 @@ AnimatorStateTransition:
   serializedVersion: 3
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
-  m_ExitTime: 0.95384616
+  m_ExitTime: 1
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -165,7 +165,10 @@ AnimatorStateTransition:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 
-  m_Conditions: []
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: Unlock
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 5636603395913502038}
   m_Solo: 0

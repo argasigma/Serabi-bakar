@@ -5,6 +5,7 @@ public class Bullet : MonoBehaviour
 {
     public float speed = 10f;
     public float lifeTime = 5f;
+    public int damage = 10; // FIX: bullet butuh nilai damage buat dikirim ke boss
 
     private Rigidbody2D rb;
     private Vector2 direction;
@@ -58,6 +59,33 @@ public class Bullet : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        Destroy(gameObject);
+        // FIX: sebelumnya method ini cuma "Destroy(gameObject)" tanpa cek apa-apa,
+        // jadi peluru hancur duluan tanpa pernah ngasih damage ke Boss.
+
+        if (collision.CompareTag("Boss"))
+        {
+            Boss boss = collision.GetComponent<Boss>();
+            if (boss != null)
+            {
+                boss.TakeDamage(damage);
+            }
+            else
+            {
+                Debug.LogWarning("[Bullet] Kena object bertag 'Boss' tapi komponen Boss tidak ditemukan!");
+            }
+
+            Destroy(gameObject);
+            return;
+        }
+
+        if (collision.CompareTag("Wall") || collision.CompareTag("Obstacle"))
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        // Kalau kena trigger lain (misal area/pickup non-solid), peluru dibiarkan lewat
+        // biar gak hancur sia-sia. Kalau maunya peluru hancur kena APAPUN, tinggal
+        // ganti bagian ini jadi Destroy(gameObject) tanpa syarat.
     }
 }
