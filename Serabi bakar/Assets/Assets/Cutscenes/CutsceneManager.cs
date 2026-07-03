@@ -11,8 +11,12 @@ public class CutsceneManager : MonoBehaviour
     public GameObject cutscenePanel;
     public Image image; // cutscene image game object
 
-    public Sprite[] cutsceneSprites;
-    [SerializeField] private bool[] useFade;
+    [SerializeField] private CutsceneData[] cutscenes;
+    private int currentCutscene = 0;
+
+    private Sprite[] cutsceneSprites;
+    private bool[] useFade;
+
     private int currentI; // current index
 
     public CanvasGroup canvasGroup;
@@ -24,7 +28,7 @@ public class CutsceneManager : MonoBehaviour
 
     // texts
     public TMP_Text cutsceneText;
-    private float textFadeSpeed = 3f;
+    private float textFadeSpeed = 1.5f;
     public CanvasGroup textCanvasGroup;
     private Coroutine blinkCoroutine;
 
@@ -35,8 +39,7 @@ public class CutsceneManager : MonoBehaviour
 
     void Start()
     {
-        GameManager.Instance.currentState = GameState.Cutscene;
-        StartCutscene();
+        PlayCutscene(0);
     }
 
     void Update()
@@ -71,17 +74,41 @@ public class CutsceneManager : MonoBehaviour
         StartCoroutine(ChangeImage());
     }
 
+    public void PlayCutscene(int index)
+    {
+        currentCutscene = index;
+
+        cutsceneSprites = cutscenes[index].sprites;
+        useFade = cutscenes[index].useFade;
+
+        StartCutscene();
+    }
+
     public void StartCutscene()
     {
+        PlayerController player = FindFirstObjectByType<PlayerController>();
+
+        if (player != null)
+        {
+            player.StopPlayer();
+        }
+
         GameManager.Instance.currentState = GameState.Cutscene;
+
         cutscenePanel.SetActive(true);
         blackScreen.SetActive(true);
+        blackCanvasGroup.alpha = 1;
 
         currentI = 0;
         canvasGroup.alpha = 0;
         textCanvasGroup.alpha = 0;
-        
+
         StartCoroutine(ChangeImage());
+
+        if (useFade.Length == 0 || !useFade[0])
+        {
+            StartCoroutine(StartText());
+        }
     }
 
     public void EndCutscene()
@@ -112,6 +139,22 @@ public class CutsceneManager : MonoBehaviour
 
         GameManager.Instance.currentState = GameState.Playing;
         isTransitioning = false;
+    }
+
+    IEnumerator StartText()
+    {
+        while (isTransitioning)
+            yield return null;
+
+        yield return new WaitForSeconds(2f);
+
+        if (isTransitioning)
+            yield break;
+
+        yield return StartCoroutine(TextFadeIn());
+
+        if (blinkCoroutine == null)
+            blinkCoroutine = StartCoroutine(BlinkText());
     }
 
     IEnumerator BlackScreenFadeOut()
@@ -174,10 +217,11 @@ public class CutsceneManager : MonoBehaviour
     {
         while (true)
         {
-            // Fade out
+            yield return new WaitForSeconds(1f);
+
             while (textCanvasGroup.alpha > 0)
             {
-                textCanvasGroup.alpha -= Time.deltaTime * 1.5f;
+                textCanvasGroup.alpha -= Time.deltaTime * textFadeSpeed;
                 yield return null;
             }
 
@@ -185,16 +229,13 @@ public class CutsceneManager : MonoBehaviour
 
             yield return new WaitForSeconds(0.3f);
 
-            // Fade in
             while (textCanvasGroup.alpha < 1)
             {
-                textCanvasGroup.alpha += Time.deltaTime * 1.5f;
+                textCanvasGroup.alpha += Time.deltaTime * textFadeSpeed;
                 yield return null;
             }
 
             textCanvasGroup.alpha = 1;
-
-            yield return new WaitForSeconds(1);
         }
     }
 
@@ -203,16 +244,16 @@ public class CutsceneManager : MonoBehaviour
     {
         isTransitioning = true;
 
-        if (blinkCoroutine != null)
-        {
-            StopCoroutine(blinkCoroutine);
-            blinkCoroutine = null;
-        }
-
         bool shouldFade = currentI < useFade.Length && useFade[currentI];
 
         if (shouldFade)
         {
+            if (blinkCoroutine != null)
+            {
+                StopCoroutine(blinkCoroutine);
+                blinkCoroutine = null;
+            }
+
             yield return StartCoroutine(TextFadeOut());
             yield return StartCoroutine(FadeOut());
             yield return new WaitForSeconds(2f);
@@ -220,17 +261,16 @@ public class CutsceneManager : MonoBehaviour
             image.sprite = cutsceneSprites[currentI];
 
             yield return StartCoroutine(FadeIn());
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(1.5f);
             yield return StartCoroutine(TextFadeIn());
+
             blinkCoroutine = StartCoroutine(BlinkText());
         }
+
         else
         {
             image.sprite = cutsceneSprites[currentI];
             canvasGroup.alpha = 1;
-            textCanvasGroup.alpha = 1;
-
-            blinkCoroutine = StartCoroutine(BlinkText());
         }
 
         isTransitioning = false;

@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 using UnityEngine.UI;
 
 public class IconSkillManager : MonoBehaviour
@@ -7,6 +8,7 @@ public class IconSkillManager : MonoBehaviour
 
     [Header("Skill Icons")]
     [SerializeField] private Image[] skillIcons;
+    public Image[] cooldownImages;
 
     [Header("Appearance")]
     [SerializeField] private Color selectedColor = Color.white;
@@ -70,6 +72,35 @@ public class IconSkillManager : MonoBehaviour
                 rect.localScale,
                 targetScale,
                 Time.deltaTime * moveSpeed);
+        }
+    }
+
+    public IEnumerator CooldownUI(float duration)
+    {
+        foreach (Image img in cooldownImages)
+        {
+            img.fillAmount = 1f;
+        }
+
+        float timer = duration;
+
+        while (timer > 0)
+        {
+            timer -= Time.deltaTime;
+
+            float fill = timer / duration;
+
+            foreach (Image img in cooldownImages)
+            {
+                img.fillAmount = fill;
+            }
+
+            yield return null;
+        }
+
+        foreach (Image img in cooldownImages)
+        {
+            img.fillAmount = 0f;
         }
     }
 }
