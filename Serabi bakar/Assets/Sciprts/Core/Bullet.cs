@@ -58,6 +58,13 @@ public class Bullet : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
+        Boss boss = collision.GetComponent<Boss>();
+
+        if (boss != null)
+        {
+            boss.TakeDamage(10);
+        }
+
         Destroy(gameObject);
     }
 }

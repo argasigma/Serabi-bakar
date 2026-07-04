@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class CutsceneManager : MonoBehaviour
@@ -132,6 +133,12 @@ public class CutsceneManager : MonoBehaviour
         yield return StartCoroutine(TextFadeOut());
         yield return StartCoroutine(FadeOut());
         yield return new WaitForSeconds(3.5f);
+
+        if (currentCutscene == 2)
+        {
+            SceneManager.LoadScene("MainMenu");
+            yield break;
+        }
 
         cutscenePanel.SetActive(false);
 
