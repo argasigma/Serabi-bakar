@@ -1,262 +1,275 @@
-using UnityEngine;
-using UnityEngine.InputSystem;
-using System.Collections;
+    using UnityEngine;
+    using UnityEngine.InputSystem;
+    using System.Collections;
 
-public class PlayerController : MonoBehaviour
-{
-    private Animator animator;
-    private SpriteRenderer spriteRenderer;
-    [SerializeField] private GameObject[] bulletPrefabs;
-    public Transform bulletSpawnPoint;
-    [SerializeField] private PlayerData playerData;
-
-    private float currentHP;
-    private float speed;
-    private float originalSpeed;
-    private bool isAttacking;
-
-    private PlayerInput playerInput;
-    private Vector2 moveInput;
-    private Rigidbody2D rb;
-
-    private float attackInput;
-    private float previousAttackInput;
-
-    // Reload systems
-    [SerializeField] private int maxBullet = 4;
-    [SerializeField] private float reloadTime = 7f;
-    private int bulletFired = 0;
-    private bool isReloading = false;
-    
-    private float attackDuration = 1.3f;
-
-    private int currentSkill = 0;
-
-    void Start()
+    public class PlayerController : MonoBehaviour
     {
-        // Get components
-        animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        playerInput = GetComponent<PlayerInput>();
-        rb = GetComponent<Rigidbody2D>();
+        private Animator animator;
+        private SpriteRenderer spriteRenderer;
+        [SerializeField] private GameObject[] bulletPrefabs;
+        public Transform bulletSpawnPoint;
+        [SerializeField] private PlayerData playerData;
 
-        // Biar player gak jatuh dan gak muter
-        rb.gravityScale = 0;
-        rb.freezeRotation = true;
+        private float currentHP;
+        private float speed;
+        private float originalSpeed;
+        private bool isAttacking;
 
-        if (playerData == null)
+        private PlayerInput playerInput;
+        private Vector2 moveInput;
+        private Rigidbody2D rb;
+
+        private float attackInput;
+        private float previousAttackInput;
+
+        // Reload systems
+        [SerializeField] private int maxBullet = 4;
+        [SerializeField] private float reloadTime = 7f;
+        private int bulletFired = 0;
+        private bool isReloading = false;
+        
+        private float attackDuration = 1.3f;
+
+        private int currentSkill = 0;
+
+        void Start()
         {
-            Debug.LogError("PlayerData belum di-assign di Inspector!");
-            return;
-        }
+            // Get components
+            animator = GetComponent<Animator>();
+            spriteRenderer = GetComponent<SpriteRenderer>();
+            playerInput = GetComponent<PlayerInput>();
+            rb = GetComponent<Rigidbody2D>();
 
-        currentHP = playerData.maxHP;
-        speed = playerData.moveSpeed;
-        originalSpeed = speed;
-    }
+            // Biar player gak jatuh dan gak muter
+            rb.gravityScale = 0;
+            rb.freezeRotation = true;
 
-    void Update()
-    {
-
-        if (GameManager.Instance != null && GameManager.Instance.currentState != GameState.Playing)
-            return;
-
-        if (playerInput != null)
-        {
-            moveInput = playerInput.actions["Move"].ReadValue<Vector2>();
-
-            animator.SetFloat("Speed", moveInput.magnitude);
-
-            if (moveInput != Vector2.zero)
+            if (playerData == null)
             {
-                animator.SetFloat("MoveX", Mathf.Abs(moveInput.x));
-                animator.SetFloat("MoveY", moveInput.y);
-
-                if (Mathf.Abs(moveInput.x) > Mathf.Abs(moveInput.y))
-                {
-                    animator.SetFloat("LastX", Mathf.Sign(moveInput.x));
-                    animator.SetFloat("LastY", 0);
-                }
-                else
-                {
-                    animator.SetFloat("LastX", 0);
-                    animator.SetFloat("LastY", Mathf.Sign(moveInput.y));
-                }
+                Debug.LogError("PlayerData belum di-assign di Inspector!");
+                return;
             }
 
-            if (moveInput.x < 0)
-                spriteRenderer.flipX = true;
-            else if (moveInput.x > 0)
-                spriteRenderer.flipX = false;
+            currentHP = playerData.maxHP;
+            speed = playerData.moveSpeed;
+            originalSpeed = speed;
+        }
 
-            attackInput = playerInput.actions["Attack"].ReadValue<float>();
+        void Update()
+        {
 
-            HandleSkillSelection();
+            if (GameManager.Instance != null && GameManager.Instance.currentState != GameState.Playing)
+                return;
 
-            bool aiming =
-                Keyboard.current.digit1Key.isPressed ||
-                Keyboard.current.digit2Key.isPressed ||
-                Keyboard.current.digit3Key.isPressed;
-
-            if (aiming && previousAttackInput == 0 && attackInput > 0)
+            if (playerInput != null)
             {
-                Shoot();
+                moveInput = playerInput.actions["Move"].ReadValue<Vector2>();
+
+                animator.SetFloat("Speed", moveInput.magnitude);
+
+                if (moveInput != Vector2.zero)
+                {
+                    animator.SetFloat("MoveX", Mathf.Abs(moveInput.x));
+                    animator.SetFloat("MoveY", moveInput.y);
+
+                    if (Mathf.Abs(moveInput.x) > Mathf.Abs(moveInput.y))
+                    {
+                        animator.SetFloat("LastX", Mathf.Sign(moveInput.x));
+                        animator.SetFloat("LastY", 0);
+                    }
+                    else
+                    {
+                        animator.SetFloat("LastX", 0);
+                        animator.SetFloat("LastY", Mathf.Sign(moveInput.y));
+                    }
+                }
+
+                if (moveInput.x < 0)
+                    spriteRenderer.flipX = true;
+                else if (moveInput.x > 0)
+                    spriteRenderer.flipX = false;
+
+                attackInput = playerInput.actions["Attack"].ReadValue<float>();
+
+                HandleSkillSelection();
+
+                bool aiming =
+                    Keyboard.current.digit1Key.isPressed ||
+                    Keyboard.current.digit2Key.isPressed ||
+                    Keyboard.current.digit3Key.isPressed;
+
+                if (aiming && previousAttackInput == 0 && attackInput > 0)
+                {
+                    Shoot();
+                }
+
+                previousAttackInput = attackInput;
+            }
+        }
+
+        void FixedUpdate()
+        {
+            if (GameManager.Instance != null &&
+                GameManager.Instance.currentState != GameState.Playing)
+            {
+                rb.linearVelocity = Vector2.zero;
+                return;
             }
 
-            previousAttackInput = attackInput;
-        }
-    }
-
-    void FixedUpdate()
-    {
-        if (GameManager.Instance != null &&
-            GameManager.Instance.currentState != GameState.Playing)
-        {
-            rb.linearVelocity = Vector2.zero;
-            return;
+            rb.linearVelocity = moveInput.normalized * speed;
         }
 
-        rb.linearVelocity = moveInput.normalized * speed;
-    }
-
-    void Shoot()
-    {
-        if (isAttacking || isReloading) return;
-
-        StartCoroutine(AttackRoutine());
-    }
-
-    IEnumerator AttackRoutine()
-    {
-        isAttacking = true;
-        speed = originalSpeed * 0.1f; // 10% dari speed normal
-
-        animator.SetTrigger("Attack");
-
-        // Tunggu sampai animasi selesai
-        yield return new WaitForSeconds(attackDuration);
-
-        speed = originalSpeed;
-
-        SpawnBullet();
-
-        isAttacking = false;
-    }
-
-    IEnumerator ReloadRoutine()
-    {
-        isReloading = true;
-
-        IconSkillManager.Instance.SelectSkill(-1);
-
-        StartCoroutine(
-            IconSkillManager.Instance.CooldownUI(reloadTime)
-        );
-
-        Debug.Log("Reloading...");
-
-        yield return new WaitForSeconds(reloadTime);
-
-        bulletFired = 0;
-        isReloading = false;
-
-        Debug.Log("Reload Done!");
-    }
-
-    void SpawnBullet()
-    {
-        if (bulletPrefabs == null)
+        void Shoot()
         {
-            Debug.LogWarning("Bullet prefab not assigned!");
-            return;
+            if (isAttacking || isReloading) return;
+
+            StartCoroutine(AttackRoutine());
         }
 
-        // jarak 1f dari player sesuai arah cursor
-        Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        mousePos.z = 0f;
-
-        Vector2 direction = (mousePos - transform.position).normalized;
-        Vector3 spawnPos = transform.position + (Vector3)(direction * 0.3f);
-
-        GameObject bulletObj = Instantiate(bulletPrefabs[currentSkill], spawnPos, Quaternion.identity);
-
-        Collider2D playerCollider = GetComponent<Collider2D>();
-        Collider2D bulletCollider = bulletObj.GetComponent<Collider2D>();
-
-        if (playerCollider != null && bulletCollider != null)
+        IEnumerator AttackRoutine()
         {
-            Physics2D.IgnoreCollision(playerCollider, bulletCollider);
+            isAttacking = true;
+            speed = originalSpeed * 0.1f;
+
+            bool originalFlip = spriteRenderer.flipX;
+            float originalLastX = animator.GetFloat("LastX");
+
+            if (currentSkill == 0 && originalLastX != 0)
+            {
+                spriteRenderer.flipX = originalLastX < 0;
+                animator.SetFloat("LastX", 1);
+            }
+
+            animator.SetInteger("Att Skill", currentSkill);
+            animator.SetTrigger("Attack");
+
+            yield return new WaitForSeconds(attackDuration);
+
+            // Balikin seperti semula
+            spriteRenderer.flipX = originalFlip;
+            animator.SetFloat("LastX", originalLastX);
+
+            speed = originalSpeed;
+
+            SpawnBullet();
+
+            isAttacking = false;
         }
 
-        Bullet bullet = bulletObj.GetComponent<Bullet>();
-
-        if (bullet != null)
+        IEnumerator ReloadRoutine()
         {
-            bullet.SetDirectionToCursor();
-            bullet.SetOwner(this);
-        }
+            isReloading = true;
 
-        bulletFired++;
-
-        if (bulletFired >= maxBullet)
-        {
-            StartCoroutine(ReloadRoutine());
-        }
-    }
-
-    void OnCollisionStay2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Wall"))
-        {
-            TakeDamage(0.1f);
-        }
-    }
-
-    void TakeDamage(float dmg)
-    {
-        currentHP -= dmg;
-
-        if (currentHP <= 0 && GameManager.Instance != null)
-        {
-            GameManager.Instance.GameOver();
-        }
-    }
-
-    void HandleSkillSelection()
-    {
-        if (IconSkillManager.Instance == null)
-            return;
-
-        if (isReloading)
-            return;
-
-        if (Keyboard.current.digit1Key.isPressed)
-        {
-            currentSkill = 0;
-            IconSkillManager.Instance.SelectSkill(0);
-        }
-        else if (Keyboard.current.digit2Key.isPressed)
-        {
-            currentSkill = 1;
-            IconSkillManager.Instance.SelectSkill(1);
-        }
-        else if (Keyboard.current.digit3Key.isPressed)
-        {
-            currentSkill = 2;
-            IconSkillManager.Instance.SelectSkill(2);
-        }
-        else
-        {
             IconSkillManager.Instance.SelectSkill(-1);
+
+            StartCoroutine(
+                IconSkillManager.Instance.CooldownUI(reloadTime)
+            );
+
+            Debug.Log("Reloading...");
+
+            yield return new WaitForSeconds(reloadTime);
+
+            bulletFired = 0;
+            isReloading = false;
+
+            Debug.Log("Reload Done!");
+        }
+
+        void SpawnBullet()
+        {
+            if (bulletPrefabs == null)
+            {
+                Debug.LogWarning("Bullet prefab not assigned!");
+                return;
+            }
+
+            // jarak 1f dari player sesuai arah cursor
+            Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            mousePos.z = 0f;
+
+            Vector2 direction = (mousePos - transform.position).normalized;
+            Vector3 spawnPos = transform.position + (Vector3)(direction * 0.3f);
+
+            GameObject bulletObj = Instantiate(bulletPrefabs[currentSkill], spawnPos, Quaternion.identity);
+
+            Collider2D playerCollider = GetComponent<Collider2D>();
+            Collider2D bulletCollider = bulletObj.GetComponent<Collider2D>();
+
+            if (playerCollider != null && bulletCollider != null)
+            {
+                Physics2D.IgnoreCollision(playerCollider, bulletCollider);
+            }
+
+            Bullet bullet = bulletObj.GetComponent<Bullet>();
+
+            if (bullet != null)
+            {
+                bullet.SetDirectionToCursor();
+                bullet.SetOwner(this);
+            }
+
+            bulletFired++;
+
+            if (bulletFired >= maxBullet)
+            {
+                StartCoroutine(ReloadRoutine());
+            }
+        }
+
+        void OnCollisionStay2D(Collision2D collision)
+        {
+            if (collision.gameObject.CompareTag("Wall"))
+            {
+                TakeDamage(0.1f);
+            }
+        }
+
+        void TakeDamage(float dmg)
+        {
+            currentHP -= dmg;
+
+            if (currentHP <= 0 && GameManager.Instance != null)
+            {
+                GameManager.Instance.GameOver();
+            }
+        }
+
+        void HandleSkillSelection()
+        {
+            if (IconSkillManager.Instance == null)
+                return;
+
+            if (isReloading)
+                return;
+
+            if (Keyboard.current.digit1Key.isPressed)
+            {
+                currentSkill = 0;
+                IconSkillManager.Instance.SelectSkill(0);
+            }
+            else if (Keyboard.current.digit2Key.isPressed)
+            {
+                currentSkill = 1;
+                IconSkillManager.Instance.SelectSkill(1);
+            }
+            else if (Keyboard.current.digit3Key.isPressed)
+            {
+                currentSkill = 2;
+                IconSkillManager.Instance.SelectSkill(2);
+            }
+            else
+            {
+                IconSkillManager.Instance.SelectSkill(-1);
+            }
+        }
+
+        public void StopPlayer()
+        {
+            moveInput = Vector2.zero;
+            rb.linearVelocity = Vector2.zero;
+
+            speed = originalSpeed;
+            animator.SetFloat("Speed", 0);
         }
     }
-
-    public void StopPlayer()
-    {
-        moveInput = Vector2.zero;
-        rb.linearVelocity = Vector2.zero;
-
-        speed = originalSpeed;
-        animator.SetFloat("Speed", 0);
-    }
-}

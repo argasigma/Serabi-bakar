@@ -1,22 +1,34 @@
 fileFormatVersion: 2
-guid: c680192aa3c8a2046a762d577e9ed881
+guid: 3b25e6b64f056e24e98d489699cb4c29
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6800782145290511454
-    second: IdleUp-sheet_0
+      213: -7826132063636928870
+    second: UpSkillAnimation-sheet_0
   - first:
-      213: -5660092385305741390
-    second: IdleUp-sheet_1
+      213: 6247940236961873105
+    second: UpSkillAnimation-sheet_1
   - first:
-      213: -4721198625627210549
-    second: IdleUp-sheet_2
+      213: -4206119135583357588
+    second: UpSkillAnimation-sheet_2
   - first:
-      213: -6500638795202554346
-    second: IdleUp-sheet_3
+      213: -6348677413475792127
+    second: UpSkillAnimation-sheet_3
   - first:
-      213: 8831952873222162351
-    second: IdleUp-sheet_4
+      213: -156074264163955425
+    second: UpSkillAnimation-sheet_4
+  - first:
+      213: -7902791474618860248
+    second: UpSkillAnimation-sheet_5
+  - first:
+      213: 6245047469812168574
+    second: UpSkillAnimation-sheet_6
+  - first:
+      213: -6477913943432355298
+    second: UpSkillAnimation-sheet_7
+  - first:
+      213: -785241643766621193
+    second: UpSkillAnimation-sheet_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,11 +124,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IdleUp-sheet_0
+      name: UpSkillAnimation-sheet_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 17
+        x: 10
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -127,18 +139,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2abd323cba4ce91a0800000000000000
-      internalID: -6800782145290511454
+      spriteID: a9640ad4a5ef36390800000000000000
+      internalID: -7826132063636928870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IdleUp-sheet_1
+      name: UpSkillAnimation-sheet_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 17
+        x: 46
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -149,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b735f9c6ff4371b0800000000000000
-      internalID: -5660092385305741390
+      spriteID: 1dc7bf1ea8425b650800000000000000
+      internalID: 6247940236961873105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IdleUp-sheet_2
+      name: UpSkillAnimation-sheet_2
       rect:
         serializedVersion: 2
-        x: 73
-        y: 19
-        width: 16
-        height: 25
+        x: 82
+        y: 7
+        width: 28
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcc7d6d2ddeea7eb0800000000000000
-      internalID: -4721198625627210549
+      spriteID: c65b4906eecd0a5c0800000000000000
+      internalID: -4206119135583357588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IdleUp-sheet_3
+      name: UpSkillAnimation-sheet_3
       rect:
         serializedVersion: 2
-        x: 105
-        y: 19
-        width: 16
-        height: 25
+        x: 118
+        y: 7
+        width: 28
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61614d6257719c5a0800000000000000
-      internalID: -6500638795202554346
+      spriteID: 10bca387787f4e7a0800000000000000
+      internalID: -6348677413475792127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IdleUp-sheet_4
+      name: UpSkillAnimation-sheet_4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 19
-        width: 16
-        height: 24
+        x: 156
+        y: 7
+        width: 28
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +227,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa7c5613856619a70800000000000000
-      internalID: 8831952873222162351
+      spriteID: f1d4ded984385ddf0800000000000000
+      internalID: -156074264163955425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpSkillAnimation-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d7b5d4605a35290800000000000000
+      internalID: -7902791474618860248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpSkillAnimation-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 7
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773b9b069ddaa650800000000000000
+      internalID: 6245047469812168574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpSkillAnimation-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e122a240793d916a0800000000000000
+      internalID: -6477913943432355298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpSkillAnimation-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 7
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb5278a2e24a15f0800000000000000
+      internalID: -785241643766621193
       vertices: []
       indices: 
       edges: []
@@ -225,7 +325,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fde99fd26a1942d4588cebcb3637519c
+    spriteID: 7448aac9501f67d469357f3da67a31ee
     internalID: 0
     vertices: []
     indices: 
@@ -235,11 +335,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IdleUp-sheet_0: -6800782145290511454
-      IdleUp-sheet_1: -5660092385305741390
-      IdleUp-sheet_2: -4721198625627210549
-      IdleUp-sheet_3: -6500638795202554346
-      IdleUp-sheet_4: 8831952873222162351
+      UpSkillAnimation-sheet_0: -7826132063636928870
+      UpSkillAnimation-sheet_1: 6247940236961873105
+      UpSkillAnimation-sheet_2: -4206119135583357588
+      UpSkillAnimation-sheet_3: -6348677413475792127
+      UpSkillAnimation-sheet_4: -156074264163955425
+      UpSkillAnimation-sheet_5: -7902791474618860248
+      UpSkillAnimation-sheet_6: 6245047469812168574
+      UpSkillAnimation-sheet_7: -6477913943432355298
+      UpSkillAnimation-sheet_8: -785241643766621193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

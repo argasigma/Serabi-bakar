@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: bacd222f99dbb3e4eabfe86fc566b7ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3050185448076217932
+    second: Ice Knight Boss_0
+  - first:
+      213: -1556734448286320011
+    second: Ice Knight Boss_1
+  - first:
+      213: -646742676695636626
+    second: Ice Knight Boss_2
+  - first:
+      213: 3717357395480775523
+    second: Ice Knight Boss_3
+  - first:
+      213: -1790334419028708677
+    second: Ice Knight Boss_4
+  - first:
+      213: -6440552567271086808
+    second: Ice Knight Boss_5
+  - first:
+      213: -3913083954915866978
+    second: Ice Knight Boss_6
+  - first:
+      213: 5531907616855155486
+    second: Ice Knight Boss_7
+  - first:
+      213: 7484259626945142498
+    second: Ice Knight Boss_8
+  - first:
+      213: 1978738834885029408
+    second: Ice Knight Boss_9
+  - first:
+      213: -7818329882189559900
+    second: Ice Knight Boss_10
+  - first:
+      213: -3994976169483610781
+    second: Ice Knight Boss_11
+  - first:
+      213: 7367280592526201931
+    second: Ice Knight Boss_12
+  - first:
+      213: 4459175717053657434
+    second: Ice Knight Boss_13
+  - first:
+      213: 5002013308401419669
+    second: Ice Knight Boss_14
+  - first:
+      213: -7979173520539718239
+    second: Ice Knight Boss_15
+  - first:
+      213: 5965491262987091821
+    second: Ice Knight Boss_16
+  - first:
+      213: -802942414259956562
+    second: Ice Knight Boss_17
+  - first:
+      213: -5249236255342541663
+    second: Ice Knight Boss_18
+  - first:
+      213: 5630496747331084928
+    second: Ice Knight Boss_19
+  - first:
+      213: 2719831540016454887
+    second: Ice Knight Boss_20
+  - first:
+      213: 830611787882732809
+    second: Ice Knight Boss_21
+  - first:
+      213: -7056694043118461417
+    second: Ice Knight Boss_22
+  - first:
+      213: -6035000592942608966
+    second: Ice Knight Boss_23
+  - first:
+      213: 5548962706809007707
+    second: Ice Knight Boss_24
+  - first:
+      213: 3974785877522218632
+    second: Ice Knight Boss_25
+  - first:
+      213: 2663341296694302665
+    second: Ice Knight Boss_26
+  - first:
+      213: 6620594718858145341
+    second: Ice Knight Boss_27
+  - first:
+      213: -7500702077800214954
+    second: Ice Knight Boss_28
+  - first:
+      213: -6130222164646723687
+    second: Ice Knight Boss_29
+  - first:
+      213: -7726728446862581732
+    second: Ice Knight Boss_30
+  - first:
+      213: -2858007972852778529
+    second: Ice Knight Boss_31
+  - first:
+      213: -8930222258063548403
+    second: Ice Knight Boss_32
+  - first:
+      213: 5973014154763667788
+    second: Ice Knight Boss_33
+  - first:
+      213: -3874418617011381354
+    second: Ice Knight Boss_34
+  - first:
+      213: -2107797484064790892
+    second: Ice Knight Boss_35
+  - first:
+      213: -1004949783313855348
+    second: Ice Knight Boss_36
+  - first:
+      213: -4535385344261126016
+    second: Ice Knight Boss_37
+  - first:
+      213: -7586238829606519901
+    second: Ice Knight Boss_38
+  - first:
+      213: 6566277947379191786
+    second: Ice Knight Boss_39
+  - first:
+      213: -2663039240621713661
+    second: Ice Knight Boss_40
+  - first:
+      213: -3634613737187134328
+    second: Ice Knight Boss_41
+  - first:
+      213: 1161426147159372535
+    second: Ice Knight Boss_42
+  - first:
+      213: -4105848318112982172
+    second: Ice Knight Boss_43
+  - first:
+      213: 6724300080250291121
+    second: Ice Knight Boss_44
+  - first:
+      213: -838395998363136246
+    second: Ice Knight Boss_45
+  - first:
+      213: 3482375465771863573
+    second: Ice Knight Boss_46
+  - first:
+      213: -6080245699717146250
+    second: Ice Knight Boss_47
+  - first:
+      213: -8952318639512723590
+    second: Ice Knight Boss_48
+  - first:
+      213: 1613182833178372913
+    second: Ice Knight Boss_49
+  - first:
+      213: -3265055474407824407
+    second: Ice Knight Boss_50
+  - first:
+      213: 707309515716517390
+    second: Ice Knight Boss_51
+  - first:
+      213: -4215699411824971980
+    second: Ice Knight Boss_52
+  - first:
+      213: -2275544934081222715
+    second: Ice Knight Boss_53
+  - first:
+      213: -3393148448110806257
+    second: Ice Knight Boss_54
+  - first:
+      213: 3238503251590925976
+    second: Ice Knight Boss_55
+  - first:
+      213: 1663646225741716379
+    second: Ice Knight Boss_56
+  - first:
+      213: -7084874911825756865
+    second: Ice Knight Boss_57
+  - first:
+      213: 3146560581827707715
+    second: Ice Knight Boss_58
+  - first:
+      213: -7986317220961316824
+    second: Ice Knight Boss_59
+  - first:
+      213: -5294376398778013708
+    second: Ice Knight Boss_60
+  - first:
+      213: 5290878063483746528
+    second: Ice Knight Boss_61
+  - first:
+      213: 5871436920736724437
+    second: Ice Knight Boss_62
+  - first:
+      213: -9106008829859726485
+    second: Ice Knight Boss_63
+  - first:
+      213: -5969548175310648400
+    second: Ice Knight Boss_64
+  - first:
+      213: -8985896821668838629
+    second: Ice Knight Boss_65
+  - first:
+      213: -6428684664641827853
+    second: Ice Knight Boss_66
+  - first:
+      213: -1102649093447488988
+    second: Ice Knight Boss_67
+  - first:
+      213: -1346690992750833265
+    second: Ice Knight Boss_68
+  - first:
+      213: 4962092365667257437
+    second: Ice Knight Boss_69
+  - first:
+      213: -6768731616397476142
+    second: Ice Knight Boss_70
+  - first:
+      213: 8349685760085632062
+    second: Ice Knight Boss_71
+  - first:
+      213: 3241336238138854744
+    second: Ice Knight Boss_72
+  - first:
+      213: -869350972035339011
+    second: Ice Knight Boss_73
+  - first:
+      213: -554788956988021808
+    second: Ice Knight Boss_74
+  - first:
+      213: -3664052906801690323
+    second: Ice Knight Boss_75
+  - first:
+      213: 3919500521288788340
+    second: Ice Knight Boss_76
+  - first:
+      213: 2772181017263583903
+    second: Ice Knight Boss_77
+  - first:
+      213: -3647443042918377056
+    second: Ice Knight Boss_78
+  - first:
+      213: -973340048781947048
+    second: Ice Knight Boss_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Knight Boss_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e06a3218f645a20800000000000000
+      internalID: 3050185448076217932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ab748644e556ae0800000000000000
+      internalID: -1556734448286320011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a87e46fe4607f0800000000000000
+      internalID: -646742676695636626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 90
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b8dc41bd4b69330800000000000000
+      internalID: 3717357395480775523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb273acd4547727e0800000000000000
+      internalID: -1790334419028708677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825a396409f8e96a0800000000000000
+      internalID: -6440552567271086808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 90
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9685fa10eee1b9c0800000000000000
+      internalID: -3913083954915866978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13ede01ba845cc40800000000000000
+      internalID: 5531907616855155486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eedcd63a7e6dd760800000000000000
+      internalID: 7484259626945142498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 91
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ea79c8c74e57b10800000000000000
+      internalID: 1978738834885029408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7054b3566bf7390800000000000000
+      internalID: -7818329882189559900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36557c3175efe88c0800000000000000
+      internalID: -3994976169483610781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 90
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4457265aa6dd3660800000000000000
+      internalID: 7367280592526201931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f70e50bc22ed30800000000000000
+      internalID: 4459175717053657434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 90
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5950b092a98ba6540800000000000000
+      internalID: 5002013308401419669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ade60365f7444190800000000000000
+      internalID: -7979173520539718239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_16
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 90
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fba0972bea9c250800000000000000
+      internalID: 5965491262987091821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_17
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4d0fed0206bd4f0800000000000000
+      internalID: -802942414259956562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 90
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4c43aff67f627b0800000000000000
+      internalID: -5249236255342541663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08269a5c5fa832e40800000000000000
+      internalID: 5630496747331084928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 90
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec95971068ceb520800000000000000
+      internalID: 2719831540016454887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_21
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9003350de68b00800000000000000
+      internalID: 830611787882732809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 91
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e1f4fd726911e90800000000000000
+      internalID: -7056694043118461417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd426e7fee5f3ca0800000000000000
+      internalID: -6035000592942608966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_24
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ead33ae20e10d40800000000000000
+      internalID: 5548962706809007707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_25
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 90
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e73ff32b6492730800000000000000
+      internalID: 3974785877522218632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_26
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c797116cc616f420800000000000000
+      internalID: 2663341296694302665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_27
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eed53c1d311eb50800000000000000
+      internalID: 6620594718858145341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_28
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 90
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e0fae533728e790800000000000000
+      internalID: -7500702077800214954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_29
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f710aab631deaa0800000000000000
+      internalID: -6130222164646723687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_30
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10a9d06a6525c490800000000000000
+      internalID: -7726728446862581732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_31
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd930ec14e05658d0800000000000000
+      internalID: -2858007972852778529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_32
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e5deab2a711480800000000000000
+      internalID: -8930222258063548403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_33
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4981153ab864e250800000000000000
+      internalID: 5973014154763667788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_34
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b50ed9bcc4b3ac0800000000000000
+      internalID: -3874418617011381354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_35
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4962bd71b599fb2e0800000000000000
+      internalID: -2107797484064790892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_36
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 89
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cc87c1f73bd02f0800000000000000
+      internalID: -1004949783313855348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_37
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888dc31f031f01c0800000000000000
+      internalID: -4535385344261126016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_38
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab37046af348b690800000000000000
+      internalID: -7586238829606519901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_39
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 88
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef8406e00b102b50800000000000000
+      internalID: 6566277947379191786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_40
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30711d78bebfa0bd0800000000000000
+      internalID: -2663039240621713661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_41
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b43320124f8dc0800000000000000
+      internalID: -3634613737187134328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_42
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 91
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f8466de63e1010800000000000000
+      internalID: 1161426147159372535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_43
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b9d3955b81507c0800000000000000
+      internalID: -4105848318112982172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_44
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 90
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3037ecb43815d50800000000000000
+      internalID: 6724300080250291121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_45
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fc470184b6d54f0800000000000000
+      internalID: -838395998363136246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_46
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 90
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e0ed32902e35030800000000000000
+      internalID: 3482375465771863573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_47
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679534920c0ae9ba0800000000000000
+      internalID: -6080245699717146250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_48
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 90
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f5cb7f0a9f2c380800000000000000
+      internalID: -8952318639512723590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_49
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bea516d3d236610800000000000000
+      internalID: 1613182833178372913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_50
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 90
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e32af3585130b2d0800000000000000
+      internalID: -3265055474407824407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_51
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e598ec14ed0d900800000000000000
+      internalID: 707309515716517390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_52
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 90
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f695e78b3de75c0800000000000000
+      internalID: -4215699411824971980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_53
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c726a550f3ab60e0800000000000000
+      internalID: -2275544934081222715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_54
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bff20d67d19e0d0800000000000000
+      internalID: -3393148448110806257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_55
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 91
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e460b8c8971fc20800000000000000
+      internalID: 3238503251590925976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_56
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b114d8d65761710800000000000000
+      internalID: 1663646225741716379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_57
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d7c821ec77dad90800000000000000
+      internalID: -7084874911825756865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_58
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 88
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34346109d24daab20800000000000000
+      internalID: 3146560581827707715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_59
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82014050dc6ea2190800000000000000
+      internalID: -7986317220961316824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_60
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7ef9357b89686b0800000000000000
+      internalID: -5294376398778013708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_61
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 89
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8fad30199fc6940800000000000000
+      internalID: 5290878063483746528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_62
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d530ad65c88b7150800000000000000
+      internalID: 5871436920736724437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_63
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 90
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf3a60735f0a180800000000000000
+      internalID: -9106008829859726485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_64
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 89
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb07050097e72da0800000000000000
+      internalID: -5969548175310648400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b130e14337eab4380800000000000000
+      internalID: -8985896821668838629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc50fab59b8c6a0800000000000000
+      internalID: -6428684664641827853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ae729dd7a92b0f0800000000000000
+      internalID: -1102649093447488988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 12
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f815eda5da79f4de0800000000000000
+      internalID: -1346690992750833265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c464e57b4ecd440800000000000000
+      internalID: 4962092365667257437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_70
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 12
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de3ca80572a012a0800000000000000
+      internalID: -6768731616397476142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_71
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 12
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34aa04d5fa00e370800000000000000
+      internalID: 8349685760085632062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 11
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d0edf922a8bfc20800000000000000
+      internalID: 3241336238138854744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc61be95e17fe3f0800000000000000
+      internalID: -869350972035339011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 12
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d36b6d026efc48f0800000000000000
+      internalID: -554788956988021808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_75
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 11
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2909d35b4ba62dc0800000000000000
+      internalID: -3664052906801690323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 12
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479606c25fcd46630800000000000000
+      internalID: 3919500521288788340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 10
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b31392f3c87620800000000000000
+      internalID: 2772181017263583903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 11
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a95160a0eda16dc0800000000000000
+      internalID: -3647443042918377056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Knight Boss_79
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 10
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc0b2f1600e72f0800000000000000
+      internalID: -973340048781947048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice Knight Boss_0: 3050185448076217932
+      Ice Knight Boss_1: -1556734448286320011
+      Ice Knight Boss_10: -7818329882189559900
+      Ice Knight Boss_11: -3994976169483610781
+      Ice Knight Boss_12: 7367280592526201931
+      Ice Knight Boss_13: 4459175717053657434
+      Ice Knight Boss_14: 5002013308401419669
+      Ice Knight Boss_15: -7979173520539718239
+      Ice Knight Boss_16: 5965491262987091821
+      Ice Knight Boss_17: -802942414259956562
+      Ice Knight Boss_18: -5249236255342541663
+      Ice Knight Boss_19: 5630496747331084928
+      Ice Knight Boss_2: -646742676695636626
+      Ice Knight Boss_20: 2719831540016454887
+      Ice Knight Boss_21: 830611787882732809
+      Ice Knight Boss_22: -7056694043118461417
+      Ice Knight Boss_23: -6035000592942608966
+      Ice Knight Boss_24: 5548962706809007707
+      Ice Knight Boss_25: 3974785877522218632
+      Ice Knight Boss_26: 2663341296694302665
+      Ice Knight Boss_27: 6620594718858145341
+      Ice Knight Boss_28: -7500702077800214954
+      Ice Knight Boss_29: -6130222164646723687
+      Ice Knight Boss_3: 3717357395480775523
+      Ice Knight Boss_30: -7726728446862581732
+      Ice Knight Boss_31: -2858007972852778529
+      Ice Knight Boss_32: -8930222258063548403
+      Ice Knight Boss_33: 5973014154763667788
+      Ice Knight Boss_34: -3874418617011381354
+      Ice Knight Boss_35: -2107797484064790892
+      Ice Knight Boss_36: -1004949783313855348
+      Ice Knight Boss_37: -4535385344261126016
+      Ice Knight Boss_38: -7586238829606519901
+      Ice Knight Boss_39: 6566277947379191786
+      Ice Knight Boss_4: -1790334419028708677
+      Ice Knight Boss_40: -2663039240621713661
+      Ice Knight Boss_41: -3634613737187134328
+      Ice Knight Boss_42: 1161426147159372535
+      Ice Knight Boss_43: -4105848318112982172
+      Ice Knight Boss_44: 6724300080250291121
+      Ice Knight Boss_45: -838395998363136246
+      Ice Knight Boss_46: 3482375465771863573
+      Ice Knight Boss_47: -6080245699717146250
+      Ice Knight Boss_48: -8952318639512723590
+      Ice Knight Boss_49: 1613182833178372913
+      Ice Knight Boss_5: -6440552567271086808
+      Ice Knight Boss_50: -3265055474407824407
+      Ice Knight Boss_51: 707309515716517390
+      Ice Knight Boss_52: -4215699411824971980
+      Ice Knight Boss_53: -2275544934081222715
+      Ice Knight Boss_54: -3393148448110806257
+      Ice Knight Boss_55: 3238503251590925976
+      Ice Knight Boss_56: 1663646225741716379
+      Ice Knight Boss_57: -7084874911825756865
+      Ice Knight Boss_58: 3146560581827707715
+      Ice Knight Boss_59: -7986317220961316824
+      Ice Knight Boss_6: -3913083954915866978
+      Ice Knight Boss_60: -5294376398778013708
+      Ice Knight Boss_61: 5290878063483746528
+      Ice Knight Boss_62: 5871436920736724437
+      Ice Knight Boss_63: -9106008829859726485
+      Ice Knight Boss_64: -5969548175310648400
+      Ice Knight Boss_65: -8985896821668838629
+      Ice Knight Boss_66: -6428684664641827853
+      Ice Knight Boss_67: -1102649093447488988
+      Ice Knight Boss_68: -1346690992750833265
+      Ice Knight Boss_69: 4962092365667257437
+      Ice Knight Boss_7: 5531907616855155486
+      Ice Knight Boss_70: -6768731616397476142
+      Ice Knight Boss_71: 8349685760085632062
+      Ice Knight Boss_72: 3241336238138854744
+      Ice Knight Boss_73: -869350972035339011
+      Ice Knight Boss_74: -554788956988021808
+      Ice Knight Boss_75: -3664052906801690323
+      Ice Knight Boss_76: 3919500521288788340
+      Ice Knight Boss_77: 2772181017263583903
+      Ice Knight Boss_78: -3647443042918377056
+      Ice Knight Boss_79: -973340048781947048
+      Ice Knight Boss_8: 7484259626945142498
+      Ice Knight Boss_9: 1978738834885029408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

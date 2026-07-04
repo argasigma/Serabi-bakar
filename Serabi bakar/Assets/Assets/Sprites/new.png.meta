@@ -1,49 +1,67 @@
 fileFormatVersion: 2
-guid: 88e9bb0daac3b9a40bd59e26dc2da85e
+guid: 1edcdcc65f0c6d54783efc14386de85d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8673974567327882497
-    second: Attack-front-Sheet_0
+      213: -2377542479378556636
+    second: AttackSkill-sheet_0
   - first:
-      213: -7037099939288455455
-    second: Attack-front-Sheet_1
+      213: -3735324764705386609
+    second: AttackSkill-sheet_1
   - first:
-      213: -8330517963055943311
-    second: Attack-front-Sheet_2
+      213: 4579635369996375609
+    second: AttackSkill-sheet_2
   - first:
-      213: -44768563109283075
-    second: Attack-front-Sheet_3
+      213: 1102803697372761110
+    second: AttackSkill-sheet_3
   - first:
-      213: -4425504048626282777
-    second: Attack-front-Sheet_4
+      213: -2626999128878895608
+    second: AttackSkill-sheet_4
   - first:
-      213: -1636971361685158064
-    second: Attack-front-Sheet_5
+      213: -8044056551476587319
+    second: AttackSkill-sheet_5
   - first:
-      213: 1070971781539077840
-    second: Attack-front-Sheet_6
+      213: -7081396608266046305
+    second: AttackSkill-sheet_6
   - first:
-      213: -2360880515066019136
-    second: Attack-front-Sheet_7
+      213: 279305658298401267
+    second: AttackSkill-sheet_7
   - first:
-      213: -213268840324734261
-    second: Attack-front-Sheet_8
+      213: 4940405281807552758
+    second: AttackSkill-sheet_8
   - first:
-      213: 8244275113875510204
-    second: Attack-front-Sheet_9
+      213: 8572001850203988562
+    second: AttackSkill-sheet_9
   - first:
-      213: 8576676420673952205
-    second: Attack-front-Sheet_10
+      213: 8699787511866548239
+    second: AttackSkill-sheet_10
   - first:
-      213: -3634305337500204791
-    second: Attack-front-Sheet_11
+      213: 938741690119428918
+    second: AttackSkill-sheet_11
   - first:
-      213: -5146304400515319612
-    second: Attack-front-Sheet_12
+      213: 4693502446879731512
+    second: AttackSkill-sheet_12
   - first:
-      213: -3271825962276799811
-    second: Attack-front-Sheet_13
+      213: -3890166471412914037
+    second: AttackSkill-sheet_13
+  - first:
+      213: 584509915252711676
+    second: AttackSkill-sheet_14
+  - first:
+      213: -7897761159985110148
+    second: AttackSkill-sheet_15
+  - first:
+      213: 5351892395406854437
+    second: AttackSkill-sheet_16
+  - first:
+      213: -5645489740439502400
+    second: AttackSkill-sheet_17
+  - first:
+      213: 5858813165178744865
+    second: AttackSkill-sheet_18
+  - first:
+      213: -6034249287666040895
+    second: AttackSkill-sheet_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +157,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack-front-Sheet_0
+      name: AttackSkill-sheet_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 19
-        width: 28
-        height: 32
+        x: 9
+        y: 40
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff226a3761adf9780800000000000000
-      internalID: -8673974567327882497
+      spriteID: 4295d3636b5410fd0800000000000000
+      internalID: -2377542479378556636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_1
+      name: AttackSkill-sheet_1
       rect:
         serializedVersion: 2
-        x: 82
-        y: 19
-        width: 28
-        height: 32
+        x: 42
+        y: 40
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e6e9cda3e2375e90800000000000000
-      internalID: -7037099939288455455
+      spriteID: f8f0407cae5792cc0800000000000000
+      internalID: -3735324764705386609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_2
+      name: AttackSkill-sheet_2
       rect:
         serializedVersion: 2
-        x: 146
-        y: 19
-        width: 28
-        height: 32
+        x: 75
+        y: 40
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,20 +216,86 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1713a01bc0e046c80800000000000000
-      internalID: -8330517963055943311
+      spriteID: 936d275ea122e8f30800000000000000
+      internalID: 4579635369996375609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_3
+      name: AttackSkill-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c04eeae12fd4f00800000000000000
+      internalID: 1102803697372761110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSkill-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 40
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ea9e1f5360b8bd0800000000000000
+      internalID: -2626999128878895608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSkill-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 40
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c495188f25cd5090800000000000000
+      internalID: -8044056551476587319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSkill-sheet_6
       rect:
         serializedVersion: 2
         x: 210
-        y: 19
-        width: 28
-        height: 32
+        y: 40
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,20 +304,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dfa34c2aa33f06ff0800000000000000
-      internalID: -44768563109283075
+      spriteID: f9475aabd43d9bd90800000000000000
+      internalID: -7081396608266046305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_4
+      name: AttackSkill-sheet_7
       rect:
         serializedVersion: 2
-        x: 274
-        y: 19
-        width: 28
-        height: 32
+        x: 245
+        y: 40
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7eec39dd3837592c0800000000000000
-      internalID: -4425504048626282777
+      spriteID: 3f102a2340b40e300800000000000000
+      internalID: 279305658298401267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_5
+      name: AttackSkill-sheet_8
       rect:
         serializedVersion: 2
-        x: 338
-        y: 19
-        width: 28
-        height: 32
+        x: 280
+        y: 40
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,20 +348,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 057c447383f4849e0800000000000000
-      internalID: -1636971361685158064
+      spriteID: 6f05a9cad68df8440800000000000000
+      internalID: 4940405281807552758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_6
+      name: AttackSkill-sheet_9
       rect:
         serializedVersion: 2
-        x: 402
-        y: 19
-        width: 28
-        height: 32
+        x: 318
+        y: 39
+        width: 18
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,18 +370,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0de9a1b392bdcde00800000000000000
-      internalID: 1070971781539077840
+      spriteID: 252666f244ed5f670800000000000000
+      internalID: 8572001850203988562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_7
+      name: AttackSkill-sheet_10
       rect:
         serializedVersion: 2
-        x: 466
-        y: 19
+        x: 9
+        y: 4
         width: 28
         height: 32
       alignment: 0
@@ -308,18 +392,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c249561ea77c3fd0800000000000000
-      internalID: -2360880515066019136
+      spriteID: f006f2a06aadbb870800000000000000
+      internalID: 8699787511866548239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_8
+      name: AttackSkill-sheet_11
       rect:
         serializedVersion: 2
-        x: 530
-        y: 19
+        x: 42
+        y: 4
         width: 28
         height: 32
       alignment: 0
@@ -330,18 +414,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc2e8c2ae115a0df0800000000000000
-      internalID: -213268840324734261
+      spriteID: 63b1b6fe794170d00800000000000000
+      internalID: 938741690119428918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_9
+      name: AttackSkill-sheet_12
       rect:
         serializedVersion: 2
-        x: 594
-        y: 19
+        x: 75
+        y: 4
         width: 28
         height: 32
       alignment: 0
@@ -352,18 +436,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb39429398c896270800000000000000
-      internalID: 8244275113875510204
+      spriteID: 83f61b2bb9ba22140800000000000000
+      internalID: 4693502446879731512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_10
+      name: AttackSkill-sheet_13
       rect:
         serializedVersion: 2
-        x: 658
-        y: 19
+        x: 108
+        y: 4
         width: 28
         height: 32
       alignment: 0
@@ -374,18 +458,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc95dbf63c9760770800000000000000
-      internalID: 8576676420673952205
+      spriteID: b886c4a843a530ac0800000000000000
+      internalID: -3890166471412914037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_11
+      name: AttackSkill-sheet_14
       rect:
         serializedVersion: 2
-        x: 722
-        y: 19
+        x: 141
+        y: 4
         width: 28
         height: 32
       alignment: 0
@@ -396,18 +480,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9018ef80d8a509dc0800000000000000
-      internalID: -3634305337500204791
+      spriteID: cf0e45acba89c1800800000000000000
+      internalID: 584509915252711676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_12
+      name: AttackSkill-sheet_15
       rect:
         serializedVersion: 2
-        x: 785
-        y: 19
+        x: 175
+        y: 4
         width: 28
         height: 32
       alignment: 0
@@ -418,18 +502,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c8314df967a498b0800000000000000
-      internalID: -5146304400515319612
+      spriteID: c73e532b114856290800000000000000
+      internalID: -7897761159985110148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_13
+      name: AttackSkill-sheet_16
       rect:
         serializedVersion: 2
-        x: 850
-        y: 19
+        x: 210
+        y: 4
         width: 28
         height: 32
       alignment: 0
@@ -440,8 +524,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dba37974f932892d0800000000000000
-      internalID: -3271825962276799811
+      spriteID: 529075037cdb54a40800000000000000
+      internalID: 5351892395406854437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSkill-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1cdfdfdf037a1b0800000000000000
+      internalID: -5645489740439502400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSkill-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207cdb488fae4150800000000000000
+      internalID: 5858813165178744865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSkill-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 4
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cff2826e3a024ca0800000000000000
+      internalID: -6034249287666040895
       vertices: []
       indices: 
       edges: []
@@ -450,7 +600,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 40493f84b6e39ad4ebbee126c98f7978
+    spriteID: f8572e2b61f163646af7c488eda0c98c
     internalID: 0
     vertices: []
     indices: 
@@ -460,20 +610,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Attack-front-Sheet_0: -8673974567327882497
-      Attack-front-Sheet_1: -7037099939288455455
-      Attack-front-Sheet_10: 8576676420673952205
-      Attack-front-Sheet_11: -3634305337500204791
-      Attack-front-Sheet_12: -5146304400515319612
-      Attack-front-Sheet_13: -3271825962276799811
-      Attack-front-Sheet_2: -8330517963055943311
-      Attack-front-Sheet_3: -44768563109283075
-      Attack-front-Sheet_4: -4425504048626282777
-      Attack-front-Sheet_5: -1636971361685158064
-      Attack-front-Sheet_6: 1070971781539077840
-      Attack-front-Sheet_7: -2360880515066019136
-      Attack-front-Sheet_8: -213268840324734261
-      Attack-front-Sheet_9: 8244275113875510204
+      AttackSkill-sheet_0: -2377542479378556636
+      AttackSkill-sheet_1: -3735324764705386609
+      AttackSkill-sheet_10: 8699787511866548239
+      AttackSkill-sheet_11: 938741690119428918
+      AttackSkill-sheet_12: 4693502446879731512
+      AttackSkill-sheet_13: -3890166471412914037
+      AttackSkill-sheet_14: 584509915252711676
+      AttackSkill-sheet_15: -7897761159985110148
+      AttackSkill-sheet_16: 5351892395406854437
+      AttackSkill-sheet_17: -5645489740439502400
+      AttackSkill-sheet_18: 5858813165178744865
+      AttackSkill-sheet_19: -6034249287666040895
+      AttackSkill-sheet_2: 4579635369996375609
+      AttackSkill-sheet_3: 1102803697372761110
+      AttackSkill-sheet_4: -2626999128878895608
+      AttackSkill-sheet_5: -8044056551476587319
+      AttackSkill-sheet_6: -7081396608266046305
+      AttackSkill-sheet_7: 279305658298401267
+      AttackSkill-sheet_8: 4940405281807552758
+      AttackSkill-sheet_9: 8572001850203988562
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

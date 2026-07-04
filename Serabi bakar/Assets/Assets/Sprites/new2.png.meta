@@ -1,49 +1,49 @@
 fileFormatVersion: 2
-guid: 88e9bb0daac3b9a40bd59e26dc2da85e
+guid: df12d7ac324145a4b8e702d0441ed6c9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8673974567327882497
-    second: Attack-front-Sheet_0
+      213: -5898015918013206881
+    second: DownSkillAnimation-sheet_0
   - first:
-      213: -7037099939288455455
-    second: Attack-front-Sheet_1
+      213: 1657864229939226717
+    second: DownSkillAnimation-sheet_1
   - first:
-      213: -8330517963055943311
-    second: Attack-front-Sheet_2
+      213: 7153723174926194528
+    second: DownSkillAnimation-sheet_2
   - first:
-      213: -44768563109283075
-    second: Attack-front-Sheet_3
+      213: 7274001893291009549
+    second: DownSkillAnimation-sheet_3
   - first:
-      213: -4425504048626282777
-    second: Attack-front-Sheet_4
+      213: 6373086182548140531
+    second: DownSkillAnimation-sheet_4
   - first:
-      213: -1636971361685158064
-    second: Attack-front-Sheet_5
+      213: 4444551751802087347
+    second: DownSkillAnimation-sheet_5
   - first:
-      213: 1070971781539077840
-    second: Attack-front-Sheet_6
+      213: -8777834758625212369
+    second: DownSkillAnimation-sheet_6
   - first:
-      213: -2360880515066019136
-    second: Attack-front-Sheet_7
+      213: -1926716526757560302
+    second: DownSkillAnimation-sheet_7
   - first:
-      213: -213268840324734261
-    second: Attack-front-Sheet_8
+      213: 1973810182102636244
+    second: DownSkillAnimation-sheet_8
   - first:
-      213: 8244275113875510204
-    second: Attack-front-Sheet_9
+      213: 1160479221509851215
+    second: DownSkillAnimation-sheet_9
   - first:
-      213: 8576676420673952205
-    second: Attack-front-Sheet_10
+      213: -7731665560621499312
+    second: DownSkillAnimation-sheet_10
   - first:
-      213: -3634305337500204791
-    second: Attack-front-Sheet_11
+      213: 537381330617575874
+    second: DownSkillAnimation-sheet_11
   - first:
-      213: -5146304400515319612
-    second: Attack-front-Sheet_12
+      213: -4691444786537404276
+    second: DownSkillAnimation-sheet_12
   - first:
-      213: -3271825962276799811
-    second: Attack-front-Sheet_13
+      213: 6647067143988638393
+    second: DownSkillAnimation-sheet_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,11 +139,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack-front-Sheet_0
+      name: DownSkillAnimation-sheet_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 19
+        x: 7
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -154,18 +154,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff226a3761adf9780800000000000000
-      internalID: -8673974567327882497
+      spriteID: f9e293785c9062ea0800000000000000
+      internalID: -5898015918013206881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_1
+      name: DownSkillAnimation-sheet_1
       rect:
         serializedVersion: 2
-        x: 82
-        y: 19
+        x: 40
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -176,18 +176,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e6e9cda3e2375e90800000000000000
-      internalID: -7037099939288455455
+      spriteID: d58aa5fbbbae10710800000000000000
+      internalID: 1657864229939226717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_2
+      name: DownSkillAnimation-sheet_2
       rect:
         serializedVersion: 2
-        x: 146
-        y: 19
+        x: 73
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -198,18 +198,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1713a01bc0e046c80800000000000000
-      internalID: -8330517963055943311
+      spriteID: 06794f65351274360800000000000000
+      internalID: 7153723174926194528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_3
+      name: DownSkillAnimation-sheet_3
       rect:
         serializedVersion: 2
-        x: 210
-        y: 19
+        x: 106
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -220,18 +220,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dfa34c2aa33f06ff0800000000000000
-      internalID: -44768563109283075
+      spriteID: d062121ce2272f460800000000000000
+      internalID: 7274001893291009549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_4
+      name: DownSkillAnimation-sheet_4
       rect:
         serializedVersion: 2
-        x: 274
-        y: 19
+        x: 139
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -242,18 +242,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7eec39dd3837592c0800000000000000
-      internalID: -4425504048626282777
+      spriteID: 3f17bb1fd10c17850800000000000000
+      internalID: 6373086182548140531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_5
+      name: DownSkillAnimation-sheet_5
       rect:
         serializedVersion: 2
-        x: 338
-        y: 19
+        x: 172
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -264,18 +264,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 057c447383f4849e0800000000000000
-      internalID: -1636971361685158064
+      spriteID: 3b7e00025483ead30800000000000000
+      internalID: 4444551751802087347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_6
+      name: DownSkillAnimation-sheet_6
       rect:
         serializedVersion: 2
-        x: 402
-        y: 19
+        x: 206
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -286,18 +286,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0de9a1b392bdcde00800000000000000
-      internalID: 1070971781539077840
+      spriteID: f2841134bcdde2680800000000000000
+      internalID: -8777834758625212369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_7
+      name: DownSkillAnimation-sheet_7
       rect:
         serializedVersion: 2
-        x: 466
-        y: 19
+        x: 241
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -308,18 +308,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c249561ea77c3fd0800000000000000
-      internalID: -2360880515066019136
+      spriteID: 210cdbfe68de245e0800000000000000
+      internalID: -1926716526757560302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_8
+      name: DownSkillAnimation-sheet_8
       rect:
         serializedVersion: 2
-        x: 530
-        y: 19
+        x: 277
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -330,18 +330,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc2e8c2ae115a0df0800000000000000
-      internalID: -213268840324734261
+      spriteID: 4d6d64627e1646b10800000000000000
+      internalID: 1973810182102636244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_9
+      name: DownSkillAnimation-sheet_9
       rect:
         serializedVersion: 2
-        x: 594
-        y: 19
+        x: 313
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -352,18 +352,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb39429398c896270800000000000000
-      internalID: 8244275113875510204
+      spriteID: f48015714b9da1010800000000000000
+      internalID: 1160479221509851215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_10
+      name: DownSkillAnimation-sheet_10
       rect:
         serializedVersion: 2
-        x: 658
-        y: 19
+        x: 350
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -374,19 +374,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc95dbf63c9760770800000000000000
-      internalID: 8576676420673952205
+      spriteID: 05cb801032b93b490800000000000000
+      internalID: -7731665560621499312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_11
+      name: DownSkillAnimation-sheet_11
       rect:
         serializedVersion: 2
-        x: 722
-        y: 19
-        width: 28
+        x: 390
+        y: 7
+        width: 26
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -396,18 +396,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9018ef80d8a509dc0800000000000000
-      internalID: -3634305337500204791
+      spriteID: 2c923681979257700800000000000000
+      internalID: 537381330617575874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_12
+      name: DownSkillAnimation-sheet_12
       rect:
         serializedVersion: 2
-        x: 785
-        y: 19
+        x: 426
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -418,18 +418,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c8314df967a498b0800000000000000
-      internalID: -5146304400515319612
+      spriteID: c88641fa2d3a4eeb0800000000000000
+      internalID: -4691444786537404276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack-front-Sheet_13
+      name: DownSkillAnimation-sheet_13
       rect:
         serializedVersion: 2
-        x: 850
-        y: 19
+        x: 462
+        y: 7
         width: 28
         height: 32
       alignment: 0
@@ -440,8 +440,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dba37974f932892d0800000000000000
-      internalID: -3271825962276799811
+      spriteID: 9b2fc9b89502f3c50800000000000000
+      internalID: 6647067143988638393
       vertices: []
       indices: 
       edges: []
@@ -450,7 +450,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 40493f84b6e39ad4ebbee126c98f7978
+    spriteID: d4e872971fb75944eb2215519faa5e63
     internalID: 0
     vertices: []
     indices: 
@@ -460,20 +460,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Attack-front-Sheet_0: -8673974567327882497
-      Attack-front-Sheet_1: -7037099939288455455
-      Attack-front-Sheet_10: 8576676420673952205
-      Attack-front-Sheet_11: -3634305337500204791
-      Attack-front-Sheet_12: -5146304400515319612
-      Attack-front-Sheet_13: -3271825962276799811
-      Attack-front-Sheet_2: -8330517963055943311
-      Attack-front-Sheet_3: -44768563109283075
-      Attack-front-Sheet_4: -4425504048626282777
-      Attack-front-Sheet_5: -1636971361685158064
-      Attack-front-Sheet_6: 1070971781539077840
-      Attack-front-Sheet_7: -2360880515066019136
-      Attack-front-Sheet_8: -213268840324734261
-      Attack-front-Sheet_9: 8244275113875510204
+      DownSkillAnimation-sheet_0: -5898015918013206881
+      DownSkillAnimation-sheet_1: 1657864229939226717
+      DownSkillAnimation-sheet_10: -7731665560621499312
+      DownSkillAnimation-sheet_11: 537381330617575874
+      DownSkillAnimation-sheet_12: -4691444786537404276
+      DownSkillAnimation-sheet_13: 6647067143988638393
+      DownSkillAnimation-sheet_2: 7153723174926194528
+      DownSkillAnimation-sheet_3: 7274001893291009549
+      DownSkillAnimation-sheet_4: 6373086182548140531
+      DownSkillAnimation-sheet_5: 4444551751802087347
+      DownSkillAnimation-sheet_6: -8777834758625212369
+      DownSkillAnimation-sheet_7: -1926716526757560302
+      DownSkillAnimation-sheet_8: 1973810182102636244
+      DownSkillAnimation-sheet_9: 1160479221509851215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

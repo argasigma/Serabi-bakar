@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: 63157c0a45e7dd5489cc2b9e9ab02bd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6330794240828455577
+    second: Fire Devil Boss_0
+  - first:
+      213: 3267444945968506549
+    second: Fire Devil Boss_1
+  - first:
+      213: -1126845376928454673
+    second: Fire Devil Boss_2
+  - first:
+      213: -2123633550703065997
+    second: Fire Devil Boss_3
+  - first:
+      213: 3023997389102471489
+    second: Fire Devil Boss_4
+  - first:
+      213: 35333351171127306
+    second: Fire Devil Boss_5
+  - first:
+      213: 4321403209646929215
+    second: Fire Devil Boss_6
+  - first:
+      213: -7797811598877023877
+    second: Fire Devil Boss_7
+  - first:
+      213: 785650976912861318
+    second: Fire Devil Boss_8
+  - first:
+      213: 5845694075474269973
+    second: Fire Devil Boss_9
+  - first:
+      213: -5041423980286248838
+    second: Fire Devil Boss_10
+  - first:
+      213: -4681225425032632024
+    second: Fire Devil Boss_11
+  - first:
+      213: -1018921938597433767
+    second: Fire Devil Boss_12
+  - first:
+      213: -2036801474444907742
+    second: Fire Devil Boss_13
+  - first:
+      213: -6743122990349740655
+    second: Fire Devil Boss_14
+  - first:
+      213: -991085478124351081
+    second: Fire Devil Boss_15
+  - first:
+      213: -6845309457313473716
+    second: Fire Devil Boss_16
+  - first:
+      213: -7837961695833398855
+    second: Fire Devil Boss_17
+  - first:
+      213: 2703256705142318851
+    second: Fire Devil Boss_18
+  - first:
+      213: 2833751652965901783
+    second: Fire Devil Boss_19
+  - first:
+      213: -3355149275280108590
+    second: Fire Devil Boss_20
+  - first:
+      213: -7463102803254157851
+    second: Fire Devil Boss_21
+  - first:
+      213: -3100622932037938886
+    second: Fire Devil Boss_22
+  - first:
+      213: 2940973787688297088
+    second: Fire Devil Boss_23
+  - first:
+      213: 2107922604904270227
+    second: Fire Devil Boss_24
+  - first:
+      213: 8801854828247107378
+    second: Fire Devil Boss_25
+  - first:
+      213: -1391332686340312580
+    second: Fire Devil Boss_26
+  - first:
+      213: 5987711428583280605
+    second: Fire Devil Boss_27
+  - first:
+      213: 8747213040116141683
+    second: Fire Devil Boss_28
+  - first:
+      213: 6341173518920550637
+    second: Fire Devil Boss_29
+  - first:
+      213: -4749061860499338236
+    second: Fire Devil Boss_30
+  - first:
+      213: 7518116578110366699
+    second: Fire Devil Boss_31
+  - first:
+      213: -852260280281063452
+    second: Fire Devil Boss_32
+  - first:
+      213: 4836987825499213538
+    second: Fire Devil Boss_33
+  - first:
+      213: -4116390324863741012
+    second: Fire Devil Boss_34
+  - first:
+      213: -551816624526998278
+    second: Fire Devil Boss_35
+  - first:
+      213: 2114733442538048979
+    second: Fire Devil Boss_36
+  - first:
+      213: 8014365956323802776
+    second: Fire Devil Boss_37
+  - first:
+      213: 3572630272841190370
+    second: Fire Devil Boss_38
+  - first:
+      213: 3832112522188895881
+    second: Fire Devil Boss_39
+  - first:
+      213: 2343774098710096258
+    second: Fire Devil Boss_40
+  - first:
+      213: 164754380054661152
+    second: Fire Devil Boss_41
+  - first:
+      213: 6934868462873588621
+    second: Fire Devil Boss_42
+  - first:
+      213: -6070569295985716494
+    second: Fire Devil Boss_43
+  - first:
+      213: 2332362813003949429
+    second: Fire Devil Boss_44
+  - first:
+      213: 1606849808504040022
+    second: Fire Devil Boss_45
+  - first:
+      213: 3918643519682693533
+    second: Fire Devil Boss_46
+  - first:
+      213: -4208777859984203125
+    second: Fire Devil Boss_47
+  - first:
+      213: -1882286000025174536
+    second: Fire Devil Boss_48
+  - first:
+      213: -4316796940062234542
+    second: Fire Devil Boss_49
+  - first:
+      213: -5240760199414816343
+    second: Fire Devil Boss_50
+  - first:
+      213: 353953267243026724
+    second: Fire Devil Boss_51
+  - first:
+      213: 8804407175316991731
+    second: Fire Devil Boss_52
+  - first:
+      213: 1364417910045434656
+    second: Fire Devil Boss_53
+  - first:
+      213: 8297067706421604700
+    second: Fire Devil Boss_54
+  - first:
+      213: -6251141380019679881
+    second: Fire Devil Boss_55
+  - first:
+      213: -2869399111597098702
+    second: Fire Devil Boss_56
+  - first:
+      213: 188230696014079151
+    second: Fire Devil Boss_57
+  - first:
+      213: 1859972957024315832
+    second: Fire Devil Boss_58
+  - first:
+      213: 5796734788736517577
+    second: Fire Devil Boss_59
+  - first:
+      213: -2512467412208637491
+    second: Fire Devil Boss_60
+  - first:
+      213: 2439227182789615068
+    second: Fire Devil Boss_61
+  - first:
+      213: 3651508077984560508
+    second: Fire Devil Boss_62
+  - first:
+      213: -3075907704661105456
+    second: Fire Devil Boss_63
+  - first:
+      213: 7835126429808637974
+    second: Fire Devil Boss_64
+  - first:
+      213: -4305512733468795178
+    second: Fire Devil Boss_65
+  - first:
+      213: -6460181457459159558
+    second: Fire Devil Boss_66
+  - first:
+      213: 3334906666496156843
+    second: Fire Devil Boss_67
+  - first:
+      213: -5231776231555038269
+    second: Fire Devil Boss_68
+  - first:
+      213: -5349807150813205534
+    second: Fire Devil Boss_69
+  - first:
+      213: 7813142247686944880
+    second: Fire Devil Boss_70
+  - first:
+      213: 5917352660413092817
+    second: Fire Devil Boss_71
+  - first:
+      213: -7367614527152606378
+    second: Fire Devil Boss_72
+  - first:
+      213: 5716731434761601372
+    second: Fire Devil Boss_73
+  - first:
+      213: 6760331985580546503
+    second: Fire Devil Boss_74
+  - first:
+      213: 8792578393278915254
+    second: Fire Devil Boss_75
+  - first:
+      213: 2770126464255384424
+    second: Fire Devil Boss_76
+  - first:
+      213: -2360439571772927396
+    second: Fire Devil Boss_77
+  - first:
+      213: -7240995100125254856
+    second: Fire Devil Boss_78
+  - first:
+      213: 541651762944229377
+    second: Fire Devil Boss_79
+  - first:
+      213: 3107050595798752220
+    second: Fire Devil Boss_80
+  - first:
+      213: -5954399773043727187
+    second: Fire Devil Boss_81
+  - first:
+      213: 9048687044379415913
+    second: Fire Devil Boss_82
+  - first:
+      213: -3752911271342086733
+    second: Fire Devil Boss_83
+  - first:
+      213: 2330072523945288467
+    second: Fire Devil Boss_84
+  - first:
+      213: 1613750135783002502
+    second: Fire Devil Boss_85
+  - first:
+      213: -2715290863041138548
+    second: Fire Devil Boss_86
+  - first:
+      213: -3241762172754202971
+    second: Fire Devil Boss_87
+  - first:
+      213: -6043595643813314193
+    second: Fire Devil Boss_88
+  - first:
+      213: 7243917319077415186
+    second: Fire Devil Boss_89
+  - first:
+      213: -9207345418641795375
+    second: Fire Devil Boss_90
+  - first:
+      213: 2684980106631041569
+    second: Fire Devil Boss_91
+  - first:
+      213: 8889677911175424763
+    second: Fire Devil Boss_92
+  - first:
+      213: -8724075722201161969
+    second: Fire Devil Boss_93
+  - first:
+      213: 8895562418229175667
+    second: Fire Devil Boss_94
+  - first:
+      213: 7846575829663305225
+    second: Fire Devil Boss_95
+  - first:
+      213: -2610817876530170997
+    second: Fire Devil Boss_96
+  - first:
+      213: -708539135152180181
+    second: Fire Devil Boss_97
+  - first:
+      213: -6393218404500824282
+    second: Fire Devil Boss_98
+  - first:
+      213: -1140775441046510185
+    second: Fire Devil Boss_99
+  - first:
+      213: -8197317041763500950
+    second: Fire Devil Boss_100
+  - first:
+      213: -2638903539411454993
+    second: Fire Devil Boss_101
+  - first:
+      213: 7923360153944817366
+    second: Fire Devil Boss_102
+  - first:
+      213: 3840602453272448813
+    second: Fire Devil Boss_103
+  - first:
+      213: -6943342115452270703
+    second: Fire Devil Boss_104
+  - first:
+      213: 7376985759170804151
+    second: Fire Devil Boss_105
+  - first:
+      213: -597296728287823831
+    second: Fire Devil Boss_106
+  - first:
+      213: 2751454336090150421
+    second: Fire Devil Boss_107
+  - first:
+      213: -3948745730721118795
+    second: Fire Devil Boss_108
+  - first:
+      213: 5130151619276260886
+    second: Fire Devil Boss_109
+  - first:
+      213: 2336386504878653436
+    second: Fire Devil Boss_110
+  - first:
+      213: 2906491637699421470
+    second: Fire Devil Boss_111
+  - first:
+      213: -7505135727509847300
+    second: Fire Devil Boss_112
+  - first:
+      213: -4954085875104189130
+    second: Fire Devil Boss_113
+  - first:
+      213: 5664885870217949570
+    second: Fire Devil Boss_114
+  - first:
+      213: -3215348912369336411
+    second: Fire Devil Boss_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire Devil Boss_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 136
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3baee1df7bd750800000000000000
+      internalID: 6330794240828455577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 135
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6299fdddb485d20800000000000000
+      internalID: 3267444945968506549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 80
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe763679914ac50f0800000000000000
+      internalID: -1126845376928454673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 138
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3740e3189865782e0800000000000000
+      internalID: -2123633550703065997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 80
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14959238a9567f920800000000000000
+      internalID: 3023997389102471489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 80
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087745ee778d7000800000000000000
+      internalID: 35333351171127306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 80
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35fc3ac255b8fb30800000000000000
+      internalID: 4321403209646929215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 80
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71a3875aab98c390800000000000000
+      internalID: -7797811598877023877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 138
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6886454a66137ea00800000000000000
+      internalID: 785650976912861318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 135
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517df323ac3102150800000000000000
+      internalID: 5845694075474269973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 136
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f6ecb993490ab0800000000000000
+      internalID: -5041423980286248838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 114
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82927633742f80fb0800000000000000
+      internalID: -4681225425032632024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e2c0435ef0cd1f0800000000000000
+      internalID: -1018921938597433767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 80
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b28b5b9d3dbb3e0800000000000000
+      internalID: -2036801474444907742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951f6bed5d9b62a0800000000000000
+      internalID: -6743122990349740655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79199563205fe32f0800000000000000
+      internalID: -991085478124351081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b553b01539001a0800000000000000
+      internalID: -6845309457313473716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 80
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b16bbc6d57f93390800000000000000
+      internalID: -7837961695833398855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 112
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30763be96a5e38520800000000000000
+      internalID: 2703256705142318851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 117
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d565b05d12835720800000000000000
+      internalID: 2833751652965901783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 114
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3158ea28d1071d0800000000000000
+      internalID: -3355149275280108590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed50d9aa8bbd6890800000000000000
+      internalID: -7463102803254157851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31d2710fdf58f4d0800000000000000
+      internalID: -3100622932037938886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08265e4f31070d820800000000000000
+      internalID: 2940973787688297088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 112
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399c55fd078d04d10800000000000000
+      internalID: 2107922604904270227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_25
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 117
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c9320558762a70800000000000000
+      internalID: 8801854828247107378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 116
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1bb4a1b4ef0bce0800000000000000
+      internalID: -1391332686340312580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 119
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfc04ee1df981350800000000000000
+      internalID: 5987711428583280605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 107
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e89ce4ae7546970800000000000000
+      internalID: 8747213040116141683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de88f5ee7bf500850800000000000000
+      internalID: 6341173518920550637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 112
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cc4944661f71eb0800000000000000
+      internalID: -4749061860499338236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 117
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be36e32f137b55860800000000000000
+      internalID: 7518116578110366699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 114
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef1ca16ac92c24f0800000000000000
+      internalID: -852260280281063452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee05c1ccce602340800000000000000
+      internalID: 4836987825499213538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca354a12fc4afd6c0800000000000000
+      internalID: -4116390324863741012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c9e124bd8758f0800000000000000
+      internalID: -551816624526998278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd8e159cda095d10800000000000000
+      internalID: 2114733442538048979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ef9a6106fb83f60800000000000000
+      internalID: 8014365956323802776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_38
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 112
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb8186fd48849130800000000000000
+      internalID: 3572630272841190370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_39
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 117
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986356819066e2530800000000000000
+      internalID: 3832112522188895881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 114
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289606bff12c68020800000000000000
+      internalID: 2343774098710096258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_41
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028095a5c33594200800000000000000
+      internalID: 164754380054661152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_42
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 80
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83b3addf1a9d3060800000000000000
+      internalID: 6934868462873588621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d068736101cba0800000000000000
+      internalID: -6070569295985716494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5756e6cfe973e5020800000000000000
+      internalID: 2332362813003949429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aa94b236dac4610800000000000000
+      internalID: 1606849808504040022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c210f481d16630800000000000000
+      internalID: 3918643519682693533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 104
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82ec1dd5da6795c0800000000000000
+      internalID: -4208777859984203125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_48
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdfec21bd6c0e5e0800000000000000
+      internalID: -1882286000025174536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 105
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258e81ced08a714c0800000000000000
+      internalID: -4316796940062234542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_50
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 104
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1efd88d541547b0800000000000000
+      internalID: -5240760199414816343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 106
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4290c190f9e79e400800000000000000
+      internalID: 353953267243026724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 105
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6bae9da98f2a70800000000000000
+      internalID: 8804407175316991731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 104
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02360753cd26fe210800000000000000
+      internalID: 1364417910045434656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 106
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ff968e1b152370800000000000000
+      internalID: 8297067706421604700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_55
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8e2be80c7f39a0800000000000000
+      internalID: -6251141380019679881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_56
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 105
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239fe62f5b8dd28d0800000000000000
+      internalID: -2869399111597098702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_57
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46ebb12dabc9200800000000000000
+      internalID: 188230696014079151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 104
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96443cc83ffc910800000000000000
+      internalID: 1859972957024315832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_59
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50ac3f393227050800000000000000
+      internalID: 5796734788736517577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_60
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 105
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc92f81433ce12dd0800000000000000
+      internalID: -2512467412208637491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddd6acf230e9d120800000000000000
+      internalID: 2439227182789615068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c753dba1043cca230800000000000000
+      internalID: 3651508077984560508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a9cd4d3e2055d0800000000000000
+      internalID: -3075907704661105456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b403c9f5fbbc60800000000000000
+      internalID: 7835126429808637974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dedba10bfebf34c0800000000000000
+      internalID: -4305512733468795178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 17
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdd4932133d856a0800000000000000
+      internalID: -6460181457459159558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 17
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4e59fa1f7f74e20800000000000000
+      internalID: 3334906666496156843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 17
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c384dd8c3ff467b0800000000000000
+      internalID: -5231776231555038269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb2fe6adbaa1c5b0800000000000000
+      internalID: -5349807150813205534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_70
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0783afc7a7bdd6c60800000000000000
+      internalID: 7813142247686944880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_71
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 73
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d392a6a4e8ae1250800000000000000
+      internalID: 5917352660413092817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 52
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653bf037f99f0c990800000000000000
+      internalID: -7367614527152606378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51464d83f8e55f40800000000000000
+      internalID: 5716731434761601372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 17
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c95d348f1681dd50800000000000000
+      internalID: 6760331985580546503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b22a2fa673850a70800000000000000
+      internalID: 8792578393278915254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd9dca757717620800000000000000
+      internalID: 2770126464255384424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5213b237b80e3fd0800000000000000
+      internalID: -2360439571772927396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba0b42251d28b90800000000000000
+      internalID: -7240995100125254856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_79
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100414a9865548700800000000000000
+      internalID: 541651762944229377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 17
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb10c51e067e1b20800000000000000
+      internalID: 3107050595798752220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_81
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4ef0544f8bd5da0800000000000000
+      internalID: -5954399773043727187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9651ae3cce4639d70800000000000000
+      internalID: 9048687044379415913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_83
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5681e151bfaebc0800000000000000
+      internalID: -3752911271342086733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 51
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31328a28d94165020800000000000000
+      internalID: 2330072523945288467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_85
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 53
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681959fc231356610800000000000000
+      internalID: 1613750135783002502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_86
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b196a859515ad0800000000000000
+      internalID: -2715290863041138548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_87
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 53
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeefaeba72f203d0800000000000000
+      internalID: -3241762172754202971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_88
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61c86448c5d02ca0800000000000000
+      internalID: -6043595643813314193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_89
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 51
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219c8e9fb60978460800000000000000
+      internalID: 7243917319077415186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_90
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 53
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d61985df10f83080800000000000000
+      internalID: -9207345418641795375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_91
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122dbbc6e27f24520800000000000000
+      internalID: 2684980106631041569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_92
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 53
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa6f3fe5fa7e5b70800000000000000
+      internalID: 8889677911175424763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_93
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f17905a5bdde680800000000000000
+      internalID: -8724075722201161969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_94
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 51
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3756ddf73e2637b70800000000000000
+      internalID: 8895562418229175667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_95
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 53
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e4f36e423a4ec60800000000000000
+      internalID: 7846575829663305225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_96
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83fd2859f284cbd0800000000000000
+      internalID: -2610817876530170997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_97
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 52
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24bacb1963ca26f0800000000000000
+      internalID: -708539135152180181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_98
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f1d3cdbb9b647a0800000000000000
+      internalID: -6393218404500824282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_99
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 17
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795eeebc7c62b20f0800000000000000
+      internalID: -1140775441046510185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_100
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3e6ee4974d3e80800000000000000
+      internalID: -8197317041763500950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_101
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3fbd0663bb06bd0800000000000000
+      internalID: -2638903539411454993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_102
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de7d5b841e65fd60800000000000000
+      internalID: 7923360153944817366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_103
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 52
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f4cc6359f8c4530800000000000000
+      internalID: 3840602453272448813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_104
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1974576222b44af90800000000000000
+      internalID: -6943342115452270703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_105
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 17
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9bd788671506660800000000000000
+      internalID: 7376985759170804151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_106
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928b6ec4ac9f5b7f0800000000000000
+      internalID: -597296728287823831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_107
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5169c5e04212f2620800000000000000
+      internalID: 2751454336090150421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_108
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b50704edac3339c0800000000000000
+      internalID: -3948745730721118795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_109
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6164bde87b5f13740800000000000000
+      internalID: 5130151619276260886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_110
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfffe41c5238c6020800000000000000
+      internalID: 2336386504878653436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_111
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15a7b7cebee55820800000000000000
+      internalID: 2906491637699421470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_112
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ceaad1d668d790800000000000000
+      internalID: -7505135727509847300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_113
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63572abf42d8f3bb0800000000000000
+      internalID: -4954085875104189130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_114
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28178736fa7bd9e40800000000000000
+      internalID: 5664885870217949570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Devil Boss_115
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 40
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af79492339c063d0800000000000000
+      internalID: -3215348912369336411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire Devil Boss_0: 6330794240828455577
+      Fire Devil Boss_1: 3267444945968506549
+      Fire Devil Boss_10: -5041423980286248838
+      Fire Devil Boss_100: -8197317041763500950
+      Fire Devil Boss_101: -2638903539411454993
+      Fire Devil Boss_102: 7923360153944817366
+      Fire Devil Boss_103: 3840602453272448813
+      Fire Devil Boss_104: -6943342115452270703
+      Fire Devil Boss_105: 7376985759170804151
+      Fire Devil Boss_106: -597296728287823831
+      Fire Devil Boss_107: 2751454336090150421
+      Fire Devil Boss_108: -3948745730721118795
+      Fire Devil Boss_109: 5130151619276260886
+      Fire Devil Boss_11: -4681225425032632024
+      Fire Devil Boss_110: 2336386504878653436
+      Fire Devil Boss_111: 2906491637699421470
+      Fire Devil Boss_112: -7505135727509847300
+      Fire Devil Boss_113: -4954085875104189130
+      Fire Devil Boss_114: 5664885870217949570
+      Fire Devil Boss_115: -3215348912369336411
+      Fire Devil Boss_12: -1018921938597433767
+      Fire Devil Boss_13: -2036801474444907742
+      Fire Devil Boss_14: -6743122990349740655
+      Fire Devil Boss_15: -991085478124351081
+      Fire Devil Boss_16: -6845309457313473716
+      Fire Devil Boss_17: -7837961695833398855
+      Fire Devil Boss_18: 2703256705142318851
+      Fire Devil Boss_19: 2833751652965901783
+      Fire Devil Boss_2: -1126845376928454673
+      Fire Devil Boss_20: -3355149275280108590
+      Fire Devil Boss_21: -7463102803254157851
+      Fire Devil Boss_22: -3100622932037938886
+      Fire Devil Boss_23: 2940973787688297088
+      Fire Devil Boss_24: 2107922604904270227
+      Fire Devil Boss_25: 8801854828247107378
+      Fire Devil Boss_26: -1391332686340312580
+      Fire Devil Boss_27: 5987711428583280605
+      Fire Devil Boss_28: 8747213040116141683
+      Fire Devil Boss_29: 6341173518920550637
+      Fire Devil Boss_3: -2123633550703065997
+      Fire Devil Boss_30: -4749061860499338236
+      Fire Devil Boss_31: 7518116578110366699
+      Fire Devil Boss_32: -852260280281063452
+      Fire Devil Boss_33: 4836987825499213538
+      Fire Devil Boss_34: -4116390324863741012
+      Fire Devil Boss_35: -551816624526998278
+      Fire Devil Boss_36: 2114733442538048979
+      Fire Devil Boss_37: 8014365956323802776
+      Fire Devil Boss_38: 3572630272841190370
+      Fire Devil Boss_39: 3832112522188895881
+      Fire Devil Boss_4: 3023997389102471489
+      Fire Devil Boss_40: 2343774098710096258
+      Fire Devil Boss_41: 164754380054661152
+      Fire Devil Boss_42: 6934868462873588621
+      Fire Devil Boss_43: -6070569295985716494
+      Fire Devil Boss_44: 2332362813003949429
+      Fire Devil Boss_45: 1606849808504040022
+      Fire Devil Boss_46: 3918643519682693533
+      Fire Devil Boss_47: -4208777859984203125
+      Fire Devil Boss_48: -1882286000025174536
+      Fire Devil Boss_49: -4316796940062234542
+      Fire Devil Boss_5: 35333351171127306
+      Fire Devil Boss_50: -5240760199414816343
+      Fire Devil Boss_51: 353953267243026724
+      Fire Devil Boss_52: 8804407175316991731
+      Fire Devil Boss_53: 1364417910045434656
+      Fire Devil Boss_54: 8297067706421604700
+      Fire Devil Boss_55: -6251141380019679881
+      Fire Devil Boss_56: -2869399111597098702
+      Fire Devil Boss_57: 188230696014079151
+      Fire Devil Boss_58: 1859972957024315832
+      Fire Devil Boss_59: 5796734788736517577
+      Fire Devil Boss_6: 4321403209646929215
+      Fire Devil Boss_60: -2512467412208637491
+      Fire Devil Boss_61: 2439227182789615068
+      Fire Devil Boss_62: 3651508077984560508
+      Fire Devil Boss_63: -3075907704661105456
+      Fire Devil Boss_64: 7835126429808637974
+      Fire Devil Boss_65: -4305512733468795178
+      Fire Devil Boss_66: -6460181457459159558
+      Fire Devil Boss_67: 3334906666496156843
+      Fire Devil Boss_68: -5231776231555038269
+      Fire Devil Boss_69: -5349807150813205534
+      Fire Devil Boss_7: -7797811598877023877
+      Fire Devil Boss_70: 7813142247686944880
+      Fire Devil Boss_71: 5917352660413092817
+      Fire Devil Boss_72: -7367614527152606378
+      Fire Devil Boss_73: 5716731434761601372
+      Fire Devil Boss_74: 6760331985580546503
+      Fire Devil Boss_75: 8792578393278915254
+      Fire Devil Boss_76: 2770126464255384424
+      Fire Devil Boss_77: -2360439571772927396
+      Fire Devil Boss_78: -7240995100125254856
+      Fire Devil Boss_79: 541651762944229377
+      Fire Devil Boss_8: 785650976912861318
+      Fire Devil Boss_80: 3107050595798752220
+      Fire Devil Boss_81: -5954399773043727187
+      Fire Devil Boss_82: 9048687044379415913
+      Fire Devil Boss_83: -3752911271342086733
+      Fire Devil Boss_84: 2330072523945288467
+      Fire Devil Boss_85: 1613750135783002502
+      Fire Devil Boss_86: -2715290863041138548
+      Fire Devil Boss_87: -3241762172754202971
+      Fire Devil Boss_88: -6043595643813314193
+      Fire Devil Boss_89: 7243917319077415186
+      Fire Devil Boss_9: 5845694075474269973
+      Fire Devil Boss_90: -9207345418641795375
+      Fire Devil Boss_91: 2684980106631041569
+      Fire Devil Boss_92: 8889677911175424763
+      Fire Devil Boss_93: -8724075722201161969
+      Fire Devil Boss_94: 8895562418229175667
+      Fire Devil Boss_95: 7846575829663305225
+      Fire Devil Boss_96: -2610817876530170997
+      Fire Devil Boss_97: -708539135152180181
+      Fire Devil Boss_98: -6393218404500824282
+      Fire Devil Boss_99: -1140775441046510185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

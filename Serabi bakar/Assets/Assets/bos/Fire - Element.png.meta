@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: bdca29b5132745140bf1484d38aefd1b
+guid: 39d80775e6b276b45ad71e4c28896d1a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4723107735738678597
-    second: Idle_0
-  - first:
-      213: -7385789195546760866
-    second: Idle_1
+      213: 5659255432937306725
+    second: Fire - Element_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,45 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_0
+      name: Fire - Element_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 13
-        width: 28
-        height: 32
+        x: 43
+        y: 55
+        width: 25
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54d7a982679db8140800000000000000
-      internalID: 4723107735738678597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_1
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 13
-        width: 28
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e596485bbd7608990800000000000000
-      internalID: -7385789195546760866
+      spriteID: 56a7d6d05d6b98e40800000000000000
+      internalID: 5659255432937306725
       vertices: []
       indices: 
       edges: []
@@ -150,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3b0bf7843a244b247a5c1396d0750c76
+    spriteID: 0409090cf9769f1489eb0ef20f55f59a
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Idle_0: 4723107735738678597
-      Idle_1: -7385789195546760866
+      Fire - Element_0: 5659255432937306725
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
