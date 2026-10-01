@@ -26,6 +26,8 @@ public class CutsceneManager : MonoBehaviour
 
     public CanvasGroup blackCanvasGroup;
     public GameObject blackScreen;
+    
+    public GameObject firePortal; // Variabel untuk portal
 
     // texts
     public TMP_Text cutsceneText;
@@ -143,6 +145,13 @@ public class CutsceneManager : MonoBehaviour
         cutscenePanel.SetActive(false);
 
         yield return StartCoroutine(BlackScreenFadeOut());
+
+        // Memastikan portal hanya menyala jika cutscene yang selesai adalah index 1
+        // (Ubah angka 1 jika index cutscene rumah Anda berbeda)
+        if (firePortal != null && currentCutscene == 1)
+        {
+            firePortal.SetActive(true);
+        }
 
         GameManager.Instance.currentState = GameState.Playing;
         isTransitioning = false;
