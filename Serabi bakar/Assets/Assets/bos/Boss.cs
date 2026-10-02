@@ -10,8 +10,8 @@ public class Boss : MonoBehaviour
 
     [Header("Movement / Chase")]
     public float moveSpeed = 2f;
-    public float chaseRange = 6f;
-    public float attackRange = 4f;
+    public float chaseRange = 9000f;
+    public float attackRange = 6f;
     private Transform player;
     private Rigidbody2D rb;
 
@@ -66,19 +66,13 @@ public class Boss : MonoBehaviour
 
     void ChasePlayer()
     {
-        Vector2 direction = (player.position - transform.position).normalized;
+        if (player == null) return;
 
-        if (rb != null)
-            rb.linearVelocity = direction * moveSpeed;
-        else
-            transform.position += (Vector3)(direction * moveSpeed * Time.deltaTime);
-
-        if (direction.x != 0)
-        {
-            Vector3 scale = transform.localScale;
-            scale.x = Mathf.Abs(scale.x) * (direction.x < 0 ? -1 : 1);
-            transform.localScale = scale;
-        }
+        transform.position = Vector2.MoveTowards(
+            transform.position,
+            player.position,
+            moveSpeed * Time.deltaTime
+        );
     }
 
     void StopMoving()
