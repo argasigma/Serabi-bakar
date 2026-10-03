@@ -125,43 +125,53 @@ public class CutsceneManager : MonoBehaviour
     }
 
     IEnumerator EndCutsceneRoutine()
-{
-    isTransitioning = true;
-
-    if (blinkCoroutine != null)
     {
-        StopCoroutine(blinkCoroutine);
-        blinkCoroutine = null;
+        isTransitioning = true;
+
+        if (blinkCoroutine != null)
+        {
+            StopCoroutine(blinkCoroutine);
+            blinkCoroutine = null;
+        }
+
+        yield return StartCoroutine(TextFadeOut());
+        yield return StartCoroutine(FadeOut());
+        yield return new WaitForSeconds(3.5f);
+
+        if (currentCutscene == 2)
+        {
+            SceneManager.LoadScene("MainMenu");
+            yield break;
+        }
+
+        cutscenePanel.SetActive(false);
+
+        yield return StartCoroutine(BlackScreenFadeOut());
+
+        if (firePortal != null && currentCutscene == 1)
+        {
+            firePortal.SetActive(true);
+        }
+
+        GameManager.Instance.currentState = GameState.Playing;
+        isTransitioning = false;
+
+        // Munculkan UI setelah cutscene yang dipilih selesai.
+        if (elementUI != null && currentCutscene == uiCutsceneIndex)
+        {
+            elementUI.SetActive(true);
+        }
+        if (currentCutscene == uiCutsceneIndex)
+        {
+            PlayerController player =
+                FindFirstObjectByType<PlayerController>();
+
+            if (player != null)
+            {
+                player.bisaAttack = true;
+            }
+        }
     }
-
-    yield return StartCoroutine(TextFadeOut());
-    yield return StartCoroutine(FadeOut());
-    yield return new WaitForSeconds(3.5f);
-
-    if (currentCutscene == 2)
-    {
-        SceneManager.LoadScene("MainMenu");
-        yield break;
-    }
-
-    cutscenePanel.SetActive(false);
-
-    yield return StartCoroutine(BlackScreenFadeOut());
-
-    if (firePortal != null && currentCutscene == 1)
-    {
-        firePortal.SetActive(true);
-    }
-
-    GameManager.Instance.currentState = GameState.Playing;
-    isTransitioning = false;
-
-    // Munculkan UI setelah cutscene yang dipilih selesai.
-    if (elementUI != null && currentCutscene == uiCutsceneIndex)
-    {
-        elementUI.SetActive(true);
-    }
-}
 
     IEnumerator StartText()
     {

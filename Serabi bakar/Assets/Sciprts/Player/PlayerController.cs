@@ -27,7 +27,8 @@
         [SerializeField] private float reloadTime = 7f;
         private int bulletFired = 0;
         private bool isReloading = false;
-        
+        public bool bisaAttack = false;
+        public bool bisaSkillLanjutan = false;
         private float attackDuration = 1.3f;
 
         private int currentSkill = 0;
@@ -95,8 +96,9 @@
 
                 bool aiming =
                     Keyboard.current.digit1Key.isPressed ||
-                    Keyboard.current.digit2Key.isPressed ||
-                    Keyboard.current.digit3Key.isPressed;
+                    (bisaSkillLanjutan &&
+                        (Keyboard.current.digit2Key.isPressed ||
+                        Keyboard.current.digit3Key.isPressed));
 
                 if (aiming && previousAttackInput == 0 && attackInput > 0)
                 {
@@ -121,7 +123,8 @@
 
         void Shoot()
         {
-            if (isAttacking || isReloading) return;
+            if (!bisaAttack || isAttacking || isReloading)
+                return;
 
             StartCoroutine(AttackRoutine());
         }
@@ -248,12 +251,14 @@
                 currentSkill = 0;
                 IconSkillManager.Instance.SelectSkill(0);
             }
-            else if (Keyboard.current.digit2Key.isPressed)
+            else if (bisaSkillLanjutan &&
+                    Keyboard.current.digit2Key.isPressed)
             {
                 currentSkill = 1;
                 IconSkillManager.Instance.SelectSkill(1);
             }
-            else if (Keyboard.current.digit3Key.isPressed)
+            else if (bisaSkillLanjutan &&
+                    Keyboard.current.digit3Key.isPressed)
             {
                 currentSkill = 2;
                 IconSkillManager.Instance.SelectSkill(2);

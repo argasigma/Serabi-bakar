@@ -2072,7 +2072,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &144009842
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4774,6 +4774,8 @@ MonoBehaviour:
   playerData: {fileID: 11400000, guid: 792f0c21a42b9924fb397e24618e2863, type: 2}
   maxBullet: 4
   reloadTime: 7
+  bisaAttack: 0
+  bisaSkillLanjutan: 0
 --- !u!114 &582023369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29476,7 +29478,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1558477931
 RectTransform:
   m_ObjectHideFlags: 0
