@@ -7,6 +7,8 @@ using TMPro;
 
 public class CutsceneManager : MonoBehaviour
 {
+    [SerializeField] private GameObject elementUI;
+    [SerializeField] private int uiCutsceneIndex = 1;
     public static CutsceneManager Instance;
 
     public GameObject cutscenePanel;
@@ -123,39 +125,43 @@ public class CutsceneManager : MonoBehaviour
     }
 
     IEnumerator EndCutsceneRoutine()
+{
+    isTransitioning = true;
+
+    if (blinkCoroutine != null)
     {
-        isTransitioning = true;
-
-        if (blinkCoroutine != null)
-        {
-            StopCoroutine(blinkCoroutine);
-            blinkCoroutine = null;
-        }
-
-        yield return StartCoroutine(TextFadeOut());
-        yield return StartCoroutine(FadeOut());
-        yield return new WaitForSeconds(3.5f);
-
-        if (currentCutscene == 2)
-        {
-            SceneManager.LoadScene("MainMenu");
-            yield break;
-        }
-
-        cutscenePanel.SetActive(false);
-
-        yield return StartCoroutine(BlackScreenFadeOut());
-
-        // Memastikan portal hanya menyala jika cutscene yang selesai adalah index 1
-        // (Ubah angka 1 jika index cutscene rumah Anda berbeda)
-        if (firePortal != null && currentCutscene == 1)
-        {
-            firePortal.SetActive(true);
-        }
-
-        GameManager.Instance.currentState = GameState.Playing;
-        isTransitioning = false;
+        StopCoroutine(blinkCoroutine);
+        blinkCoroutine = null;
     }
+
+    yield return StartCoroutine(TextFadeOut());
+    yield return StartCoroutine(FadeOut());
+    yield return new WaitForSeconds(3.5f);
+
+    if (currentCutscene == 2)
+    {
+        SceneManager.LoadScene("MainMenu");
+        yield break;
+    }
+
+    cutscenePanel.SetActive(false);
+
+    yield return StartCoroutine(BlackScreenFadeOut());
+
+    if (firePortal != null && currentCutscene == 1)
+    {
+        firePortal.SetActive(true);
+    }
+
+    GameManager.Instance.currentState = GameState.Playing;
+    isTransitioning = false;
+
+    // Munculkan UI setelah cutscene yang dipilih selesai.
+    if (elementUI != null && currentCutscene == uiCutsceneIndex)
+    {
+        elementUI.SetActive(true);
+    }
+}
 
     IEnumerator StartText()
     {
