@@ -3718,8 +3718,10 @@ MonoBehaviour:
   maxHealth: 100
   healthBarSlider: {fileID: 0}
   moveSpeed: 2
-  chaseRange: 6
+  chaseRange: 10
   attackRange: 4
+  JarakDeteksi: 9
+  radiusPatrol: 3
   fireballPrefab: {fileID: 7458245859152697221, guid: 10e76c1d9493f6c41bc11bb822d7e2a0,
     type: 3}
   firePoint: {fileID: 343437167}

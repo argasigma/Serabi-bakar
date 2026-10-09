@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using System;
 
 public class Boss : MonoBehaviour
 {
@@ -9,11 +10,17 @@ public class Boss : MonoBehaviour
     public UnityEngine.UI.Slider healthBarSlider; // opsional
 
     [Header("Movement / Chase")]
-    public float moveSpeed = 2f;
-    public float chaseRange = 9000f;
-    public float attackRange = 6f;
+    public float moveSpeed;
+    public float chaseRange;
+    public float attackRange;
+    [SerializeField] private float JarakDeteksi;
+    [SerializeField] private float radiusPatrol;
+
+    private Vector2 tujuanPatrol;
+    private Vector2 titikAwal;
     private Transform player;
     private Rigidbody2D rb;
+
 
     [Header("Attack")]
     public GameObject fireballPrefab;
@@ -30,41 +37,65 @@ public class Boss : MonoBehaviour
 
     private bool isDead = false;
     private Collider2D bossCollider;
+    private StateBoss state = StateBoss.IDLE;
 
-    void Start()
+    public static event Action<Boss> OnZombieMati;
+    protected virtual void Start()
     {
-        currentHealth = maxHealth;
         rb = GetComponent<Rigidbody2D>();
         bossCollider = GetComponent<Collider2D>();
-
+        currentHealth = maxHealth;
         GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
-        if (playerObj != null) player = playerObj.transform;
-
+        if (playerObj != null)
+        {
+            player = playerObj.transform;
+        }
         UpdateHealthBar();
     }
 
     void Update()
     {
-        if (isDead || player == null) return;
-
-        float dist = Vector2.Distance(transform.position, player.position);
-
-        if (dist <= attackRange)
+        PeriksaTransisi();
+        
+        switch(state)
         {
-            StopMoving();
-            TryAttack();
-        }
-        else if (dist <= chaseRange)
-        {
-            ChasePlayer();
-        }
-        else
-        {
-            StopMoving();
+            case StateBoss.IDLE: PerilakuIdle(); break;
+            case StateBoss.PATROL: PerilakuPatrol(); break;
+            case StateBoss.CHASE: PerilakuChase(); break;
+            case StateBoss.ATTACK: PerilakuAttack(); break;
         }
     }
 
-    void ChasePlayer()
+    public float JarakKePlayer()
+    {
+        if (player == null) return Mathf.Infinity   ;
+        return Vector2.Distance(transform.position, player.position);
+    }
+
+    void PeriksaTransisi()
+    {
+        float jarak = JarakKePlayer();
+
+        if (jarak <= attackRange)
+        {
+            state = StateBoss.ATTACK;
+        }
+        else if (jarak <= chaseRange)
+        {
+            state = StateBoss.CHASE;
+        }
+        else
+        {
+            state = StateBoss.IDLE;
+        }  
+    }
+
+    void PerilakuIdle()
+    {
+        rb.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY;
+    }
+
+    void PerilakuChase()
     {
         if (player == null) return;
 
@@ -75,16 +106,34 @@ public class Boss : MonoBehaviour
         );
     }
 
-    void StopMoving()
+    void PerilakuPatrol()
     {
-        if (rb != null) rb.linearVelocity = Vector2.zero;
+        transform.position = Vector2.MoveTowards(
+            transform.position,
+            tujuanPatrol,
+            moveSpeed * 0.5f * Time.deltaTime
+        );
+
+        if (Vector2.Distance(transform.position, tujuanPatrol) < 0.1f)
+        {
+            PilihTujuanPatrolBaru();
+        }
     }
 
-    void TryAttack()
+    void PilihTujuanPatrolBaru()
     {
-        if (Time.time - lastAttackTime < attackCooldown) return;
-        lastAttackTime = Time.time;
-        ShootFireball();
+        // DIUBAH: memilih Random milik Unity agar tidak ambigu dengan System.Random.
+        Vector2 acak = UnityEngine.Random.insideUnitCircle * radiusPatrol;
+        tujuanPatrol = titikAwal + acak;
+    }
+
+    void PerilakuAttack()
+    {
+        if (Time.time - lastAttackTime < attackCooldown)
+        {
+            lastAttackTime = Time.time;
+            ShootFireball();
+        }
     }
 
     void ShootFireball()
@@ -133,7 +182,6 @@ public class Boss : MonoBehaviour
         if (isDead) return;
         isDead = true;
 
-        StopMoving();
 
         // drop 1 crystal per boss
         if (crystalPrefab != null)
