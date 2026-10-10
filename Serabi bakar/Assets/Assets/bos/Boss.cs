@@ -13,7 +13,6 @@ public class Boss : MonoBehaviour
     public float moveSpeed;
     public float chaseRange;
     public float attackRange;
-    [SerializeField] private float JarakDeteksi;
     [SerializeField] private float radiusPatrol;
 
     private Vector2 tujuanPatrol;
@@ -79,6 +78,7 @@ public class Boss : MonoBehaviour
         if (jarak <= attackRange)
         {
             state = StateBoss.ATTACK;
+            state = StateBoss.CHASE;
         }
         else if (jarak <= chaseRange)
         {
